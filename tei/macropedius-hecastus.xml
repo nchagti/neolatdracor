@@ -2430,7 +2430,7 @@
                   <l n="890">Quibus imperare assueveram, ut conficere iter</l>
                   <l>Mecum velitis, atque adire iudicem.</l>
                </sp>
-               <sp who="#philocrates #philomates">
+               <sp who="#philocrates #philomathes">
                   <speaker>Phi.</speaker>
                   <l>Quis iste iudex est pater quem nuncupas?</l>
                </sp>
@@ -2438,7 +2438,7 @@
                   <speaker>He.</speaker>
                   <l>Coeli Imperator atque terrae maximus.</l>
                </sp>
-               <sp who="#philocrates #philomates">
+               <sp who="#philocrates #philomathes">
                   <speaker>Phi.</speaker>
                   <l>Horrendus hic, quis audeat eum accedere?</l>
                   <l n="895">Nihilominus quà quóve eundum ad principem?</l>
@@ -2449,7 +2449,7 @@
                   <l>Pro singulis dictis meis &amp; actibus</l>
                   <l part="I">Posthac recipiam praemia.</l>
                </sp>
-               <sp who="#philocrates #philomates">
+               <sp who="#philocrates #philomathes">
                   <speaker>Phi.</speaker>
                   <l part="F">Apage sis pater,</l>
                   <l part="I">Moriturus es?</l>
@@ -2467,7 +2467,7 @@
                   <l part="F">hoc fili die.</l>
                </sp>
                <pb n="fol. e3v"/>
-               <sp who="#philocrates #philomates">
+               <sp who="#philocrates #philomathes">
                   <speaker>Phi.</speaker>
                   <l n="900" part="I">Qui scis pater?</l>
                </sp>
@@ -2865,7 +2865,7 @@
                   <l>Iam more turturis relicta compari</l>
                   <l part="I">Vidua sedebo in aedibus.</l>
                </sp>
-               <sp who="#philocrates #philomates">
+               <sp who="#philocrates #philomathes">
                   <speaker>Fil.</speaker>
                   <l part="F">Vale pater</l>
                   <l>Pijssime. an sic nos relinques orphanos?</l>
@@ -4634,11 +4634,11 @@
                   <pb n="fol. h1r"/>
                   <l>Mille aureis, &amp; has redimere lachrymas.</l>
                </sp>
-               <sp who="#philocrates #philomates">
+               <sp who="#philocrates #philomathes">
                   <speaker>Phil.</speaker>
                   <l n="1890">Dulcis mihi affectus patris lachrymas ciet.</l>
                </sp>
-               <sp who="#philocrates #philomates">
+               <sp who="#philocrates #philomathes">
                   <speaker>Phil.</speaker>
                   <l>Quid ni excitet? totus quidem videor mihi</l>
                   <l part="I">In lachrimas resolvier.</l>
@@ -4815,7 +4815,7 @@
                   <l>Qui post peracta scelera redeunt ad Deum,</l>
                   <l part="I">Per poenitentiam.</l>
                </sp>
-               <sp who="#philocrates #philomates">
+               <sp who="#philocrates #philomathes">
                   <speaker>Lib.</speaker>
                   <l part="F">Ergo post furta &amp; stupra</l>
                   <l n="1980">Sperabimus vitam beatam cum Dijs?</l>
@@ -4852,7 +4852,7 @@
                   <l>Sed lachrymae, confessio, ieiunia,</l>
                   <l>Et vitae honestae melior institutio.</l>
                </sp>
-               <sp who="#philocrates #philomates">
+               <sp who="#philocrates #philomathes">
                   <speaker>Phil.</speaker>
                   <l n="1995">Recte mones vir omnium pijssime.</l>
                   <l>Linquamus omnem hunc apparatum splendidum,</l>
@@ -4872,7 +4872,7 @@
                   <l n="2010" part="I">Patri paremus mortuo.</l>
                </sp>
                <sp
-                  who="#hieronymus #epicuria #philocrates #philomates #syngenes #cognatus_primus #cognatus_secundus #daemones #amicus_primus #amicus_secundus">
+                  who="#hieronymus #epicuria #philocrates #philomathes #syngenes #cognatus_primus #cognatus_secundus #daemones #amicus_primus #amicus_secundus">
                   <speaker>Gr.</speaker>
                   <l part="F">Optime mones.</l>
                   <l>Congratulemur mortuo, &amp; domino Deo</l>
@@ -4883,7 +4883,7 @@
                   <speaker>Hie.</speaker>
                   <l part="F">Sic expedit.</l>
                </sp>
-               <sp who="#philocrates #philomates">
+               <sp who="#philocrates #philomathes">
                   <speaker>Phil.</speaker>
                   <l>Assentior. Procede Detre ex aedibus</l>
                   <l>Tantisper huc, dum quod volo ex te scisciter.</l>
@@ -4898,7 +4898,7 @@
                   <l>Et Daetrus hic, iam sciscitare quod velis</l>
                   <l>Breviter, quod haud abesse licet opsonijs.</l>
                </sp>
-               <sp who="#philocrates #philomates">
+               <sp who="#philocrates #philomathes">
                   <speaker>Phil.</speaker>
                   <l>Quid? adhucne plene cocta sunt opsonia?</l>
                </sp>
@@ -4907,7 +4907,7 @@
                   <l>Iam cocta sunt, verubusque detrahenda sunt.</l>
                   <l n="2020">Iube ingredi cito quos velis accumbere.</l>
                </sp>
-               <sp who="#philocrates #philomates">
+               <sp who="#philocrates #philomathes">
                   <speaker>Phil.</speaker>
                   <l>Iubebo. Abi, fac singula expedita sint.</l>
                </sp>
@@ -4915,7 +4915,7 @@
                   <speaker>Daet.</speaker>
                   <l part="I">Curabitur.</l>
                </sp>
-               <sp who="#philocrates #philomates">
+               <sp who="#philocrates #philomathes">
                   <speaker>Phil.</speaker>
                   <l part="F">Tu Oeconome paululum foris</l>
                   <l>Morabere, ut dicas vale, spectantibus.</l>
@@ -4924,7 +4924,7 @@
                   <speaker>Oec.</speaker>
                   <l part="I">Curabitur.</l>
                </sp>
-               <sp who="#philocrates #philomates">
+               <sp who="#philocrates #philomathes">
                   <speaker>Phil.</speaker>
                   <l part="F">Cognati &amp; alij amiculi,</l>
                   <l n="2025">Quos mane pater ad vesperum convivium</l>
@@ -4933,7 +4933,7 @@
                   <l>Frugaliter non absque honesto gaudio</l>
                </sp>
                <sp
-                  who="#hieronymus #epicuria #philocrates #philomates #syngenes #cognatus_primus #cognatus_secundus #daemones #amicus_primus #amicus_secundus">
+                  who="#hieronymus #epicuria #philocrates #philomathes #syngenes #cognatus_primus #cognatus_secundus #daemones #amicus_primus #amicus_secundus">
                   <speaker>Gr.</speaker>
                   <l part="I">Sequimur, praei.</l>
                </sp>
