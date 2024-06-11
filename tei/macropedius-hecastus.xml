@@ -77,46 +77,46 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="prologus" sex="MALE" type="prologus">
+               <person xml:id="prologus" sex="MALE" role="prologus">
                   <persName>Prologus</persName>
                </person>
-               <personGrp xml:id="chorus" sex="UNKNOWN" type="chorus">
+               <personGrp xml:id="chorus" sex="UNKNOWN" role="chorus">
                   <persName>Chorus</persName>
                </personGrp>
-               <person xml:id="hecastus" sex="MALE" type="maritus">
+               <person xml:id="hecastus" sex="MALE" role="maritus">
                   <persName>Hecastus</persName>
                </person>
-               <person xml:id="epicuria" sex="FEMALE" type="uxor">
+               <person xml:id="epicuria" sex="FEMALE" role="uxor">
                   <persName>Epicuria</persName>
                </person>
-               <person xml:id="philocrates" sex="MALE" type="filius">
+               <person xml:id="philocrates" sex="MALE" role="filius">
                   <persName>Philocrates</persName>
                </person>
-               <person xml:id="philomathes" sex="MALE" type="filius">
+               <person xml:id="philomathes" sex="MALE" role="filius">
                   <persName>Philomathes</persName>
                </person>
-               <person xml:id="philoponus" sex="MALE" type="servus">
+               <person xml:id="philoponus" sex="MALE" role="servus">
                   <persName>Philoponus/servus/famulus</persName>
                </person>
-               <person xml:id="panocnus" sex="MALE" type="servus">
+               <person xml:id="panocnus" sex="MALE" role="servus">
                   <persName>Panocnus/servus/famulus</persName>
                </person>
-               <person xml:id="oeconomus" sex="MALE" type="libertus">
+               <person xml:id="oeconomus" sex="MALE" role="libertus">
                   <persName>Oeconomus</persName>
                </person>
-               <person xml:id="daetrus" sex="MALE" type="coquus">
+               <person xml:id="daetrus" sex="MALE" role="coquus">
                   <persName>Daetrus</persName>
                </person>
-               <person xml:id="ancilla_a" sex="FEMALE" type="ancilla">
+               <person xml:id="ancilla_a" sex="FEMALE" role="ancilla">
                   <persName>ancilla a/puella</persName>
                </person>
-               <person xml:id="ancilla_b" sex="FEMALE" type="ancilla">
+               <person xml:id="ancilla_b" sex="FEMALE" role="ancilla">
                   <persName>ancilla b/puella</persName>
                </person>
-               <person xml:id="nomodidascalus" sex="MALE" type="legatus">
+               <person xml:id="nomodidascalus" sex="MALE" role="legatus">
                   <persName>Nomodidascalus</persName>
                </person>
-               <person xml:id="puer_legati" sex="MALE" type="puer">
+               <person xml:id="puer_legati" sex="MALE" role="puer">
                   <persName>puer legati/puer</persName>
                </person>
                <person xml:id="daemones" sex="MALE">
@@ -146,7 +146,7 @@
                <person xml:id="acolytus" sex="MALE">
                   <persName>Acolytus/Acolitus</persName>
                </person>
-               <person xml:id="hieronymus" sex="MALE" type="pastor">
+               <person xml:id="hieronymus" sex="MALE" role="pastor">
                   <persName>Hieronymus/sacerdos</persName>
                </person>
                <person xml:id="virtus" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q157811">
@@ -158,7 +158,7 @@
                <person xml:id="plutus" sex="MALE" ana="https://www.wikidata.org/wiki/Q200535">
                   <persName>Plutus</persName>
                </person>
-               <personGrp xml:id="grex" sex="UNKNOWN" type="grex">
+               <personGrp xml:id="grex" sex="UNKNOWN" role="grex">
                   <name>grex</name>
                </personGrp>
             </listPerson>
@@ -205,7 +205,7 @@
                </titlePart>
             </docTitle>
             <epigraph>
-               <gap reason="figure">[Vignet: Superantur ingenio vires]</gap>
+               <gap reason="figure"></gap>
             </epigraph>
             <docImprint>
                <pubPlace>ULTRAIECTI.</pubPlace>
@@ -502,7 +502,7 @@
          <div n="chorus" type="scene">
             <head>CHORUS.</head>
             <stage>Versu Sapphico.</stage>
-            <gap reason="figure">[muziekbalken]</gap>
+            <gap reason="figure"></gap>
             <pb n="fol. b6v"/>
             <sp who="#chorus">
                <l>FAede peccator, resipisce tandem,</l>
@@ -998,7 +998,7 @@
                <head>CHORUS.</head>
                <stage>Iambici dimetri.</stage>
                <stage>Ex capite secundo Sapientiae Salomonis.</stage>
-               <gap reason="figure">[muziekbalken]</gap>
+               <gap reason="figure"></gap>
                <sp who="#chorus">
                   <l>NIhil sodales tandem erit</l>
                   <l>Caro nostra quam extinctus cinis,</l>
@@ -2115,7 +2115,7 @@
                <head>CHORUS.</head>
                <stage>Dimetri.</stage>
                <stage>Ex Ecclesiastico, Psalmis &amp; Apocalypsi.</stage>
-               <gap reason="figure">[muziekbalken]</gap>
+               <gap reason="figure"></gap>
                <sp who="#chorus">
                   <l>O Mors, quàm amara est memoria</l>
                   <l>Tui, viro sano, cui</l>
@@ -2814,7 +2814,7 @@
             <div n="8" type="scene">
                <head>CHORUS.</head>
                <stage>Trochaici dimetri.</stage>
-               <gap reason="figure">[muziekbalken]</gap>
+               <gap reason="figure"></gap>
                <sp who="#chorus">
                   <l n="1040">DEfluentis instar undae</l>
                   <l>Universi cum dolore</l>
@@ -3186,7 +3186,7 @@
             <div n="5" type="scene">
                <head>CHORUS.</head>
                <stage>Carmine trochaico.</stage>
-               <gap reason="figure">[muziekbalken]</gap>
+               <gap reason="figure"></gap>
                <sp who="#chorus">
                   <l>MOrte iustus si occupetur,</l>
                   <l n="1210">Neutiquam tristabitur.</l>
