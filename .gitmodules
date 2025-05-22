@@ -1,0 +1,3 @@
+[submodule "plays-encoding-framework"]
+	path = plays-encoding-framework
+	url = https://github.com/daliboris/plays-encoding-framework.git
