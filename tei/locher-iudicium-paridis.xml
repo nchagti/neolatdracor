@@ -6,7 +6,11 @@
          <titleStmt>
             <title type="main">Iudicium Paridis</title>
             <author>
-               <persName>
+               <persName xml:lang="lat">
+                  <forename>Iacobus</forename>
+                  <surname>Locher</surname>
+               </persName>
+               <persName xml:lang="eng">
                   <forename>Jakob</forename>
                   <surname>Locher</surname>
                </persName>
@@ -45,12 +49,16 @@
          <sourceDesc>
             <bibl type="digitalSource">
                <name>TransLatin Project</name>
+               <idno type="URL">https://translatin.nl/</idno>
                <ref target="https://github.com/HuygensING/translatin">TransLatin GitHub
                   Repository</ref>
-               <bibl type="originalSource">Jakob Locher: Iudicium Paridis ludi cuiusdam instar
-                  carmine lucule[n]ter descriptum, ac nuper exactiori cura a superfluis, &amp;
-                  erroribus antea co[m]missis prorsus emendatum. Secutus uero est autor Fulgentii
-                  Mythologia[m]. Ed. by Ulrich Rhaetus Faber. Vienna: Werlen [1523/1524].
+               <bibl type="originalSource"><author>Jakob Locher</author> : <title>Iacobi Philomusi
+                     Locher oratoris et poetae praeclari,Iudicium Paridis ludi cuiusdam instar
+                     carmine lucule[n]ter descriptum, ac nuper exactiori cura a superfluis, &amp;
+                     erroribus antea co[m]missis prorsus emendatum. Secutus uero est autor Fulgentii
+                     Mythologia[m]</title> . Ed. by <editor>Ulrich Rhaetus Faber</editor> .
+                     <pubPlace>Vienna</pubPlace> : <publisher>Werlen</publisher>
+                  <date>[1523/1524]</date>.
                   https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00004866-9.</bibl>
             </bibl>
          </sourceDesc>

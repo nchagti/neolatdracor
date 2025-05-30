@@ -5,9 +5,13 @@
          <titleStmt>
             <title type="main">Hecastus</title>
             <author>
-               <persName>
+               <persName xml:lang="lat">
                   <forename>Georgius</forename>
                   <surname>Macropedius</surname>
+               </persName>
+               <persName xml:lang="nl">
+                  <forename>Joris</forename>
+                  <surname>van Lanckvelt</surname>
                </persName>
                <idno type="wikidata">Q710836</idno>
                <idno type="pnd">860694216</idno>
