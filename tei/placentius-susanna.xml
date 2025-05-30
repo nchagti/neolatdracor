@@ -81,7 +81,7 @@
                <person sex="MALE" role="maritus" xml:id="ioachimus">
                   <persName>Ioachimus</persName>
                </person>
-               <person sex="FEMALE" role="" xml:id="susanna">
+               <person sex="FEMALE" xml:id="susanna">
                   <persName>Susanna</persName>
                </person>
                <person sex="FEMALE" role="pedisequa" xml:id="maura">
