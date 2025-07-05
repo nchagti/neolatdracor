@@ -22,7 +22,7 @@ status: dormant
 website: [JesDraCor](https://github.com/alexander-winkler/jesdracor)
 ### Macropedius Drama Corpus
 editor(s): Julia Jennifer Beine (Ruhr University Bochum)  
-encoders: Leon Fabian Gleser, Steffen Gutbier, Joshua Mährmann, Paula van Bonn, Rabea Klara Sülz, Carina Christensen, Kassandra Marie Stangel, Christina Charalampidou (all Ruhr University Bochum); Daina-Sophia Münch (Free University Berlin)  
+encoders: Leon Fabian Gleser, Steffen Gutbier, Joshua Mährmann, Paula van Bonn, Rabea Klara Sülz, Carina Christensen, Kassandra Marie Stangel, Christina Charalampidou (all Ruhr University Bochum); Daina-Sophia Münch (Freie Universität Berlin)  
 text selection in alphabetical order: Adamus (1552), Aluta (1553), Andrisca (1553), Asotus (1552), Bassarus (1553), Hecastus (1552), Hypomone seu patientia (1554), Iesus scholasticus (1556), Iosephus (1553), Lazarus mendicus (1552), Petriscus (1553), Rebelles (1553)  
 number of texts: 12  
 status: work in progress  
