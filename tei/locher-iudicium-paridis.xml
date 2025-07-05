@@ -52,10 +52,10 @@
                <idno type="URL">https://translatin.nl/</idno>
                <ref target="https://github.com/HuygensING/translatin">TransLatin GitHub
                   Repository</ref>
-               <bibl type="originalSource"><author>Jakob Locher</author> : <title>Iacobi Philomusi
-                     Locher oratoris et poetae praeclari,Iudicium Paridis ludi cuiusdam instar
-                     carmine lucule[n]ter descriptum, ac nuper exactiori cura a superfluis, &amp;
-                     erroribus antea co[m]missis prorsus emendatum. Secutus uero est autor Fulgentii
+               <bibl type="originalSource"><title>Iacobi Philomusi Locher oratoris et poetae
+                     praeclari,Iudicium Paridis ludi cuiusdam instar carmine lucule[n]ter
+                     descriptum, ac nuper exactiori cura a superfluis, &amp; erroribus antea
+                     co[m]missis prorsus emendatum. Secutus uero est autor Fulgentii
                      Mythologia[m]</title> . Ed. by <editor>Ulrich Rhaetus Faber</editor> .
                      <pubPlace>Vienna</pubPlace> : <publisher>Werlen</publisher>
                   <date>[1523/1524]</date>.
@@ -156,10 +156,7 @@
    </teiHeader>
    <standOff>
       <listEvent>
-         <event type="print" when="1502">
-            <desc/>
-         </event>
-         <event type="premiere" when="1502">
+         <event type="print" notBefore="1523" notAfter="1524">
             <desc/>
          </event>
       </listEvent>
@@ -169,10 +166,11 @@
          <titlePage>
             <docTitle>
                <titlePart>
-                  <lb/>IACOBI PHILO <lb/>MVSI LOCHER ORATORIS ET <lb/>Poetae praeclari, Iudicium
-                  Paridis ludi <lb/>cuiusdam instar carmine luculenter de/ <lb/>scriptum, ac nuper
-                  exactiori cura a <lb/>superfluis, &amp; erroribus antea com/ <lb/>missis prorsus
-                  emendatum. <lb/>Secutus uero est autor Ful <lb/>gentii Mythologiam.</titlePart>
+                  <lb/>IACOBI PHILO<lb break="no"/>MVSI LOCHER ORATORIS ET <lb/>Poetae praeclari,
+                  Iudicium Paridis ludi <lb/>cuiusdam instar carmine luculenter de<lb break="no"
+                  />scriptum, ac nuper exactiori cura a <lb/>superfluis, &amp; erroribus antea
+                     com<lb break="no"/>missis prorsus emendatum. <lb/>Secutus uero est autor Ful<lb
+                     break="no"/>gentii Mythologiam.</titlePart>
             </docTitle>
             <argument>
                <head>Huldrichus Fabri Lectoribus quasi argumentum libelli complectens
