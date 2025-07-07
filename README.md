@@ -96,117 +96,117 @@ progress.
 
 | Author | Title | Printed | Written | Project | Current formats | TEI |
 | ------ | ----- | ------- | ------- | ------- | --------------- | --- |
-| Adamus Besnecker [Q112501998](https://www.wikidata.org/wiki/Q112501998) | Amicitia usque ad aras necis non interrupta |  | 1720 | Theatrum Neolatinum | .pdf |  |
-| Adrianus Roulerius [Q134470779](https://www.wikidata.org/wiki/Q134470779) | Stuarta tragoedia | 1593 |  | TransLatin | .docx, tei (basic) | roulerius-stuarta tragoedia |
-| Andreas Rochotius [Q55134115](https://www.wikidata.org/wiki/Q55134115) | Gedeon, comaedia nova, cum primis ad usum scholasticum et conditionem temporum accommodata | 1607 | 1607 | Theatrum Neolatinum | text, tei |  |
-| Andreas Rochotius [Q55134115](https://www.wikidata.org/wiki/Q55134115) | Iosephiados comaedia ex Genesis lib. cap. 39. 40. 41. | not before 1606, not after 1607 | 1607 | Theatrum Neolatinum | text, tei |  |
-| Andreus Anſchitz | Christus Patiens Rex Dolorum |  | 1655 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript) |  |
-| Andreus Anſchitz | S. Pancharius Martyr |  | 1655 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript) |  |
-| Anonymus | Amor parentum. Sive Lydericus |  | 1670 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript; printed perioche) |  |
-| Anonymus | Applausus Scenico-Theatralis |  | 1649 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript) |  |
-| Anonymus | Aueniris Regis Indiae Comedia (S. Iosaphat) |  | not before 1628, not after 1673 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript) |  |
-| Anonymus | Corona regia pietati In Parentem mortuum delata |  | 1654 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript) |  |
-| Anonymus | Divi Francisci Xaverij Indorum Apostoli Apud Regem Bungi cum Bonziorum Principe certamen |  | 1653 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript) |  |
-| Anonymus | Duellum Solem inter aestuantem & Amorem Eucharisticum Ardentem in Philippo II Hispaniarum & Indiarum &c. Rege |  | 1659 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript) |  |
-| Anonymus | Elias Jezabellem fugiens, et Pane subcinericio refectus |  | 1654 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript) |  |
-| Anonymus | Exercitatio Poetica. Siue Pallas Serenissimo Philosopho Leopoldo Primo Ob Vngariae Coronam Arte et Marte Applaudens |  | 1655 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript) |  |
-| Anonymus | Genethliacon Eucharisticum |  | 1659 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript) |  |
-| Anonymus | Ionathas In montibus Gelböe telis confossus & à Davide amicorum unico defletus. Id est Christus Jesus Cœli Terraeque Delicium in Caluariae cliuo crucifixus et deploratus |  | 1659 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript) |  |
-| Anonymus | Lapis angularis. Id est, Basis Perfecta Carniae, Episcopij Labacensis, et Principatûs, à Virtutibus Erecta, ab Artibus Expolita, à Coelo Coronata |  | 1684 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript; printed perioche) |  |
-| Anonymus | Leobardus |  | 1654 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript) |  |
-| Anonymus | Manus D. Nicolai Myrensis Episcopi zelo fidei in Arii haeresim armata |  | 1642 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript; printed perioche) |  |
-| Anonymus | Marius, et Martha, coniuges cum filiis audiface, et Abachum e Perside principes tragoedia |  | 1653 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript; printed perioche) |  |
-| Anonymus | Maximilianus Austriacus. Seu Refugium ad Orbem Eucharisticum |  | 1656 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript) |  |
-| Anonymus | Palinodia, Quam rebelles Superioris Austriae Ruricolae post longiorem Suam insolentiam debellati cecinerunt |  | 1659 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript) |  |
-| Anonymus | Parabola Filij Regis pro Seruo Laesae Maiestatis morientis. Id est Christus Pro Peccatore Crucifixus |  | 1654 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript) |  |
-| Anonymus | sine titulo |  | 1649 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript) |  |
-| Anonymus | Spes Dilata Non Oblata |  | 1723 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript) |  |
-| Anonymus | Susannae iudicium |  | 1646 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript; printed perioche) |  |
-| Anonymus | Theodosius Iunior Princeps Sapiens, ac Felix |  | 1658 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript) |  |
-| Anonymus | Tyrannis In Herode repraesentata Ludis Saturnalibus |  | 1656 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript) |  |
-| Antonius Jenisch [Q94938160](https://www.wikidata.org/wiki/Q94938160) | Mysterium a seculis tacitum lingva incorrupta sacramentalis merces silentii |  | 1732 | Theatrum Neolatinum | .pdf |  |
-| Antonius Kaliwoda [Q95556366](https://www.wikidata.org/wiki/Q95556366) | Nomen proprium Floris Nazaraei |  | 1740 | Theatrum Neolatinum | .pdf |  |
-| Antonius Machek [Q95094516](https://www.wikidata.org/wiki/Q95094516) | Angelus ad aras D. Joannes Nepomucenus |  | 1729 | Theatrum Neolatinum | .pdf, tei |  |
-| Antonius Machek [Q95094516](https://www.wikidata.org/wiki/Q95094516) | Vindex duliae Divus Joannes Nepomucenus |  | 1731 | Theatrum Neolatinum | .pdf |  |
-| Aulus Gerardus Dalanthus | Dido. Tragoedia nova | 1559 |  | TransLatin | .docx, tei (basic) | dalanthus-dido-tragoedia-nova |
-| Carolus Kolczawa [Q43079129](https://www.wikidata.org/wiki/Q43079129) | Veritas prostrata et erecta, S. Joannes Baptista | 1716 | not after 1714 | Theatrum Neolatinum | text, tei |  |
-| Christianus Ischyrius | Homulus | 1537 |  | TransLatin | .docx, tei (basic) | ischyrius-homulus |
-| Christophorus Stymmelius [Q1085953](https://www.wikidata.org/wiki/Q1085953) | De Immolatione Isaac | 1579 |  | TransLatin | .docx, tei (basic) | stymmelius-de-immolatione-Isaac |
-| Christophorus Stymmelius [Q1085953](https://www.wikidata.org/wiki/Q1085953) | Studentes, comoedia de vita studiosorum | 1550 |  | TransLatin | .docx, tei (basic) | stymmelius-studentes-comoedia-de-vita-studiosorum |
-| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Ananias | 1618 |  | TransLatin | .docx, tei (basic) | schonaeus-ananias |
-| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Baptistes. Sacra et nova tragico comoedia | 1618 |  | TransLatin | .docx, tei (basic) | schonaeus-baptistes-sacra-et-nova-tragico-comoedia |
-| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Cunae. Fabula ludicra | 1618 |  | TransLatin | .docx, tei (basic) | schonaeus-cunae-fabula-ludicra |
-| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Daniel | 1618 |  | TransLatin | .docx, tei (basic) | schonaeus-daniel |
-| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Dyscoli. Comoedia nova | 1618 |  | TransLatin | .docx, tei (basic) | schonaeus-dyscoli-comoedia-nova |
-| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Fabula comica. In commendationem aedificij | 1607 |  | TransLatin | .docx, tei (basic) | schonaeus-fabula-comica-in-commendationem-aedificij |
-| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Iosephus | 1614 |  | TransLatin | .docx, tei (basic) | schonaeus-iosephus |
-| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Iuditha | 1614 |  | TransLatin | .docx, tei (basic) | schonaeus-iuditha |
-| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Naaman | 1614 |  | TransLatin | .docx, tei (basic) | schonaeus-naaman |
-| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Nehemias | 1614 |  | TransLatin | .docx, tei (basic) | schonaeus-nehemias |
-| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Pentecoste | 1618 |  | TransLatin | .docx, tei (basic) | schonaeus-pentecoste |
-| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Pseudostratiotae. Fabula ludicra | 1618 |  | TransLatin | .docx, tei (basic) | schonaeus-pseudostratiotae-fabula-ludicra |
-| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Saulus | 1614 |  | TransLatin | .docx, tei (basic) | schonaeus-saulus |
-| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Susanna | 1618 |  | TransLatin | .docx, tei (basic) | schonaeus-susanna |
-| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Tobaeus | 1614 |  | TransLatin | .docx, tei (basic) | schonaeus-tobaeus |
-| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Triumphus Christi | 1618 |  | TransLatin | .docx, tei (basic) | schonaeus-triumphus-christi |
-| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Typhlus | 1618 |  | TransLatin | .docx, tei (basic) | schonaeus-typhlus |
-| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Vitulus. Fabula ludicra | 1618 |  | TransLatin | .docx, tei (basic) | schonaeus-vitulus-fabula-ludicra |
-| Eligius Eucharius | Grisellis | 1519 |  | TransLatin | .docx, tei (basic) | eucharius-grisellis |
-| Eusebius Candidus | Plausus luctificae Mortis | 1534 |  | TransLatin | .docx, tei (basic) | plausus-luctificae-mortis |
-| Franciscus Eucolus [Q107696053](https://www.wikidata.org/wiki/Q107696053) | Comoedia nova ac sacra, cui titulus, Soter gloriosus | 1563 |  | TransLatin | .docx, tei (basic) | eucolus-comoedia-nova-ac-sacra-cui-titulus-soter-gloriosus |
-| Georgius Dingenauer [Q125401769](https://www.wikidata.org/wiki/Q125401769) | Tobias Iunior | 1616 | not before 1615, not after 1616 | Theatrum Neolatinum | text, tei |  |
-| Georgius Macropedius [Q710836](https://www.wikidata.org/wiki/Q710836) | Adamus. Fabula Christianae pietatis plaena | 1552 |  | Macropedius Drama Corpus | text | macropedius- |
-| Georgius Macropedius [Q710836](https://www.wikidata.org/wiki/Q710836) | Aluta. Fabula admodum iucunda et lepida | 1553 |  | Macropedius Drama Corpus | text | macropedius- |
-| Georgius Macropedius [Q710836](https://www.wikidata.org/wiki/Q710836) | Andrisca. Fabula lepidissima | 1553 |  | Macropedius Drama Corpus | text | macropedius- |
-| Georgius Macropedius [Q710836](https://www.wikidata.org/wiki/Q710836) | Asotus evangelicus | 1552 |  | Macropedius Drama Corpus | text | macropedius- |
-| Georgius Macropedius [Q710836](https://www.wikidata.org/wiki/Q710836) | Bassarus | 1553 |  | Macropedius Drama Corpus | text | macropedius- |
-| Georgius Macropedius [Q710836](https://www.wikidata.org/wiki/Q710836) | Hecastus. Fabula non minus pia quam iucunda | 1552 |  | Macropedius Drama Corpus | tei, published | [macropedius-hecastus.xml](tei/macropedius-hecastus.xml) |
-| Georgius Macropedius [Q710836](https://www.wikidata.org/wiki/Q710836) | Hypomone, seu patientia | 1554 |  | Macropedius Drama Corpus | text | macropedius- |
-| Georgius Macropedius [Q710836](https://www.wikidata.org/wiki/Q710836) | Iesus scholasticus | 1556 |  | Macropedius Drama Corpus | text | macropedius- |
-| Georgius Macropedius [Q710836](https://www.wikidata.org/wiki/Q710836) | Iosephus. Fabula sacra, pietatis et pudicitiae cultoribus perlegenda | 1553 |  | Macropedius Drama Corpus | text | macropedius- |
-| Georgius Macropedius [Q710836](https://www.wikidata.org/wiki/Q710836) | Lazarus mendicus | 1552 |  | Macropedius Drama Corpus | text | macropedius- |
-| Georgius Macropedius [Q710836](https://www.wikidata.org/wiki/Q710836) | Petriscus. Fabula iucundissima | 1553 |  | Macropedius Drama Corpus | text | macropedius- |
-| Georgius Macropedius [Q710836](https://www.wikidata.org/wiki/Q710836) | Rebelles. Fabula longe iucundissima | 1553 |  | Macropedius Drama Corpus | text, half in tei | macropedius- |
-| Gregorius Holonius | Catharina | 1556 |  | TransLatin | .docx, tei (basic) | holonius-catharina |
+| Adamus Besnecker [Q112501998](https://www.wikidata.org/wiki/Q112501998) | Amicitia usque ad aras necis non interrupta |  | 1720 | [Theatrum Neolatinum](#theatrum-neolatinum) | .pdf |  |
+| Adrianus Roulerius [Q134470779](https://www.wikidata.org/wiki/Q134470779) | Stuarta tragoedia | 1593 |  | [TransLatin](#translatin) | .docx, tei (basic) | roulerius-stuarta tragoedia |
+| Andreas Rochotius [Q55134115](https://www.wikidata.org/wiki/Q55134115) | Gedeon, comaedia nova, cum primis ad usum scholasticum et conditionem temporum accommodata | 1607 | 1607 | [Theatrum Neolatinum](#theatrum-neolatinum) | text, tei |  |
+| Andreas Rochotius [Q55134115](https://www.wikidata.org/wiki/Q55134115) | Iosephiados comaedia ex Genesis lib. cap. 39. 40. 41. | not before 1606, not after 1607 | 1607 | [Theatrum Neolatinum](#theatrum-neolatinum) | text, tei |  |
+| Andreus Anſchitz | Christus Patiens Rex Dolorum |  | 1655 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript) |  |
+| Andreus Anſchitz | S. Pancharius Martyr |  | 1655 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript) |  |
+| Anonymus | Amor parentum. Sive Lydericus |  | 1670 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript; printed perioche) |  |
+| Anonymus | Applausus Scenico-Theatralis |  | 1649 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript) |  |
+| Anonymus | Aueniris Regis Indiae Comedia (S. Iosaphat) |  | not before 1628, not after 1673 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript) |  |
+| Anonymus | Corona regia pietati In Parentem mortuum delata |  | 1654 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript) |  |
+| Anonymus | Divi Francisci Xaverij Indorum Apostoli Apud Regem Bungi cum Bonziorum Principe certamen |  | 1653 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript) |  |
+| Anonymus | Duellum Solem inter aestuantem & Amorem Eucharisticum Ardentem in Philippo II Hispaniarum & Indiarum &c. Rege |  | 1659 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript) |  |
+| Anonymus | Elias Jezabellem fugiens, et Pane subcinericio refectus |  | 1654 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript) |  |
+| Anonymus | Exercitatio Poetica. Siue Pallas Serenissimo Philosopho Leopoldo Primo Ob Vngariae Coronam Arte et Marte Applaudens |  | 1655 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript) |  |
+| Anonymus | Genethliacon Eucharisticum |  | 1659 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript) |  |
+| Anonymus | Ionathas In montibus Gelböe telis confossus & à Davide amicorum unico defletus. Id est Christus Jesus Cœli Terraeque Delicium in Caluariae cliuo crucifixus et deploratus |  | 1659 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript) |  |
+| Anonymus | Lapis angularis. Id est, Basis Perfecta Carniae, Episcopij Labacensis, et Principatûs, à Virtutibus Erecta, ab Artibus Expolita, à Coelo Coronata |  | 1684 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript; printed perioche) |  |
+| Anonymus | Leobardus |  | 1654 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript) |  |
+| Anonymus | Manus D. Nicolai Myrensis Episcopi zelo fidei in Arii haeresim armata |  | 1642 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript; printed perioche) |  |
+| Anonymus | Marius, et Martha, coniuges cum filiis audiface, et Abachum e Perside principes tragoedia |  | 1653 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript; printed perioche) |  |
+| Anonymus | Maximilianus Austriacus. Seu Refugium ad Orbem Eucharisticum |  | 1656 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript) |  |
+| Anonymus | Palinodia, Quam rebelles Superioris Austriae Ruricolae post longiorem Suam insolentiam debellati cecinerunt |  | 1659 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript) |  |
+| Anonymus | Parabola Filij Regis pro Seruo Laesae Maiestatis morientis. Id est Christus Pro Peccatore Crucifixus |  | 1654 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript) |  |
+| Anonymus | sine titulo |  | 1649 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript) |  |
+| Anonymus | Spes Dilata Non Oblata |  | 1723 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript) |  |
+| Anonymus | Susannae iudicium |  | 1646 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript; printed perioche) |  |
+| Anonymus | Theodosius Iunior Princeps Sapiens, ac Felix |  | 1658 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript) |  |
+| Anonymus | Tyrannis In Herode repraesentata Ludis Saturnalibus |  | 1656 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript) |  |
+| Antonius Jenisch [Q94938160](https://www.wikidata.org/wiki/Q94938160) | Mysterium a seculis tacitum lingva incorrupta sacramentalis merces silentii |  | 1732 | [Theatrum Neolatinum](#theatrum-neolatinum) | .pdf |  |
+| Antonius Kaliwoda [Q95556366](https://www.wikidata.org/wiki/Q95556366) | Nomen proprium Floris Nazaraei |  | 1740 | [Theatrum Neolatinum](#theatrum-neolatinum) | .pdf |  |
+| Antonius Machek [Q95094516](https://www.wikidata.org/wiki/Q95094516) | Angelus ad aras D. Joannes Nepomucenus |  | 1729 | [Theatrum Neolatinum](#theatrum-neolatinum) | .pdf, tei |  |
+| Antonius Machek [Q95094516](https://www.wikidata.org/wiki/Q95094516) | Vindex duliae Divus Joannes Nepomucenus |  | 1731 | [Theatrum Neolatinum](#theatrum-neolatinum) | .pdf |  |
+| Aulus Gerardus Dalanthus | Dido. Tragoedia nova | 1559 |  | [TransLatin](#translatin) | .docx, tei (basic) | dalanthus-dido-tragoedia-nova |
+| Carolus Kolczawa [Q43079129](https://www.wikidata.org/wiki/Q43079129) | Veritas prostrata et erecta, S. Joannes Baptista | 1716 | not after 1714 | [Theatrum Neolatinum](#theatrum-neolatinum) | text, tei |  |
+| Christianus Ischyrius | Homulus | 1537 |  | [TransLatin](#translatin) | .docx, tei (basic) | ischyrius-homulus |
+| Christophorus Stymmelius [Q1085953](https://www.wikidata.org/wiki/Q1085953) | De Immolatione Isaac | 1579 |  | [TransLatin](#translatin) | .docx, tei (basic) | stymmelius-de-immolatione-Isaac |
+| Christophorus Stymmelius [Q1085953](https://www.wikidata.org/wiki/Q1085953) | Studentes, comoedia de vita studiosorum | 1550 |  | [TransLatin](#translatin) | .docx, tei (basic) | stymmelius-studentes-comoedia-de-vita-studiosorum |
+| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Ananias | 1618 |  | [TransLatin](#translatin) | .docx, tei (basic) | schonaeus-ananias |
+| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Baptistes. Sacra et nova tragico comoedia | 1618 |  | [TransLatin](#translatin) | .docx, tei (basic) | schonaeus-baptistes-sacra-et-nova-tragico-comoedia |
+| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Cunae. Fabula ludicra | 1618 |  | [TransLatin](#translatin) | .docx, tei (basic) | schonaeus-cunae-fabula-ludicra |
+| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Daniel | 1618 |  | [TransLatin](#translatin) | .docx, tei (basic) | schonaeus-daniel |
+| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Dyscoli. Comoedia nova | 1618 |  | [TransLatin](#translatin) | .docx, tei (basic) | schonaeus-dyscoli-comoedia-nova |
+| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Fabula comica. In commendationem aedificij | 1607 |  | [TransLatin](#translatin) | .docx, tei (basic) | schonaeus-fabula-comica-in-commendationem-aedificij |
+| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Iosephus | 1614 |  | [TransLatin](#translatin) | .docx, tei (basic) | schonaeus-iosephus |
+| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Iuditha | 1614 |  | [TransLatin](#translatin) | .docx, tei (basic) | schonaeus-iuditha |
+| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Naaman | 1614 |  | [TransLatin](#translatin) | .docx, tei (basic) | schonaeus-naaman |
+| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Nehemias | 1614 |  | [TransLatin](#translatin) | .docx, tei (basic) | schonaeus-nehemias |
+| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Pentecoste | 1618 |  | [TransLatin](#translatin) | .docx, tei (basic) | schonaeus-pentecoste |
+| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Pseudostratiotae. Fabula ludicra | 1618 |  | [TransLatin](#translatin) | .docx, tei (basic) | schonaeus-pseudostratiotae-fabula-ludicra |
+| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Saulus | 1614 |  | [TransLatin](#translatin) | .docx, tei (basic) | schonaeus-saulus |
+| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Susanna | 1618 |  | [TransLatin](#translatin) | .docx, tei (basic) | schonaeus-susanna |
+| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Tobaeus | 1614 |  | [TransLatin](#translatin) | .docx, tei (basic) | schonaeus-tobaeus |
+| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Triumphus Christi | 1618 |  | [TransLatin](#translatin) | .docx, tei (basic) | schonaeus-triumphus-christi |
+| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Typhlus | 1618 |  | [TransLatin](#translatin) | .docx, tei (basic) | schonaeus-typhlus |
+| Cornelius Schonaeus [Q2707820](https://www.wikidata.org/wiki/Q2707820) | Vitulus. Fabula ludicra | 1618 |  | [TransLatin](#translatin) | .docx, tei (basic) | schonaeus-vitulus-fabula-ludicra |
+| Eligius Eucharius | Grisellis | 1519 |  | [TransLatin](#translatin) | .docx, tei (basic) | eucharius-grisellis |
+| Eusebius Candidus | Plausus luctificae Mortis | 1534 |  | [TransLatin](#translatin) | .docx, tei (basic) | plausus-luctificae-mortis |
+| Franciscus Eucolus [Q107696053](https://www.wikidata.org/wiki/Q107696053) | Comoedia nova ac sacra, cui titulus, Soter gloriosus | 1563 |  | [TransLatin](#translatin) | .docx, tei (basic) | eucolus-comoedia-nova-ac-sacra-cui-titulus-soter-gloriosus |
+| Georgius Dingenauer [Q125401769](https://www.wikidata.org/wiki/Q125401769) | Tobias Iunior | 1616 | not before 1615, not after 1616 | [Theatrum Neolatinum](#theatrum-neolatinum) | text, tei |  |
+| Georgius Macropedius [Q710836](https://www.wikidata.org/wiki/Q710836) | Adamus. Fabula Christianae pietatis plaena | 1552 |  | [Macropedius Drama Corpus](#macropedius-drama-corpus) | text | macropedius- |
+| Georgius Macropedius [Q710836](https://www.wikidata.org/wiki/Q710836) | Aluta. Fabula admodum iucunda et lepida | 1553 |  | [Macropedius Drama Corpus](#macropedius-drama-corpus) | text | macropedius- |
+| Georgius Macropedius [Q710836](https://www.wikidata.org/wiki/Q710836) | Andrisca. Fabula lepidissima | 1553 |  | [Macropedius Drama Corpus](#macropedius-drama-corpus) | text | macropedius- |
+| Georgius Macropedius [Q710836](https://www.wikidata.org/wiki/Q710836) | Asotus evangelicus | 1552 |  | [Macropedius Drama Corpus](#macropedius-drama-corpus) | text | macropedius- |
+| Georgius Macropedius [Q710836](https://www.wikidata.org/wiki/Q710836) | Bassarus | 1553 |  | [Macropedius Drama Corpus](#macropedius-drama-corpus) | text | macropedius- |
+| Georgius Macropedius [Q710836](https://www.wikidata.org/wiki/Q710836) | Hecastus. Fabula non minus pia quam iucunda | 1552 |  | [Macropedius Drama Corpus](#macropedius-drama-corpus) | tei, published | [macropedius-hecastus.xml](tei/macropedius-hecastus.xml) |
+| Georgius Macropedius [Q710836](https://www.wikidata.org/wiki/Q710836) | Hypomone, seu patientia | 1554 |  | [Macropedius Drama Corpus](#macropedius-drama-corpus) | text | macropedius- |
+| Georgius Macropedius [Q710836](https://www.wikidata.org/wiki/Q710836) | Iesus scholasticus | 1556 |  | [Macropedius Drama Corpus](#macropedius-drama-corpus) | text | macropedius- |
+| Georgius Macropedius [Q710836](https://www.wikidata.org/wiki/Q710836) | Iosephus. Fabula sacra, pietatis et pudicitiae cultoribus perlegenda | 1553 |  | [Macropedius Drama Corpus](#macropedius-drama-corpus) | text | macropedius- |
+| Georgius Macropedius [Q710836](https://www.wikidata.org/wiki/Q710836) | Lazarus mendicus | 1552 |  | [Macropedius Drama Corpus](#macropedius-drama-corpus) | text | macropedius- |
+| Georgius Macropedius [Q710836](https://www.wikidata.org/wiki/Q710836) | Petriscus. Fabula iucundissima | 1553 |  | [Macropedius Drama Corpus](#macropedius-drama-corpus) | text | macropedius- |
+| Georgius Macropedius [Q710836](https://www.wikidata.org/wiki/Q710836) | Rebelles. Fabula longe iucundissima | 1553 |  | [Macropedius Drama Corpus](#macropedius-drama-corpus) | text, half in tei | macropedius- |
+| Gregorius Holonius | Catharina | 1556 |  | [TransLatin](#translatin) | .docx, tei (basic) | holonius-catharina |
 | Gregorius Holonius | Lambertias | 1556 |  |  | .pdf (print) | holonius-lambertias |
-| Gregorius Holonius | Laurentias | 1556 |  | TransLatin | .docx, tei (basic) | holonius-laurentias |
-| Hermannus Knuyt de Slyterhoven | Comoedia salebrosa atque lepidissima cui titulus Scornetta | 1497 |  | TransLatin | .docx, tei (basic) | knuyt-de-slyterhoven-comoedia-salebrosa-atque-lepidissima-cui-titulus-Scornetta |
+| Gregorius Holonius | Laurentias | 1556 |  | [TransLatin](#translatin) | .docx, tei (basic) | holonius-laurentias |
+| Hermannus Knuyt de Slyterhoven | Comoedia salebrosa atque lepidissima cui titulus Scornetta | 1497 |  | [TransLatin](#translatin) | .docx, tei (basic) | knuyt-de-slyterhoven-comoedia-salebrosa-atque-lepidissima-cui-titulus-Scornetta |
 | Hugo Grotius [Q154959](https://www.wikidata.org/wiki/Q154959) | Adamus exul. Tragoedia | 1601 |  |  | text | grotius-adamus-exul-tragoedia |
 | Hugo Grotius [Q154959](https://www.wikidata.org/wiki/Q154959) | Euripidis Phoenissae | 1630 |  |  | text | grotius-euripidis-phoenissae |
 | Hugo Grotius [Q154959](https://www.wikidata.org/wiki/Q154959) | Tragoedia Christus patiens | 1608 |  |  | text | grotius-tragoedia-christus-patiens |
 | Hugo Grotius [Q154959](https://www.wikidata.org/wiki/Q154959) | Tragoedia Sophompaneas | 1635 |  |  | text | grotius-tragoedia-sophompaneas |
-| Iacobus Bruno | Abrahamus sacrificans | 1599 |  | TransLatin | .docx, tei (basic) | bruno-abrahamus-sacrificans |
-| Iacobus Locher [Q126967](https://www.wikidata.org/wiki/Q126967) | Iudicium Paridis | not before 1523, not after 1524 |  | TransLatin | tei, published | [locher-iudicium-paridis.xml](tei/locher-iudicium-paridis.xml) |
+| Iacobus Bruno | Abrahamus sacrificans | 1599 |  | [TransLatin](#translatin) | .docx, tei (basic) | bruno-abrahamus-sacrificans |
+| Iacobus Locher [Q126967](https://www.wikidata.org/wiki/Q126967) | Iudicium Paridis | not before 1523, not after 1524 |  | [TransLatin](#translatin) | tei, published | [locher-iudicium-paridis.xml](tei/locher-iudicium-paridis.xml) |
 | J. van Aelhuisen | Aran et Titus. Mutua vindicatio | 1658 |  |  | text | van-aelhuisen-aran-et-titus-mutua-vindicatio |
-| Jacobus Cornelius Lummenaeus a Marca [Q112481178](https://www.wikidata.org/wiki/Q112481178) | Abimelech. Tragoedia sacra | 1628 |  | TransLatin | .docx, tei (basic) | lummenaeus-abimelech-tragoedia-sacra |
-| Jacobus Cornelius Lummenaeus a Marca [Q112481178](https://www.wikidata.org/wiki/Q112481178) | Amnon. Tragoedia sacra | 1617 |  | TransLatin | .docx, tei (basic) | lummenaeus-amnon-tragoedia-sacra |
-| Jacobus Cornelius Lummenaeus a Marca [Q112481178](https://www.wikidata.org/wiki/Q112481178) | Bustum Sodomae. Tragoedia sacra | 1628 |  | TransLatin | .docx, tei (basic) | lummenaeus-bustum-sodomae-tragoedia-sacra |
-| Jacobus Cornelius Lummenaeus a Marca [Q112481178](https://www.wikidata.org/wiki/Q112481178) | Carcer Babylonius. Tragaedia sacra | 1610 |  | TransLatin | .docx, tei (basic) | lummenaeus-carcer-babylonius-tragaedia-sacra |
-| Jacobus Cornelius Lummenaeus a Marca [Q112481178](https://www.wikidata.org/wiki/Q112481178) | Iephte. Tragoedia sacra | 1628 |  | TransLatin | .docx, tei (basic) | lummenaeus-iephte-tragoedia-sacra |
-| Jacobus Cornelius Lummenaeus a Marca [Q112481178](https://www.wikidata.org/wiki/Q112481178) | Sampson. Tragoedia sacra | 1628 |  | TransLatin | .docx, tei (basic) | lummenaeus-sampson-tragoedia-sacra |
-| Jacobus Cornelius Lummenaeus a Marca [Q112481178](https://www.wikidata.org/wiki/Q112481178) | Saul. Tragoedia sacra | 1628 |  | TransLatin | tei, published | [lummenaeus-saul.xml](tei/lummenaeus-saul.xml) |
-| Jacobus Rosefeldus | Moschus. Comoedia altera | 1599 |  | TransLatin | .docx, tei (basic) | rosefeldus-moschus-comoedia-altera |
-| Jacobus Zovitius [Q15876822](https://www.wikidata.org/wiki/Q15876822) | Didascalus comoedia | 1541 |  | TransLatin | .docx, tei (basic) | zovitius-didascalus-comoedia |
+| Jacobus Cornelius Lummenaeus a Marca [Q112481178](https://www.wikidata.org/wiki/Q112481178) | Abimelech. Tragoedia sacra | 1628 |  | [TransLatin](#translatin) | .docx, tei (basic) | lummenaeus-abimelech-tragoedia-sacra |
+| Jacobus Cornelius Lummenaeus a Marca [Q112481178](https://www.wikidata.org/wiki/Q112481178) | Amnon. Tragoedia sacra | 1617 |  | [TransLatin](#translatin) | .docx, tei (basic) | lummenaeus-amnon-tragoedia-sacra |
+| Jacobus Cornelius Lummenaeus a Marca [Q112481178](https://www.wikidata.org/wiki/Q112481178) | Bustum Sodomae. Tragoedia sacra | 1628 |  | [TransLatin](#translatin) | .docx, tei (basic) | lummenaeus-bustum-sodomae-tragoedia-sacra |
+| Jacobus Cornelius Lummenaeus a Marca [Q112481178](https://www.wikidata.org/wiki/Q112481178) | Carcer Babylonius. Tragaedia sacra | 1610 |  | [TransLatin](#translatin) | .docx, tei (basic) | lummenaeus-carcer-babylonius-tragaedia-sacra |
+| Jacobus Cornelius Lummenaeus a Marca [Q112481178](https://www.wikidata.org/wiki/Q112481178) | Iephte. Tragoedia sacra | 1628 |  | [TransLatin](#translatin) | .docx, tei (basic) | lummenaeus-iephte-tragoedia-sacra |
+| Jacobus Cornelius Lummenaeus a Marca [Q112481178](https://www.wikidata.org/wiki/Q112481178) | Sampson. Tragoedia sacra | 1628 |  | [TransLatin](#translatin) | .docx, tei (basic) | lummenaeus-sampson-tragoedia-sacra |
+| Jacobus Cornelius Lummenaeus a Marca [Q112481178](https://www.wikidata.org/wiki/Q112481178) | Saul. Tragoedia sacra | 1628 |  | [TransLatin](#translatin) | tei, published | [lummenaeus-saul.xml](tei/lummenaeus-saul.xml) |
+| Jacobus Rosefeldus | Moschus. Comoedia altera | 1599 |  | [TransLatin](#translatin) | .docx, tei (basic) | rosefeldus-moschus-comoedia-altera |
+| Jacobus Zovitius [Q15876822](https://www.wikidata.org/wiki/Q15876822) | Didascalus comoedia | 1541 |  | [TransLatin](#translatin) | .docx, tei (basic) | zovitius-didascalus-comoedia |
 | Jacobus Zovitius [Q15876822](https://www.wikidata.org/wiki/Q15876822) | Ovis perdita                 | 1539 |  |  | text | zovitius-ovis-perdita                 |
 | Jacobus Zovitius [Q15876822](https://www.wikidata.org/wiki/Q15876822) | Ruth | 1533 |  |  | text | zovitius-ruth |
-| Jan Aquila z Plavče [Q112488229](https://www.wikidata.org/wiki/Q112488229) | Toboeus, comoedia sacra et nova | 1587 | 1569 | Theatrum Neolatinum | text, tei |  |
-| Joachimus Häring | S: Mammes |  | 1655 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript) |  |
-| Joannes Kleinhampl [Q95384983](https://www.wikidata.org/wiki/Q95384983) | Richardus per Magnam Matrem Gratiarum a morte aeterna vindicatus |  | 1735 | Theatrum Neolatinum | .pdf |  |
-| Joannes Leberius; Georgius Floriantschitsch | Antithesis nascentis Soc: Jesu & Lutheranae haereseos |  | 1640 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript; printed perioche) |  |
-| Joannes Ludouicus Schönleben | Haeresis Fulminata Anastasius Tyrannus Orientis Haereticus |  | 1651 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript) |  |
-| Joannes Rirenshopff [Q95206635](https://www.wikidata.org/wiki/Q95206635) | Divus Joannes Nepomucenus, tenera in aetate virtutis et scientiae illustris idea |  | 1734 | Theatrum Neolatinum | .pdf |  |
-| Joannes Tiller [Q95487745](https://www.wikidata.org/wiki/Q95487745) | Vox clamantis, Mariae amantis echo |  | 1724 | Theatrum Neolatinum | .pdf |  |
-| Joannes Winkler [Q112501958](https://www.wikidata.org/wiki/Q112501958) | Divus Joannes Nepomucenus patiendo Martyr gloriosissimus |  | 1729 | Theatrum Neolatinum | .pdf |  |
-| Johannes Leo Placentius [Q1243416](https://www.wikidata.org/wiki/Q1243416) | Clericus eques | 1535 |  | TransLatin | .docx, tei (basic) | placentius-clericus-eques |
-| Johannes Leo Placentius [Q1243416](https://www.wikidata.org/wiki/Q1243416) | Susanna | 1534 |  | TransLatin | tei, published | [placentius-susanna.xml](tei/placentius-susanna.xml) |
-| Josephus Sexstetter [Q95096919](https://www.wikidata.org/wiki/Q95096919) | Gratiosus Matris pulchrae dilectionis lusus |  | 1729 | Theatrum Neolatinum | .pdf |  |
-| Marcus Antonius Muretus [Q1345657](https://www.wikidata.org/wiki/Q1345657) | Iulius Caesar | 1590 |  | TransLatin | .docx, tei (basic) | muretus-iulius-caesar |
-| Nicolaus Grimoaldus [Q1246878](https://www.wikidata.org/wiki/Q1246878) | Christus. Redivivus Comoedia Tragica, Sacra et nova | 1543 |  | TransLatin | .docx, tei (basic) | grimoaldus-christus-redivivus-comoedia-tragica-sacra-et-nova |
-| Nicolaus Susius [Q110215354](https://www.wikidata.org/wiki/Q110215354) | Drama comicum Pendularia | 1620 |  | TransLatin | .docx, tei (basic) | susius-drama-comicum-pendularia |
-| Panagius Salius | Nassovius tragoedia | 1589 |  | TransLatin | .docx, tei (basic) | salius-nassovius-tragoedia |
-| Petrus Ellerus | Certamen Pacis et Martis |  | 1649 | Ljubljana Jesuit Drama | JPG/TIFF (manuscript) |  |
-| Petrus Papaeus | Samarites comoedia de Samaritano Euangelico | 1539 |  | TransLatin | .docx, tei (basic) | papaeus-samarites-comoedia-de-samaritano-euangelico |
-| Rochus Honerdus | Thamara tragoedia | 1611 |  | TransLatin | .docx, tei (basic) | honerdus-thamara-tragoedia |
-| Thomas Robolt [Q95384987](https://www.wikidata.org/wiki/Q95384987) | Telo furoris impio amoris potior vis |  | 1731 | Theatrum Neolatinum | .pdf |  |
+| Jan Aquila z Plavče [Q112488229](https://www.wikidata.org/wiki/Q112488229) | Toboeus, comoedia sacra et nova | 1587 | 1569 | [Theatrum Neolatinum](#theatrum-neolatinum) | text, tei |  |
+| Joachimus Häring | S: Mammes |  | 1655 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript) |  |
+| Joannes Kleinhampl [Q95384983](https://www.wikidata.org/wiki/Q95384983) | Richardus per Magnam Matrem Gratiarum a morte aeterna vindicatus |  | 1735 | [Theatrum Neolatinum](#theatrum-neolatinum) | .pdf |  |
+| Joannes Leberius; Georgius Floriantschitsch | Antithesis nascentis Soc: Jesu & Lutheranae haereseos |  | 1640 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript; printed perioche) |  |
+| Joannes Ludouicus Schönleben | Haeresis Fulminata Anastasius Tyrannus Orientis Haereticus |  | 1651 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript) |  |
+| Joannes Rirenshopff [Q95206635](https://www.wikidata.org/wiki/Q95206635) | Divus Joannes Nepomucenus, tenera in aetate virtutis et scientiae illustris idea |  | 1734 | [Theatrum Neolatinum](#theatrum-neolatinum) | .pdf |  |
+| Joannes Tiller [Q95487745](https://www.wikidata.org/wiki/Q95487745) | Vox clamantis, Mariae amantis echo |  | 1724 | [Theatrum Neolatinum](#theatrum-neolatinum) | .pdf |  |
+| Joannes Winkler [Q112501958](https://www.wikidata.org/wiki/Q112501958) | Divus Joannes Nepomucenus patiendo Martyr gloriosissimus |  | 1729 | [Theatrum Neolatinum](#theatrum-neolatinum) | .pdf |  |
+| Johannes Leo Placentius [Q1243416](https://www.wikidata.org/wiki/Q1243416) | Clericus eques | 1535 |  | [TransLatin](#translatin) | .docx, tei (basic) | placentius-clericus-eques |
+| Johannes Leo Placentius [Q1243416](https://www.wikidata.org/wiki/Q1243416) | Susanna | 1534 |  | [TransLatin](#translatin) | tei, published | [placentius-susanna.xml](tei/placentius-susanna.xml) |
+| Josephus Sexstetter [Q95096919](https://www.wikidata.org/wiki/Q95096919) | Gratiosus Matris pulchrae dilectionis lusus |  | 1729 | [Theatrum Neolatinum](#theatrum-neolatinum) | .pdf |  |
+| Marcus Antonius Muretus [Q1345657](https://www.wikidata.org/wiki/Q1345657) | Iulius Caesar | 1590 |  | [TransLatin](#translatin) | .docx, tei (basic) | muretus-iulius-caesar |
+| Nicolaus Grimoaldus [Q1246878](https://www.wikidata.org/wiki/Q1246878) | Christus. Redivivus Comoedia Tragica, Sacra et nova | 1543 |  | [TransLatin](#translatin) | .docx, tei (basic) | grimoaldus-christus-redivivus-comoedia-tragica-sacra-et-nova |
+| Nicolaus Susius [Q110215354](https://www.wikidata.org/wiki/Q110215354) | Drama comicum Pendularia | 1620 |  | [TransLatin](#translatin) | .docx, tei (basic) | susius-drama-comicum-pendularia |
+| Panagius Salius | Nassovius tragoedia | 1589 |  | [TransLatin](#translatin) | .docx, tei (basic) | salius-nassovius-tragoedia |
+| Petrus Ellerus | Certamen Pacis et Martis |  | 1649 | [Ljubljana Jesuit Drama](#ljubljana-jesuit-drama) | JPG/TIFF (manuscript) |  |
+| Petrus Papaeus | Samarites comoedia de Samaritano Euangelico | 1539 |  | [TransLatin](#translatin) | .docx, tei (basic) | papaeus-samarites-comoedia-de-samaritano-euangelico |
+| Rochus Honerdus | Thamara tragoedia | 1611 |  | [TransLatin](#translatin) | .docx, tei (basic) | honerdus-thamara-tragoedia |
+| Thomas Robolt [Q95384987](https://www.wikidata.org/wiki/Q95384987) | Telo furoris impio amoris potior vis |  | 1731 | [Theatrum Neolatinum](#theatrum-neolatinum) | .pdf |  |
 
 <!-- table:end -->
