@@ -20,6 +20,13 @@ text selection in alphabetical order: tba
 number of texts: tba  
 status: dormant  
 website: [JesDraCor](https://github.com/alexander-winkler/jesdracor)
+### Ljubljana Jesuit Drama
+editor(s): Monika Deželak Trojar  
+transcriber(s): Monika Deželak Trojar, Ana Bembič, Kajetan Škraban  
+encoder(s): tba  
+number of texts: 28  
+status: work in progress  
+website: tba  
 ### Macropedius Drama Corpus
 editor(s): Julia Jennifer Beine (Ruhr University Bochum)  
 encoders: Leon Fabian Gleser, Steffen Gutbier, Joshua Mährmann, Paula van Bonn, Rabea Klara Sülz, Carina Christensen, Kassandra Marie Stangel, Christina Charalampidou (all Ruhr University Bochum); Daina-Sophia Münch (Freie Universität Berlin)  
