@@ -64,14 +64,14 @@ number of texts: ca. 100
 status: dormant  
 website: [TransLatin](https://translatin.nl/)
 
-## Overview of Neo-Latin Plays
+## Overview of Neo-Latin Dramas
 
-This is an overview of Neo-Latin plays which may be incorporated into
-NeoLatDraCor. Some plays are related to the research of the
+This is an overview of Neo-Latin dramas which may be incorporated into
+NeoLatDraCor. Some dramas are related to the research of the
 [NeoLatDraCor working groups](#contributing-working-groups), as indicated by
 the “Project” column.
 All of the working groups would welcome your support in encoding the respective
-plays. Moreover, we have also included Neo-Latin plays unrelated to the working
+plays. Moreover, we have also included Neo-Latin dramas unrelated to the working
 groups that would be a valuable contribution to NeoLatDraCor.
 
 We would be very grateful if colleagues interested in and working on Neo-Latin
@@ -79,12 +79,12 @@ drama would contribute to NeoLatDraCor. We have developed different workflows to
 do so. You may start from plain text, a Word file, or directly start encoding a
 play in TEI. More details may be found in our
 [Wiki](https://github.com/dracor-org/neolatdracor/wiki/How-to-contribute-to-NeoLatDraCor).
-If you would like to contribute a play that is not yet in the neolatdracor
+If you would like to contribute a drama that is not yet in the neolatdracor
 repository and/or listed in our overview, feel free to contact the
 [chief editor](README.md) and/or create a pull request. We thank all
 contributors who help grow this corpus.
 
-For all the plays in this overview, the NeoLatDraCor team is currently clearing
+For all the dramas in this overview, the NeoLatDraCor team is currently clearing
 the copyright issues and collecting relevant metadata. We thank all copyright
 holders who have authorised the digitisations and support this project, and hope
 that even more will do so.
