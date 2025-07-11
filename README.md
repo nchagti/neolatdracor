@@ -71,13 +71,13 @@ NeoLatDraCor. Some dramas are related to the research of the
 [NeoLatDraCor working groups](#contributing-working-groups), as indicated by
 the “Project” column.
 All of the working groups would welcome your support in encoding the respective
-plays. Moreover, we have also included Neo-Latin dramas unrelated to the working
+dramas. Moreover, we have also included Neo-Latin dramas unrelated to the working
 groups that would be a valuable contribution to NeoLatDraCor.
 
 We would be very grateful if colleagues interested in and working on Neo-Latin
 drama would contribute to NeoLatDraCor. We have developed different workflows to
 do so. You may start from plain text, a Word file, or directly start encoding a
-play in TEI. More details may be found in our
+drama in TEI. More details may be found in our
 [Wiki](https://github.com/dracor-org/neolatdracor/wiki/How-to-contribute-to-NeoLatDraCor).
 If you would like to contribute a drama that is not yet in the neolatdracor
 repository and/or listed in our overview, feel free to contact the
