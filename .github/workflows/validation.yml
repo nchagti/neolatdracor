@@ -20,4 +20,3 @@ jobs:
         uses: dracor-org/dracor-validate-action@5fba81431a299e731021047b77ead3b74e6f8c5d # v1.0.0
         with:
           schema: dracor
-          warn-only: yes
