@@ -10,10 +10,6 @@
                   <forename>Iacobus</forename>
                   <surname>Locher</surname>
                </persName>
-               <persName xml:lang="eng">
-                  <forename>Jakob</forename>
-                  <surname>Locher</surname>
-               </persName>
                <idno type="wikidata">Q126967</idno>
                <idno type="pnd">118780247</idno>
             </author>
@@ -66,77 +62,77 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person sex="MALE" role="prologus" xml:id="prologus">
+               <person xml:id="prologus" sex="MALE" role="prologus">
                   <persName>Prologus</persName>
                </person>
-               <person sex="MALE" xml:id="iupiter">
+               <person xml:id="iupiter" sex="MALE" role="deus" ana="https://www.wikidata.org/wiki/Q4649">
                   <persName>Iupiter</persName>
                </person>
-               <person sex="FEMALE" xml:id="discordia">
+               <person xml:id="discordia" sex="FEMALE" role="dea" ana="https://www.wikidata.org/wiki/Q3030152">
                   <persName>Discordia</persName>
                </person>
-               <person sex="MALE" xml:id="mercurius">
+               <person xml:id="mercurius" sex="MALE" role="deus" ana="https://www.wikidata.org/wiki/Q1150">
                   <persName>Mercurius</persName>
                </person>
-               <person sex="MALE" xml:id="paris">
+               <person xml:id="paris" sex="MALE" ana="https://www.wikidata.org/wiki/Q167646">
                   <persName>Paris</persName>
                </person>
-               <person sex="MALE" xml:id="ganymedes">
+               <person xml:id="ganymedes" sex="MALE" ana="https://www.wikidata.org/wiki/Q131588">
                   <persName>Ganymedes</persName>
                </person>
-               <person sex="FEMALE" xml:id="pallas">
+               <person xml:id="pallas" sex="FEMALE" role="dea" ana="https://www.wikidata.org/wiki/Q37122">
                   <persName>Pallas</persName>
                </person>
-               <person sex="FEMALE" xml:id="iuno">
+               <person xml:id="iuno" sex="FEMALE" role="dea" ana="https://www.wikidata.org/wiki/Q125046">
                   <persName>Iuno</persName>
                </person>
-               <person sex="FEMALE" xml:id="venus">
+               <person xml:id="venus" sex="FEMALE" role="dea" ana="https://www.wikidata.org/wiki/Q47652">
                   <persName>Venus</persName>
                </person>
-               <person sex="MALE" xml:id="bithus">
+               <person xml:id="bithus" sex="MALE">
                   <persName>Bithus</persName>
                </person>
-               <person sex="MALE" xml:id="bacchius">
+               <person role="" xml:id="bacchius" sex="MALE">
                   <persName>Bacchius</persName>
                </person>
-               <person sex="FEMALE" xml:id="helena">
+               <person xml:id="helena" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q164061">
                   <persName>Helena</persName>
                </person>
-               <person sex="MALE" xml:id="cupido">
+               <person xml:id="cupido" sex="MALE" role="deus" ana="https://www.wikidata.org/wiki/Q5011">
                   <persName>Cupido</persName>
                </person>
-               <person sex="FEMALE" xml:id="rustica_mulier">
+               <person xml:id="rustica_mulier" sex="FEMALE" role="rustica">
                   <persName>Rustica mulier</persName>
                </person>
-               <person sex="FEMALE" xml:id="altera_rustica">
+               <person xml:id="altera_rustica" sex="FEMALE" role="rustica">
                   <persName>Altera rustica</persName>
                </person>
-               <person sex="FEMALE" xml:id="tertia_villana_rustica">
+               <person xml:id="tertia_villana_rustica" sex="FEMALE" role="rustica">
                   <persName>Tertia Villana rustica</persName>
                </person>
-               <personGrp sex="MALE" xml:id="pastores">
+               <personGrp xml:id="pastores" sex="MALE" role="pastor">
                   <persName>Pastores</persName>
                </personGrp>
-               <person sex="MALE" xml:id="menelaus">
+               <person xml:id="menelaus" sex="MALE" ana="https://www.wikidata.org/wiki/Q171839">
                   <persName>Menelaus</persName>
                </person>
-               <person sex="MALE" xml:id="agamemnon">
+               <person xml:id="agamemnon" sex="MALE" ana="https://www.wikidata.org/wiki/Q128176">
                   <persName>Agamemnon</persName>
                </person>
-               <person sex="MALE" xml:id="praeco">
+               <person xml:id="praeco" sex="MALE" role="praeco">
                   <persName>Praeco</persName>
                </person>
-               <person sex="UNKNOWN" xml:id="vite_voluptarie_commendatio">
+               <person xml:id="vite_voluptarie_commendatio" sex="UNKNOWN">
                   <persName>Voluptatis commendatio per Venerem</persName>
                </person>
-               <person sex="UNKNOWN" xml:id="commendatio_vite_active">
+               <person xml:id="commendatio_vite_active" sex="UNKNOWN">
                   <persName>Vita quae in uirtutum actione sonstitit quam actiuam uocamus commendatur
                      Iunoni</persName>
                </person>
-               <person sex="UNKNOWN" xml:id="commendatio_vite_contemplative">
+               <person xml:id="commendatio_vite_contemplative" sex="UNKNOWN">
                   <persName>Contemplatiue uitae laus per Palladem</persName>
                </person>
-               <person sex="UNKNOWN" xml:id="actor">
+               <person xml:id="actor" sex="UNKNOWN">
                   <persName>Actor</persName>
                </person>
             </listPerson>

@@ -67,25 +67,25 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person sex="MALE" xml:id="samuel">
+               <person sex="MALE" xml:id="samuel" ana="https://www.wikidata.org/wiki/Q6577515">
                   <persName>Samuel/Umbra Samuelis</persName>
                </person>
-               <personGrp sex="UNKNOWN" xml:id="chorus">
+               <personGrp sex="UNKNOWN" xml:id="chorus" role="chorus">
                   <name>Chorus</name>
                </personGrp>
-               <person sex="MALE" xml:id="saul">
+               <person sex="MALE" xml:id="saul" ana="https://www.wikidata.org/wiki/Q28730">
                   <persName>Saul</persName>
                </person>
-               <person sex="MALE" xml:id="david">
+               <person sex="MALE" xml:id="david" ana="https://www.wikidata.org/wiki/Q41370">
                   <persName>David</persName>
                </person>
                <person sex="MALE" xml:id="achimas">
                   <persName>Achimas</persName>
                </person>
-               <person sex="FEMALE" xml:id="manto">
+               <person sex="FEMALE" xml:id="manto" ana="https://www.wikidata.org/wiki/Q1391553">
                   <persName>Manto</persName>
                </person>
-               <person sex="MALE" xml:id="nuncius">
+               <person sex="MALE" xml:id="nuncius" role="nuncius">
                   <persName>Nuncius</persName>
                </person>
             </listPerson>
@@ -201,11 +201,9 @@
             <castItem>
                <role>DAVID.</role>
             </castItem>
-
             <castItem>
                <role>PYTHONISSA.</role>
             </castItem>
-
             <castItem>
                <role>NVNCIVS.</role>
             </castItem>
