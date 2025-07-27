@@ -3527,7 +3527,7 @@
          <div type="epilogue">
             <stage>Grex per Epilogum.</stage>
             <stage>Trimetri acatalectici.</stage>
-            <sp who="grex">
+            <sp who="#grex">
                <l>PUdica vobis acta spectatoribus</l>
                <l>Haec fabula est. qua non modo spectantium</l>
                <l n="1105">Mens casta nullis impudicis gestibus</l>
