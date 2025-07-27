@@ -77,7 +77,7 @@
                <person sex="MALE" role="maritus" xml:id="ioachimus">
                   <persName>Ioachimus</persName>
                </person>
-               <person sex="FEMALE" xml:id="susanna">
+               <person sex="FEMALE" xml:id="susanna" ana="https://www.wikidata.org/wiki/Q756861">
                   <persName>Susanna</persName>
                </person>
                <person sex="FEMALE" role="pedisequa" xml:id="maura">
@@ -98,7 +98,7 @@
                <personGrp sex="UNKNOWN" role="spectator" xml:id="populus">
                   <persName>Populus</persName>
                </personGrp>
-               <person sex="MALE" role="propheta" xml:id="daniel">
+               <person sex="MALE" role="propheta" xml:id="daniel" ana="https://www.wikidata.org/wiki/Q171724">
                   <persName>Daniel</persName>
                </person>
             </listPerson>
