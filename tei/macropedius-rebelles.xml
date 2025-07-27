@@ -3087,7 +3087,7 @@
                   <l n="925">Vestram salutem, spiritus dum hos artus</l>
                   <l part="I">Vegetarit.</l>
                </sp>
-               <sp who="dyscolus #clopicus">
+               <sp who="#dyscolus #clopicus">
                   <speaker>Capt.</speaker>
                   <l part="F">Euge, ô doctor, ô praeceptor,</l>
                   <l>O cuius optima consilia procaces</l>
