@@ -92,7 +92,7 @@
                <person xml:id="bithus" sex="MALE">
                   <persName>Bithus</persName>
                </person>
-               <person role="" xml:id="bacchius" sex="MALE">
+               <person xml:id="bacchius" sex="MALE">
                   <persName>Bacchius</persName>
                </person>
                <person xml:id="helena" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q164061">
