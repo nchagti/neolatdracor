@@ -18,7 +18,7 @@ number of texts: 2
 status: work in progress  
 website: [Camerarius digital](http://www.camerarius.de)
 
-## From Stage to Page. Neo-Latin School Drama in the Early Modern Southern Low Countries and its Manuscript Tradition
+### From Stage to Page. Neo-Latin School Drama in the Early Modern Southern Low Countries and its Manuscript Tradition
 editor(s): Nicholas De Sutter
 encoder(s): Nicholas De Sutter
 number of texts: ca. 20
