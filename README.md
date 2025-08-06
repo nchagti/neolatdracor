@@ -10,7 +10,6 @@ Edited by Julia Jennifer Beine (Ruhr University Bochum), maintained by Ingo Bör
 (in alphabetical order)
 
 ### Camerarius digital
-
 editor(s): Thomas Baier, Joachim Hamm, Ulrich Schlegelmilch (all Julius-Maximilians-Universität of Würzburg)  
 encoder(s): tba  
 text selection in alphabetical order: Aiax lora gestans (1556), Electra (1556)  
@@ -19,14 +18,14 @@ status: work in progress
 website: [Camerarius digital](http://www.camerarius.de)
 
 ### From Stage to Page. Neo-Latin School Drama in the Early Modern Southern Low Countries and its Manuscript Tradition
-editor(s): Nicholas De Sutter
-encoder(s): Nicholas De Sutter
-number of texts: ca. 20
-status: work in progress
-website: work in progress
+editor(s): Nicholas De Sutter  
+encoder(s): Nicholas De Sutter  
+text selection in alphabetical order: tba  
+number of texts: ca. 20  
+status: work in progress  
+website: work in progress  
 
 ### Jesuit Drama Corpus
-
 editor(s): Alexander Winkler  
 encoder(s): tba  
 text selection in alphabetical order: tba  
@@ -35,25 +34,23 @@ status: dormant
 website: [JesDraCor](https://github.com/alexander-winkler/jesdracor)
 
 ### Ljubljana Jesuit Drama
-
 editor(s): Monika Deželak Trojar  
 transcriber(s): Monika Deželak Trojar, Ana Bembič, Kajetan Škraban  
 encoder(s): tba  
+text selection in alphabetical order: See the overview below.  
 number of texts: 28  
 status: work in progress  
 website: tba
 
 ### Macropedius Drama Corpus
-
 editor(s): Julia Jennifer Beine (Ruhr University Bochum)  
-encoders: Leon Fabian Gleser, Steffen Gutbier, Joshua Mährmann, Paula van Bonn, Rabea Klara Sülz, Carina Christensen, Kassandra Marie Stangel, Christina Charalampidou (all Ruhr University Bochum); Daina-Sophia Münch (Freie Universität Berlin)  
+encoders: Timo Bremer, Christina Charalampidou, Carina Christensen, Leon Fabian Gleser, Miriam Göbel, Steffen Gutbier, Joshua Mährmann, Kassandra Marie Stangel, Nina Straub, Rabea Klara Sülz, Mareike Urbanek, Paula van Bonn (all Ruhr University Bochum); Daina-Sophia Münch (Freie Universität Berlin)  
 text selection in alphabetical order: Adamus (1552), Aluta (1553), Andrisca (1553), Asotus (1552), Bassarus (1553), Hecastus (1552), Hypomone seu patientia (1554), Iesus scholasticus (1556), Iosephus (1553), Lazarus mendicus (1552), Petriscus (1553), Rebelles (1553)  
 number of texts: 12  
 status: work in progress  
 website: /
 
 ### Theatrum Neolatinum
-
 editor(s): Kateřina Bobková-Valentová (Czech Academy of Science), Alena Bočková (Charles University), Martin Bažil (Charles University), Magdaléna Jacková (Czech Academy of Science), Markéta Klosová (Czech Academy of Science)  
 encoder(s): Boris Lehečka (freelancer), Jana Synovcová Borovičková (Czech Academy of Science)  
 text selection in alphabetical order: Aquila z Plavče, Jan: Toboeus (1569), Dingenauer, Georgius, SJ: Tobias Iunior (1616), Kolczawa, Carolus, SJ: Veritas prostrata et erecta (1716), Machek, Antonius, SJ: Angelus ad aras D. Joannes Nepomucenus (1729), Rochotius, Andreas: Gedeon (ca. 1606), Rochotius, Andreas: Iosephiados comoedia (ca. 1607)  
@@ -62,11 +59,10 @@ status: work in progress
 website: [Theatrum Neolatinum](http://theatrum-neolatinum.cz/index.html)
 
 ### TransLatin
-
 editor(s): Jan Bloemendal (Huygens Institute, Royal Netherlands Academy of Arts and Sciences)  
 encoder(s): tba  
-team members: Jan Bloemendal, Dinah Wouters, Andrea Peverelli (all Huygens Institute, Royal Netherlands Academy of Arts and Sciences)
-text selection in alphabetical order: tba  
+team members: Jan Bloemendal, Dinah Wouters, Andrea Peverelli (all Huygens Institute, Royal Netherlands Academy of Arts and Sciences)  
+text selection in alphabetical order: See the overview below.   
 number of texts: ca. 100  
 status: dormant  
 website: [TransLatin](https://translatin.nl/)
