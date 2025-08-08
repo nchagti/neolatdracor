@@ -25,15 +25,14 @@
   transcription:
     by: null
     supervisor: null
-  sourceTextEdition:
+  source:
     title: "Ioachim Camerarius: Aiax lora gestans. Interpretatio ad uerbum. In:
       Commentatio explicationum omnium tragoediarum Sophoclis, cum exemplo
       duplicis conversionis, Ioachimi Camerarii Pabepergensis. Basel: Ioannes
       Oporinus 1556. pp. 107–174."
-    editor: null
     year: "1556"
-    copyright: null
     url: https://viewer.onb.ac.at/107D434D/111
+    type: print
   complete: false
   _includeDocx: false
 - id: neolat000041
@@ -61,15 +60,14 @@
   transcription:
     by: null
     supervisor: null
-  sourceTextEdition:
+  source:
     title: "Ioachim Camerarius: Electra. Interpretatio libera. In: Commentatio
       explicationum omnium tragoediarum Sophoclis, cum exemplo duplicis
       conversionis, Ioachimi Camerarii Pabepergensis. Basel: Ioannes Oporinus
       1556. pp. 257–312."
-    editor: null
     year: "1556"
-    copyright: null
     url: https://viewer.onb.ac.at/107D434D/261
+    type: print
   complete: false
   _includeDocx: false
 - id: neolat000010
@@ -96,11 +94,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1670"
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000011
@@ -126,11 +125,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1649"
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000012
@@ -157,11 +157,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: not before 1628, not after 1673
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000013
@@ -187,11 +188,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1654"
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000014
@@ -218,11 +220,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1653"
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000015
@@ -249,11 +252,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1659"
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000016
@@ -279,11 +283,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1654"
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000017
@@ -309,11 +314,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1655"
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000018
@@ -339,11 +345,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1659"
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000019
@@ -372,11 +379,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1659"
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000020
@@ -404,11 +412,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1684"
     copyright: SKL - Seminary Library Ljubljana
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000021
@@ -434,11 +443,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1654"
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000022
@@ -464,11 +474,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1642"
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000023
@@ -495,11 +506,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1653"
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000024
@@ -526,11 +538,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1656"
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000025
@@ -557,11 +570,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1659"
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000026
@@ -588,11 +602,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1654"
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000027
@@ -618,11 +633,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1649"
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000028
@@ -648,11 +664,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1723"
     copyright: ARS - Archives of the Republic of Slovenia
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000029
@@ -678,11 +695,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1646"
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000030
@@ -708,11 +726,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1658"
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000031
@@ -738,11 +757,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1656"
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000032
@@ -770,11 +790,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1655"
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000033
@@ -802,11 +823,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1655"
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000058
@@ -834,11 +856,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1649"
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000074
@@ -866,11 +889,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1655"
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000084
@@ -899,11 +923,12 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
+  source:
     title: Jesuit College Ljubljana
     date: "1640"
     copyright: OeStA/HHStA
     url: INFORMATION NEEDED
+    type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000149
@@ -931,12 +956,7 @@
     by: INFORMATION NEEDED / TO BE ADDED
     supervisor: INFORMATION NEEDED / TO BE ADDED
     software: INFORMATION NEEDED / TO BE ADDED
-  manuscript:
-    title: Jesuit College Ljubljana
-    date: "1651"
-    copyright: OeStA/HHStA
-    url: INFORMATION NEEDED
-  criticalEdition:
+  source:
     title: "Janez Ludvik Schönleben: Haeresis fulminata - Strela udari krivoverca
       [Johann Ludwig Schönleben: Haeresis fulminata - Lightning Strikes the
       Heretic]"
@@ -946,6 +966,13 @@
       vede [Založba ZRC - The publishing house of ZRC SAZU, Institute of
       Slovenian Literature and Literary Studies]
     url: tba
+    type: critical edition
+    source:
+      title: Jesuit College Ljubljana
+      date: "1651"
+      copyright: OeStA/HHStA
+      url: INFORMATION NEEDED
+      type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000100
@@ -981,27 +1008,25 @@
     University. Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the
     authorisation of this digitisation."
   institution: Leiden University
-  sourceTextEdition:
-    title: "Adamus Macropedii Fabula Christianae pietatis plaena. Utrecht: Harmannus
-      Borculous 1552."
-    editor: null
-    year: "1552"
-    copyright: null
-    url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusAdamus1552/index.htm
-  criticalEdition:
-    title: "Georgius Macropedius: Adamus. In: Henk Giebels, Frans Slits: Georgius
-      Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
-      Tilburg: Stichting Zuidelijk Historisch Contact Tilburg 2005, De komedies
-      van Macropedius. CD-ROM: Latijnse tekst van Omnes Fabulae Comicae."
-    editor: Henk Giebels; Frans Slits
-    year: "2005"
-    copyright: null
-    url: null
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
-    copyright: null
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/MacropediusAdamus1552.html
+    source:
+      title: "Georgius Macropedius: Adamus. In: Henk Giebels, Frans Slits: Georgius
+        Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
+        Tilburg: Stichting Zuidelijk Historisch Contact Tilburg 2005, De
+        komedies van Macropedius. CD-ROM: Latijnse tekst van Omnes Fabulae
+        Comicae."
+      editor: Henk Giebels; Frans Slits
+      year: "2005"
+      type: critical edition
+      source:
+        title: "Adamus Macropedii Fabula Christianae pietatis plaena. Utrecht: Harmannus
+          Borculous 1552."
+        year: "1552"
+        url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusAdamus1552/index.htm
+        type: print
   complete: true
   _includeDocx: false
 - id: neolat000101
@@ -1037,28 +1062,26 @@
     University. Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the
     authorisation of this digitisation."
   institution: Leiden University
-  sourceTextEdition:
-    title: "Aluta Macropedii fabula admodum iucunda & lepida, denuo recognita, &
-      Traiectinae iuuentuti denuo nuncupata. In: Comicarum fabularum Georgii
-      Macropedii tomus secundus. Utrecht: Harmannus Borculous 1553."
-    editor: null
-    year: "1553"
-    copyright: null
-    url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusAluta1553/index.htm
-  criticalEdition:
-    title: "Georgius Macropedius: Andrisca. In: Henk Giebels, Frans Slits: Georgius
-      Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
-      Tilburg: Stichting Zuidelijk Historisch Contact Tilburg 2005, De komedies
-      van Macropedius. CD-ROM: Latijnse tekst van Omnes Fabulae Comicae."
-    editor: Henk Giebels; Frans Slits
-    year: "2005"
-    copyright: null
-    url: null
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
-    copyright: null
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/MacropediusAluta1553.html
+    source:
+      title: "Georgius Macropedius: Andrisca. In: Henk Giebels, Frans Slits: Georgius
+        Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
+        Tilburg: Stichting Zuidelijk Historisch Contact Tilburg 2005, De
+        komedies van Macropedius. CD-ROM: Latijnse tekst van Omnes Fabulae
+        Comicae."
+      editor: Henk Giebels; Frans Slits
+      year: "2005"
+      type: critical edition
+      source:
+        title: "Aluta Macropedii fabula admodum iucunda & lepida, denuo recognita, &
+          Traiectinae iuuentuti denuo nuncupata. In: Comicarum fabularum Georgii
+          Macropedii tomus secundus. Utrecht: Harmannus Borculous 1553."
+        year: "1553"
+        url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusAluta1553/index.htm
+        type: print
   complete: true
   _includeDocx: false
 - id: neolat000102
@@ -1094,27 +1117,25 @@
     University. Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the
     authorisation of this digitisation."
   institution: Leiden University
-  sourceTextEdition:
-    title: "Georgii Macropedii Andrisca fabula lepidissima. Utrecht: Harmannus
-      Borculous 1553."
-    editor: null
-    year: "1553"
-    copyright: null
-    url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusAndrisca1553/index.htm
-  criticalEdition:
-    title: "Georgius Macropedius: Andrisca. In: Henk Giebels, Frans Slits: Georgius
-      Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
-      Tilburg: Stichting Zuidelijk Historisch Contact Tilburg 2005, De komedies
-      van Macropedius. CD-ROM: Latijnse tekst van Omnes Fabulae Comicae."
-    editor: Henk Giebels; Frans Slits
-    year: "2005"
-    copyright: null
-    url: null
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
-    copyright: null
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/MacropediusAndrisca1553.html
+    source:
+      title: "Georgius Macropedius: Andrisca. In: Henk Giebels, Frans Slits: Georgius
+        Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
+        Tilburg: Stichting Zuidelijk Historisch Contact Tilburg 2005, De
+        komedies van Macropedius. CD-ROM: Latijnse tekst van Omnes Fabulae
+        Comicae."
+      editor: Henk Giebels; Frans Slits
+      year: "2005"
+      type: critical edition
+      source:
+        title: "Georgii Macropedii Andrisca fabula lepidissima. Utrecht: Harmannus
+          Borculous 1553."
+        year: "1553"
+        url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusAndrisca1553/index.htm
+        type: print
   complete: true
   _includeDocx: false
 - id: neolat000103
@@ -1149,31 +1170,29 @@
     University. Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the
     authorisation of this digitisation."
   institution: Leiden University
-  sourceTextEdition:
-    title: "Georgius Macropedius: Asotus. In: Omnes Georgii Macropedii fabulae
-      comicae, denuo recognitae, & iusto ordine (prout editae sunt) in duas
-      partes divisae. Quarum catalogum versa pagina lectori offeret. Adiectae
-      sunt Choris post singulos Actus notulae quaedam musicae, quo simplici
-      tenore quisque possit citra laborem versicos modulari. Utrecht: Harmannus
-      Borculous 1552."
-    editor: null
-    year: "1552"
-    copyright: null
-    url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusAsotus1552/index.htm
-  criticalEdition:
-    title: "Georgius Macropedius: Asotus. In: Henk Giebels, Frans Slits: Georgius
-      Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
-      Tilburg: Stichting Zuidelijk Historisch Contact Tilburg 2005, De komedies
-      van Macropedius. CD-ROM: Latijnse tekst van Omnes Fabulae Comicae."
-    editor: Henk Giebels; Frans Slits
-    year: "2005"
-    copyright: null
-    url: null
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
-    copyright: null
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/MacropediusAsotus1552.html
+    source:
+      title: "Georgius Macropedius: Asotus. In: Henk Giebels, Frans Slits: Georgius
+        Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
+        Tilburg: Stichting Zuidelijk Historisch Contact Tilburg 2005, De
+        komedies van Macropedius. CD-ROM: Latijnse tekst van Omnes Fabulae
+        Comicae."
+      editor: Henk Giebels; Frans Slits
+      year: "2005"
+      type: critical edition
+      source:
+        title: "Georgius Macropedius: Asotus. In: Omnes Georgii Macropedii fabulae
+          comicae, denuo recognitae, & iusto ordine (prout editae sunt) in duas
+          partes divisae. Quarum catalogum versa pagina lectori offeret.
+          Adiectae sunt Choris post singulos Actus notulae quaedam musicae, quo
+          simplici tenore quisque possit citra laborem versicos modulari.
+          Utrecht: Harmannus Borculous 1552."
+        year: "1552"
+        url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusAsotus1552/index.htm
+        type: print
   complete: true
   _includeDocx: false
 - id: neolat000104
@@ -1209,27 +1228,25 @@
     University. Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the
     authorisation of this digitisation."
   institution: Leiden University
-  sourceTextEdition:
-    title: "Georgii Macropedii Bassarus, fabula festivissima. Utrecht: Harmannus
-      Borculous 1553."
-    editor: null
-    year: "1553"
-    copyright: null
-    url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusBassarus1553/index.htm
-  criticalEdition:
-    title: "Georgius Macropedius: Bassarus. In: Henk Giebels, Frans Slits: Georgius
-      Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
-      Tilburg: Stichting Zuidelijk Historisch Contact Tilburg 2005, De komedies
-      van Macropedius. CD-ROM: Latijnse tekst van Omnes Fabulae Comicae."
-    editor: Henk Giebels; Frans Slits
-    year: "2005"
-    copyright: null
-    url: null
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
-    copyright: null
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/MacropediusBassarus1553.html
+    source:
+      title: "Georgius Macropedius: Bassarus. In: Henk Giebels, Frans Slits: Georgius
+        Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
+        Tilburg: Stichting Zuidelijk Historisch Contact Tilburg 2005, De
+        komedies van Macropedius. CD-ROM: Latijnse tekst van Omnes Fabulae
+        Comicae."
+      editor: Henk Giebels; Frans Slits
+      year: "2005"
+      type: critical edition
+      source:
+        title: "Georgii Macropedii Bassarus, fabula festivissima. Utrecht: Harmannus
+          Borculous 1553."
+        year: "1553"
+        url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusBassarus1553/index.htm
+        type: print
   complete: true
   _includeDocx: false
 - id: neolat000001
@@ -1265,30 +1282,28 @@
     University. Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the
     authorisation of this digitisation."
   institution: Leiden University; Ruhr University Bochum, Faculty of Philology
-  sourceTextEdition:
-    title: "Hecastus Macropedii, fabula non minus pia quam iucunda, in qua
-      facinorosus quisque mortalium subitaria morte praeoccupatus, tanquam in
-      speculo quodam contemplari poterit, quemadmodum per Christum post veram
-      suorum criminum poenitudinem ad beatam adeoque laetam mortem perveniat.
-      Utrecht: Harmannus Borculous 1552."
-    editor: null
-    year: "1552"
-    copyright: null
-    url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusHecastus1552/index.htm
-  criticalEdition:
-    title: "Georgius Macropedius: Hecastus. In: Henk Giebels, Frans Slits: Georgius
-      Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
-      Tilburg: Stichting Zuidelijk Historisch Contact Tilburg 2005, De komedies
-      van Macropedius. CD-ROM: Latijnse tekst van Omnes Fabulae Comicae."
-    editor: Henk Giebels; Frans Slits
-    year: "2005"
-    copyright: null
-    url: null
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
-    copyright: null
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/MacropediusHecastus1552.html
+    source:
+      title: "Georgius Macropedius: Hecastus. In: Henk Giebels, Frans Slits: Georgius
+        Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
+        Tilburg: Stichting Zuidelijk Historisch Contact Tilburg 2005, De
+        komedies van Macropedius. CD-ROM: Latijnse tekst van Omnes Fabulae
+        Comicae."
+      editor: Henk Giebels; Frans Slits
+      year: "2005"
+      type: critical edition
+      source:
+        title: "Hecastus Macropedii, fabula non minus pia quam iucunda, in qua
+          facinorosus quisque mortalium subitaria morte praeoccupatus, tanquam
+          in speculo quodam contemplari poterit, quemadmodum per Christum post
+          veram suorum criminum poenitudinem ad beatam adeoque laetam mortem
+          perveniat. Utrecht: Harmannus Borculous 1552."
+        year: "1552"
+        url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusHecastus1552/index.htm
+        type: print
   complete: true
   _includeDocx: false
 - id: neolat000105
@@ -1324,27 +1339,25 @@
     University. Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the
     authorisation of this digitisation."
   institution: Leiden University
-  sourceTextEdition:
-    title: "Hypomone, seu patientia Macropedii. Fabula sacra. Utrecht: Harmannus
-      Borculous [1554]."
-    editor: null
-    year: "1554"
-    copyright: null
-    url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusHypomone1554/index.htm
-  criticalEdition:
-    title: "Georgius Macropedius: Hypomone. In: Henk Giebels, Frans Slits: Georgius
-      Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
-      Tilburg: Stichting Zuidelijk Historisch Contact Tilburg 2005, De komedies
-      van Macropedius. CD-ROM: Latijnse tekst van Omnes Fabulae Comicae."
-    editor: Henk Giebels; Frans Slits
-    year: "2005"
-    copyright: null
-    url: null
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
-    copyright: null
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/MacropediusHypomone1554.html
+    source:
+      title: "Georgius Macropedius: Hypomone. In: Henk Giebels, Frans Slits: Georgius
+        Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
+        Tilburg: Stichting Zuidelijk Historisch Contact Tilburg 2005, De
+        komedies van Macropedius. CD-ROM: Latijnse tekst van Omnes Fabulae
+        Comicae."
+      editor: Henk Giebels; Frans Slits
+      year: "2005"
+      type: critical edition
+      source:
+        title: "Hypomone, seu patientia Macropedii. Fabula sacra. Utrecht: Harmannus
+          Borculous [1554]."
+        year: "1554"
+        url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusHypomone1554/index.htm
+        type: print
   complete: true
   _includeDocx: false
 - id: neolat000106
@@ -1379,27 +1392,25 @@
     University. Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the
     authorisation of this digitisation."
   institution: Leiden University
-  sourceTextEdition:
-    title: "Iesus Scholasticus Georgij Macropedij. Utrecht: Harmannus Borculous 1556."
-    editor: null
-    year: "1556"
-    copyright: null
-    url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusJesus1556/index.htm
-  criticalEdition:
-    title: "Georgius Macropedius: Iesus Scholasticus. In: Henk Giebels, Frans Slits:
-      Georgius Macropedius 1487 - 1558. Leven en werken van een Brabantse
-      humanist. Tilburg: Stichting Zuidelijk Historisch Contact Tilburg 2005, De
-      komedies van Macropedius. CD-ROM: Latijnse tekst van Omnes Fabulae
-      Comicae."
-    editor: Henk Giebels; Frans Slits
-    year: "2005"
-    copyright: null
-    url: null
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
-    copyright: null
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/MacropediusJesus1556.html
+    source:
+      title: "Georgius Macropedius: Iesus Scholasticus. In: Henk Giebels, Frans Slits:
+        Georgius Macropedius 1487 - 1558. Leven en werken van een Brabantse
+        humanist. Tilburg: Stichting Zuidelijk Historisch Contact Tilburg 2005,
+        De komedies van Macropedius. CD-ROM: Latijnse tekst van Omnes Fabulae
+        Comicae."
+      editor: Henk Giebels; Frans Slits
+      year: "2005"
+      type: critical edition
+      source:
+        title: "Iesus Scholasticus Georgij Macropedij. Utrecht: Harmannus Borculous
+          1556."
+        year: "1556"
+        url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusJesus1556/index.htm
+        type: print
   complete: true
   _includeDocx: false
 - id: neolat000107
@@ -1435,31 +1446,30 @@
     University. Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the
     authorisation of this digitisation."
   institution: Leiden University
-  sourceTextEdition:
-    title: "Iosephus Macropedii fabula sacra, pietatis et pudicitiae cultoribus
-      perlegenda. In: Omnes Georgii Macropedii fabulae comicae, denuo
-      recognitae, & iusto ordine (prout editae sunt) in duas partes divisae.
-      Quarum catalogum versa pagina lectori offeret. Adiectae sunt Choris post
-      singulos Actus notulae quaedam musicae, quo simplici tenore quisque possit
-      citra laborem versicos modulari. Utrecht: Harmannus Borculous 1553."
-    editor: null
-    year: "1553"
-    copyright: null
-    url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusIosephus1553/index.htm
-  criticalEdition:
-    title: "Georgius Macropedius: Iosephus. In: Henk Giebels, Frans Slits: Georgius
-      Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
-      Tilburg: Stichting Zuidelijk Historisch Contact Tilburg 2005, De komedies
-      van Macropedius. CD-ROM: Latijnse tekst van Omnes Fabulae Comicae."
-    editor: Henk Giebels; Frans Slits
-    year: "2005"
-    copyright: null
-    url: null
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
-    copyright: null
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/MacropediusIosephus1553.html
+    source:
+      title: "Georgius Macropedius: Iosephus. In: Henk Giebels, Frans Slits: Georgius
+        Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
+        Tilburg: Stichting Zuidelijk Historisch Contact Tilburg 2005, De
+        komedies van Macropedius. CD-ROM: Latijnse tekst van Omnes Fabulae
+        Comicae."
+      editor: Henk Giebels; Frans Slits
+      year: "2005"
+      type: critical edition
+      source:
+        title: "Iosephus Macropedii fabula sacra, pietatis et pudicitiae cultoribus
+          perlegenda. In: Omnes Georgii Macropedii fabulae comicae, denuo
+          recognitae, & iusto ordine (prout editae sunt) in duas partes divisae.
+          Quarum catalogum versa pagina lectori offeret. Adiectae sunt Choris
+          post singulos Actus notulae quaedam musicae, quo simplici tenore
+          quisque possit citra laborem versicos modulari. Utrecht: Harmannus
+          Borculous 1553."
+        year: "1553"
+        url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusIosephus1553/index.htm
+        type: print
   complete: true
   _includeDocx: false
 - id: neolat000108
@@ -1494,31 +1504,29 @@
     University. Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the
     authorisation of this digitisation."
   institution: Leiden University
-  sourceTextEdition:
-    title: "Lazarus mendicus Georgii Macropedii. In: Omnes Georgii Macropedii
-      fabulae comicae, denuo recognitae, & iusto ordine (prout editae sunt) in
-      duas partes divisae. Quarum catalogum versa pagina lectori offeret.
-      Adiectae sunt Choris post singulos Actus notulae quaedam musicae, quo
-      simplici tenore quisque possit citra laborem versicos modulari. Utrecht:
-      Harmannus Borculous 1552."
-    editor: null
-    year: "1552"
-    copyright: null
-    url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusLazarus1552/index.htm
-  criticalEdition:
-    title: "Georgius Macropedius: Lazarus. In: Henk Giebels, Frans Slits: Georgius
-      Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
-      Tilburg: Stichting Zuidelijk Historisch Contact Tilburg 2005, De komedies
-      van Macropedius. CD-ROM: Latijnse tekst van Omnes Fabulae Comicae."
-    editor: Henk Giebels; Frans Slits
-    year: "2005"
-    copyright: null
-    url: null
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
-    copyright: null
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/MacropediusLazarus1552.html
+    source:
+      title: "Georgius Macropedius: Lazarus. In: Henk Giebels, Frans Slits: Georgius
+        Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
+        Tilburg: Stichting Zuidelijk Historisch Contact Tilburg 2005, De
+        komedies van Macropedius. CD-ROM: Latijnse tekst van Omnes Fabulae
+        Comicae."
+      editor: Henk Giebels; Frans Slits
+      year: "2005"
+      type: critical edition
+      source:
+        title: "Lazarus mendicus Georgii Macropedii. In: Omnes Georgii Macropedii
+          fabulae comicae, denuo recognitae, & iusto ordine (prout editae sunt)
+          in duas partes divisae. Quarum catalogum versa pagina lectori offeret.
+          Adiectae sunt Choris post singulos Actus notulae quaedam musicae, quo
+          simplici tenore quisque possit citra laborem versicos modulari.
+          Utrecht: Harmannus Borculous 1552."
+        year: "1552"
+        url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusLazarus1552/index.htm
+        type: print
   complete: true
   _includeDocx: false
 - id: neolat000109
@@ -1554,27 +1562,25 @@
     University. Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the
     authorisation of this digitisation."
   institution: Leiden University
-  sourceTextEdition:
-    title: "Petriscus Georgii Macropedii fabula iucundissima. Utrecht: Harmannus
-      Borculous 1553."
-    editor: null
-    year: "1553"
-    copyright: null
-    url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusPetriscus1553/index.htm
-  criticalEdition:
-    title: "Georgius Macropedius: Petriscus. In: Henk Giebels, Frans Slits: Georgius
-      Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
-      Tilburg: Stichting Zuidelijk Historisch Contact Tilburg 2005, De komedies
-      van Macropedius. CD-ROM: Latijnse tekst van Omnes Fabulae Comicae."
-    editor: Henk Giebels; Frans Slits
-    year: "2005"
-    copyright: null
-    url: null
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
-    copyright: null
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/MacropediusPetriscus1553.html
+    source:
+      title: "Georgius Macropedius: Petriscus. In: Henk Giebels, Frans Slits: Georgius
+        Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
+        Tilburg: Stichting Zuidelijk Historisch Contact Tilburg 2005, De
+        komedies van Macropedius. CD-ROM: Latijnse tekst van Omnes Fabulae
+        Comicae."
+      editor: Henk Giebels; Frans Slits
+      year: "2005"
+      type: critical edition
+      source:
+        title: "Petriscus Georgii Macropedii fabula iucundissima. Utrecht: Harmannus
+          Borculous 1553."
+        year: "1553"
+        url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusPetriscus1553/index.htm
+        type: print
   complete: true
   _includeDocx: false
 - id: neolat000005
@@ -1610,27 +1616,25 @@
     University. Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the
     authorisation of this digitisation."
   institution: Leiden University; Freie Universität Berlin; Ruhr University Bochum
-  sourceTextEdition:
-    title: Rebelles Macropedii fabula longe iucundissima, rudibus adhuc et tenellis
-      Traiectinae scholae auditoribus nuncupata. Utrecht 1553.
-    editor: null
-    year: "1553"
-    copyright: null
-    url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusRebelles1553/index.htm
-  criticalEdition:
-    title: "Georgius Macropedius: Rebelles. In: Henk Giebels, Frans Slits: Georgius
-      Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
-      Tilburg: Stichting Zuidelijk Historisch Contact Tilburg 2005, De komedies
-      van Macropedius. CD-ROM: Latijnse tekst van Omnes Fabulae Comicae."
-    editor: Henk Giebels; Frans Slits
-    year: "2005"
-    copyright: null
-    url: null
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
-    copyright: null
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/MacropediusRebelles1553.html
+    source:
+      title: "Georgius Macropedius: Rebelles. In: Henk Giebels, Frans Slits: Georgius
+        Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
+        Tilburg: Stichting Zuidelijk Historisch Contact Tilburg 2005, De
+        komedies van Macropedius. CD-ROM: Latijnse tekst van Omnes Fabulae
+        Comicae."
+      editor: Henk Giebels; Frans Slits
+      year: "2005"
+      type: critical edition
+      source:
+        title: Rebelles Macropedii fabula longe iucundissima, rudibus adhuc et tenellis
+          Traiectinae scholae auditoribus nuncupata. Utrecht 1553.
+        year: "1553"
+        url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusRebelles1553/index.htm
+        type: print
   complete: true
   _includeDocx: false
 - id: neolat000034
@@ -1659,29 +1663,26 @@
   transcription:
     by: Zuzana Adamaitis
     supervisor: Markéta Klosová
-  manuscript:
-    title: Toboeus, comoedia sacra et nova. Scripta ad Decanum et Magistros
-      Facultatis philosophicae in Academia Pragensi a M. Joanne Aquila a Plavcze
-      Anno Domini 1569.Excusa Pragae typis M. Danielis Adami a Veleslavino M. D.
-      LXXXVII [1587]; Národní knihovna České republiky, Praha, sign. 52 G 6,
-      adl. 14
-    date: "1587"
-    copyright: null
-    url: null
-  criticalEdition:
-    title: Magdaléna Jacková, Markéta Klosová, Martin Bažil, Alena Bočková, Kateřina
-      Bobková-Valentová, Eva Popelková (eds,), Latinské biblické drama v českých
-      zemích, Praha 2025, in print, (= Theatrum Neolatinum, Latinské divadlo v
-      českých zemích,  3)
-    editor: Markéta Klosová; Eva Popelková
-    year: "2025"
-    copyright: INFORMATION NEEDED
-    url: https://www.theatrum-neolatinum.cz/en/biblicke.html
-  digitalSource:
+  source:
     title: Theatrum Neolatinum
-    editor: null
-    copyright: null
-    url: null
+    source:
+      title: Magdaléna Jacková, Markéta Klosová, Martin Bažil, Alena Bočková, Kateřina
+        Bobková-Valentová, Eva Popelková (eds,), Latinské biblické drama v
+        českých zemích, Praha 2025, in print, (= Theatrum Neolatinum, Latinské
+        divadlo v českých zemích,  3)
+      editor: Markéta Klosová; Eva Popelková
+      year: "2025"
+      copyright: INFORMATION NEEDED
+      url: https://www.theatrum-neolatinum.cz/en/biblicke.html
+      type: critical edition
+      source:
+        title: Toboeus, comoedia sacra et nova. Scripta ad Decanum et Magistros
+          Facultatis philosophicae in Academia Pragensi a M. Joanne Aquila a
+          Plavcze Anno Domini 1569.Excusa Pragae typis M. Danielis Adami a
+          Veleslavino M. D. LXXXVII [1587]; Národní knihovna České republiky,
+          Praha, sign. 52 G 6, adl. 14
+        date: "1587"
+        type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000037
@@ -1709,29 +1710,27 @@
   transcription:
     by: null
     supervisor: Magdaléna Jacková
-  manuscript:
-    title: AMICITIa VsqVe aD aras neCIs non InterrVpta,a olim in Damone et Pythia
-      coram Siciliae tyranno Dionysio, hodie in theatro exhibita ac scenice
-      representata agente Perillustri, Nobili et Ingenua supremae classis
-      grammaticae juventute in Caesareo Regioque Soc. Jesu collegio Glacii anno
-      1720, mense Junio, die ..., Biblioteka Uniwersytecka we Wrocławiu, Oddział
-      Rękopisów, sign. Akc. 1949 KN 180, f. 90v–102v
-    date: "1720"
-    copyright: Biblioteka Uniwersytecka we Wrocławiu
-    url: null
-  criticalEdition:
-    title: "Magdaléna Jacková: Nejmírnější Pallas. Hry určené gramatikálním třídám
-      jezuitských gymnázií. Praha: Academia, 2016. (= Theatrum Neolatinum.
-      Latinské divadlo v českých zemích, 2.), p. 340-393"
-    editor: Magdaléna Jacková
-    year: "2016"
-    copyright: INFORMATION NEEDED
-    url: https://www.theatrum-neolatinum.cz/en/hry/Amicitia/amicitia.html
-  digitalSource:
+  source:
     title: Theatrum Neolatinum
-    editor: null
-    copyright: null
-    url: null
+    source:
+      title: "Magdaléna Jacková: Nejmírnější Pallas. Hry určené gramatikálním třídám
+        jezuitských gymnázií. Praha: Academia, 2016. (= Theatrum Neolatinum.
+        Latinské divadlo v českých zemích, 2.), p. 340-393"
+      editor: Magdaléna Jacková
+      year: "2016"
+      copyright: INFORMATION NEEDED
+      url: https://www.theatrum-neolatinum.cz/en/hry/Amicitia/amicitia.html
+      type: critical edition
+      source:
+        title: AMICITIa VsqVe aD aras neCIs non InterrVpta,a olim in Damone et Pythia
+          coram Siciliae tyranno Dionysio, hodie in theatro exhibita ac scenice
+          representata agente Perillustri, Nobili et Ingenua supremae classis
+          grammaticae juventute in Caesareo Regioque Soc. Jesu collegio Glacii
+          anno 1720, mense Junio, die ..., Biblioteka Uniwersytecka we
+          Wrocławiu, Oddział Rękopisów, sign. Akc. 1949 KN 180, f. 90v–102v
+        date: "1720"
+        copyright: Biblioteka Uniwersytecka we Wrocławiu
+        type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000057
@@ -1759,36 +1758,34 @@
   transcription:
     by: Zuzana Adamaitis
     supervisor: Alena Bočková
-  manuscript:
-    title: "Tobias Junior, illustrissimis sponsis, Wenceslao Guilielmo Poppelio,
-      Baroni a Lobkovitz, Domino in Tuchs, Scheichlap, Schreckenstain,
-      Oberleutmansdorff et Georgenthal, Sacrae Caesareae Majestatis Consiliario
-      et ejusdem atque Serenissimi Ferdinandi, Archiducis Austriae etc.,
-      Camerario, etMargaretae Franciscae, Comitissae de Dietrichstein, Cremsirii
-      nuptiales dies agitantibus, ibidem datus ab illustribus, generosis,
-      nobilibus, ingenuis adolescentibus, Episcopalis Academiae Olomucii
-      studiosis Societatis Jesu, illustrissimorum novorum conjugum
-      observantissimis. Olomucii: Typis Georgii Handelii, Anno M. DC. XVI
-      [1616], Královská kanonie premonstrátů na Strahově - Strahovská knihovna,
-      sign. AA VII 54 adl. 38; Národní knihovna České republiky, Praha, sign. 52
-      C 21, adl. 11"
-    date: "1616"
-    copyright: National archives CR
-    url: null
-  criticalEdition:
-    title: Magdaléna Jacková, Markéta Klosová, Martin Bažil, Alena Bočková, Kateřina
-      Bobková-Valentová, Eva Popelková (eds,), Latinské biblické drama v českých
-      zemích, Praha 2025, in print, (= Theatrum Neolatinum, Latinské divadlo v
-      českých zemích,  3)
-    editor: Alena Bočková
-    year: "2025"
-    copyright: INFORMATION NEEDED
-    url: https://www.theatrum-neolatinum.cz/en/biblicke.html
-  digitalSource:
+  source:
     title: Theatrum Neolatinum
-    editor: null
-    copyright: null
-    url: null
+    source:
+      title: Magdaléna Jacková, Markéta Klosová, Martin Bažil, Alena Bočková, Kateřina
+        Bobková-Valentová, Eva Popelková (eds,), Latinské biblické drama v
+        českých zemích, Praha 2025, in print, (= Theatrum Neolatinum, Latinské
+        divadlo v českých zemích,  3)
+      editor: Alena Bočková
+      year: "2025"
+      copyright: INFORMATION NEEDED
+      url: https://www.theatrum-neolatinum.cz/en/biblicke.html
+      type: critical edition
+      source:
+        title: "Tobias Junior, illustrissimis sponsis, Wenceslao Guilielmo Poppelio,
+          Baroni a Lobkovitz, Domino in Tuchs, Scheichlap, Schreckenstain,
+          Oberleutmansdorff et Georgenthal, Sacrae Caesareae Majestatis
+          Consiliario et ejusdem atque Serenissimi Ferdinandi, Archiducis
+          Austriae etc., Camerario, etMargaretae Franciscae, Comitissae de
+          Dietrichstein, Cremsirii nuptiales dies agitantibus, ibidem datus ab
+          illustribus, generosis, nobilibus, ingenuis adolescentibus,
+          Episcopalis Academiae Olomucii studiosis Societatis Jesu,
+          illustrissimorum novorum conjugum observantissimis. Olomucii: Typis
+          Georgii Handelii, Anno M. DC. XVI [1616], Královská kanonie
+          premonstrátů na Strahově - Strahovská knihovna, sign. AA VII 54 adl.
+          38; Národní knihovna České republiky, Praha, sign. 52 C 21, adl. 11"
+        date: "1616"
+        copyright: National archives CR
+        type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000083
@@ -1816,27 +1813,25 @@
   transcription:
     by: null
     supervisor: Kateřina Bobková-Valentová
-  manuscript:
-    title: Mysterium a seculis tacitum, lingva incorrupta sacramentalis merces
-      silentii. A. 1732; National archives CR, fond Jesuitica, sign. IIIo-447,
-      box, 176, f. 54r-69v
-    date: "1732"
-    copyright: National archives CR
-    url: null
-  criticalEdition:
-    title: "Kateřina Bobková-Valentová – Alena Bočková – Magdaléna Jacková – Martin
-      Bažil – Eva Pauerová – Jan Zdichynec – Zdeněk Žalud: Sv. Jan Nepomucký na
-      jezuitských školních scénách. Praha: Academia, 2015. (= Theatrum
-      Neolatinum. Latinské divadlo v českých zemích, 1.), p. 354-465."
-    editor: Kateřina Bobková-Valentová
-    year: "2015"
-    copyright: INFORMATION NEEDED
-    url: https://www.theatrum-neolatinum.cz/en/hry/Mysterium/mysterium.html
-  digitalSource:
+  source:
     title: Theatrum Neolatinum
-    editor: null
-    copyright: null
-    url: null
+    source:
+      title: "Kateřina Bobková-Valentová – Alena Bočková – Magdaléna Jacková – Martin
+        Bažil – Eva Pauerová – Jan Zdichynec – Zdeněk Žalud: Sv. Jan Nepomucký
+        na jezuitských školních scénách. Praha: Academia, 2015. (= Theatrum
+        Neolatinum. Latinské divadlo v českých zemích, 1.), p. 354-465."
+      editor: Kateřina Bobková-Valentová
+      year: "2015"
+      copyright: INFORMATION NEEDED
+      url: https://www.theatrum-neolatinum.cz/en/hry/Mysterium/mysterium.html
+      type: critical edition
+      source:
+        title: Mysterium a seculis tacitum, lingva incorrupta sacramentalis merces
+          silentii. A. 1732; National archives CR, fond Jesuitica, sign.
+          IIIo-447, box, 176, f. 54r-69v
+        date: "1732"
+        copyright: National archives CR
+        type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000085
@@ -1864,29 +1859,28 @@
   transcription:
     by: null
     supervisor: Magdaléna Jacková
-  manuscript:
-    title: Nomen proprium floris Nazaraei, ex amicitiae lege Amicus alter ego
-      innocentiae flosculo Edmundo ad salutarem lusum olim factum commune, hodie
-      in theatrum translatum ibidemqve exhibitum a Perillustribus, Praenobilibus
-      ac Ingenuis adolescentibus rudimentistis in academico gymnasio Soc. Jesu
-      Pragae ad S. Ignatium anno 1740, mense Junio, die 1, National Archives CR,
-      fond Stará manipulace, J-20-17/18, box 999, f. 804r-816r.
-    date: "1740"
-    copyright: National archives CR
-    url: null
-  criticalEdition:
-    title: "Magdaléna Jacková: Nejmírnější Pallas. Hry určené gramatikálním třídám
-      jezuitských gymnázií. Praha: Academia, 2016. (= Theatrum Neolatinum.
-      Latinské divadlo v českých zemích, 2.), p. 125–185."
-    editor: Magdaléna Jacková
-    year: "2016"
-    copyright: INFORMATION NEEDED
-    url: https://www.theatrum-neolatinum.cz/en/hry/Edmundus/edmundus.html
-  digitalSource:
+  source:
     title: Theatrum Neolatinum
-    editor: null
-    copyright: null
-    url: null
+    source:
+      title: "Magdaléna Jacková: Nejmírnější Pallas. Hry určené gramatikálním třídám
+        jezuitských gymnázií. Praha: Academia, 2016. (= Theatrum Neolatinum.
+        Latinské divadlo v českých zemích, 2.), p. 125–185."
+      editor: Magdaléna Jacková
+      year: "2016"
+      copyright: INFORMATION NEEDED
+      url: https://www.theatrum-neolatinum.cz/en/hry/Edmundus/edmundus.html
+      type: critical edition
+      source:
+        title: Nomen proprium floris Nazaraei, ex amicitiae lege Amicus alter ego
+          innocentiae flosculo Edmundo ad salutarem lusum olim factum commune,
+          hodie in theatrum translatum ibidemqve exhibitum a Perillustribus,
+          Praenobilibus ac Ingenuis adolescentibus rudimentistis in academico
+          gymnasio Soc. Jesu Pragae ad S. Ignatium anno 1740, mense Junio, die
+          1, National Archives CR, fond Stará manipulace, J-20-17/18, box 999,
+          f. 804r-816r.
+        date: "1740"
+        copyright: National archives CR
+        type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000087
@@ -1914,28 +1908,26 @@
   transcription:
     by: null
     supervisor: Magdaléna Jacková
-  manuscript:
-    title: Richardus per Matrem viventium a morte aeterna vindicatus, hodie pro
-      theatro propositus ab Illustrissima, Perillustri, Praenobili ac Ingenua
-      rudimentorum schola in academico gymnasio S. J. , Pragae ad S. Ignatium
-      1735, National Archives CR, fond Stará manipulace, J-20-17/18, k. 998, f.
-      198r - 209v
-    date: "1735"
-    copyright: National archives CR
-    url: null
-  criticalEdition:
-    title: "Magdaléna Jacková: Nejmírnější Pallas. Hry určené gramatikálním třídám
-      jezuitských gymnázií. Praha: Academia, 2016. (= Theatrum Neolatinum.
-      Latinské divadlo v českých zemích, 2.), p. 59–122."
-    editor: Magdaléna Jacková
-    year: "2016"
-    copyright: INFORMATION NEEDED
-    url: https://www.theatrum-neolatinum.cz/en/hry/Richardus/richardus.html
-  digitalSource:
+  source:
     title: Theatrum Neolatinum
-    editor: null
-    copyright: null
-    url: null
+    source:
+      title: "Magdaléna Jacková: Nejmírnější Pallas. Hry určené gramatikálním třídám
+        jezuitských gymnázií. Praha: Academia, 2016. (= Theatrum Neolatinum.
+        Latinské divadlo v českých zemích, 2.), p. 59–122."
+      editor: Magdaléna Jacková
+      year: "2016"
+      copyright: INFORMATION NEEDED
+      url: https://www.theatrum-neolatinum.cz/en/hry/Richardus/richardus.html
+      type: critical edition
+      source:
+        title: Richardus per Matrem viventium a morte aeterna vindicatus, hodie pro
+          theatro propositus ab Illustrissima, Perillustri, Praenobili ac
+          Ingenua rudimentorum schola in academico gymnasio S. J. , Pragae ad S.
+          Ignatium 1735, National Archives CR, fond Stará manipulace,
+          J-20-17/18, k. 998, f. 198r - 209v
+        date: "1735"
+        copyright: National archives CR
+        type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000089
@@ -1963,28 +1955,25 @@
   transcription:
     by: Iveta Pastyříková
     supervisor: Kateřina Bobková-Valentová
-  manuscript:
-    title: INFORMATION NEEDED
-    date: INFORMATION NEEDED
-    copyright: INFORMATION NEEDED
-    url: INFORMATION NEEDED
-  sourceTextEdition:
-    title: INFORMATION NEEDED
-    editor: null
-    year: INFORMATION NEEDED
-    copyright: null
-    url: null
-  criticalEdition:
-    title: INFORMATION NEEDED
-    editor: INFORMATION NEEDED
-    year: INFORMATION NEEDED
-    copyright: INFORMATION NEEDED
-    url: INFORMATION NEEDED
-  digitalSource:
+  source:
     title: Theatrum Neolatinum
-    editor: null
-    copyright: null
-    url: null
+    source:
+      title: INFORMATION NEEDED
+      editor: INFORMATION NEEDED
+      year: INFORMATION NEEDED
+      copyright: INFORMATION NEEDED
+      url: INFORMATION NEEDED
+      type: critical edition
+      source:
+        title: INFORMATION NEEDED
+        year: INFORMATION NEEDED
+        type: print
+        source:
+          title: INFORMATION NEEDED
+          date: INFORMATION NEEDED
+          copyright: INFORMATION NEEDED
+          url: INFORMATION NEEDED
+          type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000098
@@ -2012,27 +2001,25 @@
   transcription:
     by: Alena Bočková
     supervisor: Alena Bočková
-  manuscript:
-    title: Angelus ad aras D. Joannes Nepomucenus. Pro theatro exhibitus a
-      rudimentistis Neopragensibus 1729, 27. Maji, National archives CR, Stará
-      manipulace, sign. J 20/17/18, box 998, f. 330r-337v
-    date: "1729"
-    copyright: National archives CR
-    url: null
-  criticalEdition:
-    title: "Kateřina Bobková-Valentová – Alena Bočková – Magdaléna Jacková – Martin
-      Bažil – Eva Pauerová – Jan Zdichynec – Zdeněk Žalud: Sv. Jan Nepomucký na
-      jezuitských školních scénách. Praha: Academia, 2015. (= Theatrum
-      Neolatinum. Latinské divadlo v českých zemích, 1.), p. 72-139."
-    editor: Alena Bočková
-    year: "2015"
-    copyright: INFORMATION NEEDED
-    url: https://www.theatrum-neolatinum.cz/en/hry/Angelus_ad_aras/angelus.html
-  digitalSource:
+  source:
     title: Theatrum Neolatinum
-    editor: null
-    copyright: null
-    url: null
+    source:
+      title: "Kateřina Bobková-Valentová – Alena Bočková – Magdaléna Jacková – Martin
+        Bažil – Eva Pauerová – Jan Zdichynec – Zdeněk Žalud: Sv. Jan Nepomucký
+        na jezuitských školních scénách. Praha: Academia, 2015. (= Theatrum
+        Neolatinum. Latinské divadlo v českých zemích, 1.), p. 72-139."
+      editor: Alena Bočková
+      year: "2015"
+      copyright: INFORMATION NEEDED
+      url: https://www.theatrum-neolatinum.cz/en/hry/Angelus_ad_aras/angelus.html
+      type: critical edition
+      source:
+        title: Angelus ad aras D. Joannes Nepomucenus. Pro theatro exhibitus a
+          rudimentistis Neopragensibus 1729, 27. Maji, National archives CR,
+          Stará manipulace, sign. J 20/17/18, box 998, f. 330r-337v
+        date: "1729"
+        copyright: National archives CR
+        type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000099
@@ -2060,27 +2047,25 @@
   transcription:
     by: Zdeněk žalud, Jana Ciglerová desenská
     supervisor: Zdeněk Žalud
-  manuscript:
-    title: Vindex duliae Divus Joannes Nepomucenus. Pro theatro exhibitus ab
-      academica syntaxi Neo-Pragae 1731, 21. Maji,  National archives CR, Stará
-      manipulace, sign. J 20/17/18, box 999, f. 585r-592v
-    date: "1731"
-    copyright: National archives CR
-    url: null
-  criticalEdition:
-    title: "Kateřina Bobková-Valentová – Alena Bočková – Magdaléna Jacková – Martin
-      Bažil – Eva Pauerová – Jan Zdichynec – Zdeněk Žalud: Sv. Jan Nepomucký na
-      jezuitských školních scénách. Praha: Academia, 2015. (= Theatrum
-      Neolatinum. Latinské divadlo v českých zemích, 1.), p. 304-353."
-    editor: Zdeněk Žalud
-    year: "2015"
-    copyright: INFORMATION NEEDED
-    url: https://www.theatrum-neolatinum.cz/en/hry/Vindex_duliae/vindex.html
-  digitalSource:
+  source:
     title: Theatrum Neolatinum
-    editor: null
-    copyright: null
-    url: null
+    source:
+      title: "Kateřina Bobková-Valentová – Alena Bočková – Magdaléna Jacková – Martin
+        Bažil – Eva Pauerová – Jan Zdichynec – Zdeněk Žalud: Sv. Jan Nepomucký
+        na jezuitských školních scénách. Praha: Academia, 2015. (= Theatrum
+        Neolatinum. Latinské divadlo v českých zemích, 1.), p. 304-353."
+      editor: Zdeněk Žalud
+      year: "2015"
+      copyright: INFORMATION NEEDED
+      url: https://www.theatrum-neolatinum.cz/en/hry/Vindex_duliae/vindex.html
+      type: critical edition
+      source:
+        title: Vindex duliae Divus Joannes Nepomucenus. Pro theatro exhibitus ab
+          academica syntaxi Neo-Pragae 1731, 21. Maji,  National archives CR,
+          Stará manipulace, sign. J 20/17/18, box 999, f. 585r-592v
+        date: "1731"
+        copyright: National archives CR
+        type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000121
@@ -2109,29 +2094,27 @@
   transcription:
     by: Eva Chodějovská
     supervisor: Jan Zdichynec
-  manuscript:
-    title: Divus Joannes Nepomucenus tenera in aetate virtutis et scientiae
-      illustris idea, imitationi studiosae juventuti propositus. Agente pro
-      theatro academica mediae classis grammaticae juventute Pragae ad S.
-      Ignatium a. 1734; National archives CR, Stará manipulace, sign. J
-      20/17/18, box 998, f. 86r-93v
-    date: "1734"
-    copyright: National archives CR
-    url: null
-  criticalEdition:
-    title: "Kateřina Bobková-Valentová – Alena Bočková – Magdaléna Jacková – Martin
-      Bažil – Eva Pauerová – Jan Zdichynec – Zdeněk Žalud: Sv. Jan Nepomucký na
-      jezuitských školních scénách. Praha: Academia, 2015. (= Theatrum
-      Neolatinum. Latinské divadlo v českých zemích, 1.), p. 190-249."
-    editor: Jan Zdichynec
-    year: "2015"
-    copyright: INFORMATION NEEDED
-    url: https://www.theatrum-neolatinum.cz/en/hry/Divus_Joannes_Nepomucenus/divus_joannes.html
-  digitalSource:
+  source:
     title: Theatrum Neolatinum
-    editor: null
-    copyright: null
-    url: null
+    source:
+      title: "Kateřina Bobková-Valentová – Alena Bočková – Magdaléna Jacková – Martin
+        Bažil – Eva Pauerová – Jan Zdichynec – Zdeněk Žalud: Sv. Jan Nepomucký
+        na jezuitských školních scénách. Praha: Academia, 2015. (= Theatrum
+        Neolatinum. Latinské divadlo v českých zemích, 1.), p. 190-249."
+      editor: Jan Zdichynec
+      year: "2015"
+      copyright: INFORMATION NEEDED
+      url: https://www.theatrum-neolatinum.cz/en/hry/Divus_Joannes_Nepomucenus/divus_joannes.html
+      type: critical edition
+      source:
+        title: Divus Joannes Nepomucenus tenera in aetate virtutis et scientiae
+          illustris idea, imitationi studiosae juventuti propositus. Agente pro
+          theatro academica mediae classis grammaticae juventute Pragae ad S.
+          Ignatium a. 1734; National archives CR, Stará manipulace, sign. J
+          20/17/18, box 998, f. 86r-93v
+        date: "1734"
+        copyright: National archives CR
+        type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000122
@@ -2159,29 +2142,27 @@
   transcription:
     by: null
     supervisor: Magdaléna Jacková
-  manuscript:
-    title: Telo furoris impio amoris potior vis, Patrophilo, natu minimo, imperii
-      corona olim ab exanimi patris corde Cimmerias inter umbras illustris
-      reddita, nunc pro theatro adumbrata ab Ingenua supremae classis
-      [grammaticae] juventute in gymnasio S. Jesu Hradistii a. 1731, mense
-      Junio, die 30, National archives CR, fond Jesuitica, sign. IIIo–446, box
-      175, f. 129r–142v
-    date: "1731"
-    copyright: National archives CR
-    url: null
-  criticalEdition:
-    title: "Magdaléna Jacková: Nejmírnější Pallas. Hry určené gramatikálním třídám
-      jezuitských gymnázií. Praha: Academia, 2016. (= Theatrum Neolatinum.
-      Latinské divadlo v českých zemích, 2.), p. 276-339."
-    editor: Magdaléna Jacková
-    year: "2016"
-    copyright: INFORMATION NEEDED
-    url: https://www.theatrum-neolatinum.cz/en/hry/Telo_furoris/telo_fuoris.html
-  digitalSource:
+  source:
     title: Theatrum Neolatinum
-    editor: null
-    copyright: null
-    url: null
+    source:
+      title: "Magdaléna Jacková: Nejmírnější Pallas. Hry určené gramatikálním třídám
+        jezuitských gymnázií. Praha: Academia, 2016. (= Theatrum Neolatinum.
+        Latinské divadlo v českých zemích, 2.), p. 276-339."
+      editor: Magdaléna Jacková
+      year: "2016"
+      copyright: INFORMATION NEEDED
+      url: https://www.theatrum-neolatinum.cz/en/hry/Telo_furoris/telo_fuoris.html
+      type: critical edition
+      source:
+        title: Telo furoris impio amoris potior vis, Patrophilo, natu minimo, imperii
+          corona olim ab exanimi patris corde Cimmerias inter umbras illustris
+          reddita, nunc pro theatro adumbrata ab Ingenua supremae classis
+          [grammaticae] juventute in gymnasio S. Jesu Hradistii a. 1731, mense
+          Junio, die 30, National archives CR, fond Jesuitica, sign. IIIo–446,
+          box 175, f. 129r–142v
+        date: "1731"
+        copyright: National archives CR
+        type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000123
@@ -2211,28 +2192,26 @@
   transcription:
     by: Zuzana Adamaitis
     supervisor: Magdaléna Jacková
-  manuscript:
-    title: "Gedeon, comaedia nova, cum primis ad usum scholasticum et conditionem
-      temporum accommodata, Pragae: Typis Schimanianis, Anno Domini M DC VI
-      [1606]; Biblioteka Uniwersytecka, Wrocław, sign. 395 683 (=4 N 431 adl.
-      2)"
-    date: "1606"
-    copyright: Biblioteka Uniwersytecka
-    url: null
-  criticalEdition:
-    title: Magdaléna Jacková, Markéta Klosová, Martin Bažil, Alena Bočková, Kateřina
-      Bobková-Valentová, Eva Popelková (eds,), Latinské biblické drama v českých
-      zemích, Praha 2025, in print, (= Theatrum Neolatinum, Latinské divadlo v
-      českých zemích,  3)
-    editor: Magdaléna Jacková
-    year: "2025"
-    copyright: INFORMATION NEEDED
-    url: https://www.theatrum-neolatinum.cz/en/biblicke.html
-  digitalSource:
+  source:
     title: Theatrum Neolatinum
-    editor: null
-    copyright: null
-    url: null
+    source:
+      title: Magdaléna Jacková, Markéta Klosová, Martin Bažil, Alena Bočková, Kateřina
+        Bobková-Valentová, Eva Popelková (eds,), Latinské biblické drama v
+        českých zemích, Praha 2025, in print, (= Theatrum Neolatinum, Latinské
+        divadlo v českých zemích,  3)
+      editor: Magdaléna Jacková
+      year: "2025"
+      copyright: INFORMATION NEEDED
+      url: https://www.theatrum-neolatinum.cz/en/biblicke.html
+      type: critical edition
+      source:
+        title: "Gedeon, comaedia nova, cum primis ad usum scholasticum et conditionem
+          temporum accommodata, Pragae: Typis Schimanianis, Anno Domini M DC VI
+          [1606]; Biblioteka Uniwersytecka, Wrocław, sign. 395 683 (=4 N 431
+          adl. 2)"
+        date: "1606"
+        copyright: Biblioteka Uniwersytecka
+        type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000124
@@ -2261,27 +2240,25 @@
   transcription:
     by: Zuzana Adamaitis
     supervisor: Magdaléna Jacková
-  manuscript:
-    title: "Iosephiados comaedia ex Genesis lib. cap. 39. 40.41. Pragae: typis
-      Schumanianis, 1607. BU Wroclaw, sign. 395 682 (= 4 N 431, adl. 1); Det
-      Kgl. Bibliotek, sign. 75:4, 30 00016"
-    date: "1607"
-    copyright: Det Kgl. Bibliotek
-    url: null
-  criticalEdition:
-    title: Magdaléna Jacková, Markéta Klosová, Martin Bažil, Alena Bočková, Kateřina
-      Bobková-Valentová, Eva Popelková (eds,), Latinské biblické drama v českých
-      zemích, Praha 2025, in print, (= Theatrum Neolatinum, Latinské divadlo v
-      českých zemích,  3)
-    editor: Magdaléna Jacková
-    year: "2025"
-    copyright: INFORMATION NEEDED
-    url: https://www.theatrum-neolatinum.cz/en/biblicke.html
-  digitalSource:
+  source:
     title: Theatrum Neolatinum
-    editor: null
-    copyright: null
-    url: null
+    source:
+      title: Magdaléna Jacková, Markéta Klosová, Martin Bažil, Alena Bočková, Kateřina
+        Bobková-Valentová, Eva Popelková (eds,), Latinské biblické drama v
+        českých zemích, Praha 2025, in print, (= Theatrum Neolatinum, Latinské
+        divadlo v českých zemích,  3)
+      editor: Magdaléna Jacková
+      year: "2025"
+      copyright: INFORMATION NEEDED
+      url: https://www.theatrum-neolatinum.cz/en/biblicke.html
+      type: critical edition
+      source:
+        title: "Iosephiados comaedia ex Genesis lib. cap. 39. 40.41. Pragae: typis
+          Schumanianis, 1607. BU Wroclaw, sign. 395 682 (= 4 N 431, adl. 1); Det
+          Kgl. Bibliotek, sign. 75:4, 30 00016"
+        date: "1607"
+        copyright: Det Kgl. Bibliotek
+        type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000150
@@ -2309,29 +2286,27 @@
   transcription:
     by: null
     supervisor: Magdaléna Jacková
-  manuscript:
-    title: Gratiosus Matris pulchrae dilectionis lusus, olim Ismeriam, Aegypti regis
-      filiam, Christo lucratus, hodie ludo dramatico exhibitus ab Illustrissima,
-      Perillustri, Praenobili, Nobili, ac Ingenua mediae classis grammatices
-      juventute academici gymnasii Societatis Jesu Pragae ad Sanctum Ignatium
-      1729, mense Majo, die 17.; National Archives CR, fond Stará manipulace,
-      J-20-17/18, k. 998, f. 372r-384r
-    date: "1729"
-    copyright: National archives CR
-    url: null
-  criticalEdition:
-    title: "Magdaléna Jacková: Nejmírnější Pallas. Hry určené gramatikálním třídám
-      jezuitských gymnázií. Praha: Academia, 2016. (= Theatrum Neolatinum.
-      Latinské divadlo v českých zemích, 2.), p. 186-275;"
-    editor: Magdaléna Jacková
-    year: "2016"
-    copyright: INFORMATION NEEDED
-    url: https://www.theatrum-neolatinum.cz/en/hry/Ismeria/ismeria.html
-  digitalSource:
+  source:
     title: Theatrum Neolatinum
-    editor: null
-    copyright: null
-    url: null
+    source:
+      title: "Magdaléna Jacková: Nejmírnější Pallas. Hry určené gramatikálním třídám
+        jezuitských gymnázií. Praha: Academia, 2016. (= Theatrum Neolatinum.
+        Latinské divadlo v českých zemích, 2.), p. 186-275;"
+      editor: Magdaléna Jacková
+      year: "2016"
+      copyright: INFORMATION NEEDED
+      url: https://www.theatrum-neolatinum.cz/en/hry/Ismeria/ismeria.html
+      type: critical edition
+      source:
+        title: Gratiosus Matris pulchrae dilectionis lusus, olim Ismeriam, Aegypti regis
+          filiam, Christo lucratus, hodie ludo dramatico exhibitus ab
+          Illustrissima, Perillustri, Praenobili, Nobili, ac Ingenua mediae
+          classis grammatices juventute academici gymnasii Societatis Jesu
+          Pragae ad Sanctum Ignatium 1729, mense Majo, die 17.; National
+          Archives CR, fond Stará manipulace, J-20-17/18, k. 998, f. 372r-384r
+        date: "1729"
+        copyright: National archives CR
+        type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000156
@@ -2359,29 +2334,27 @@
   transcription:
     by: Kateřina Řezníčková
     supervisor: Magdaléna Jacková
-  manuscript:
-    title: Vox clamantis, Mariae amantis echo sive S. Joannes Nepomucenus, qvondam
-      dilectus a Matre pulchrae dilectionis, eidem tenerrima dilectione
-      correspondens. Hodie in theatro propositus ab infima gramatices classe
-      Neo-Pragae 1724,  National archives CR, Stará manipulace, sign. J
-      20/17/18, box 998, f. 299v-308v
-    date: "1724"
-    copyright: National archives CR
-    url: null
-  criticalEdition:
-    title: "Kateřina Bobková-Valentová – Alena Bočková – Magdaléna Jacková – Martin
-      Bažil – Eva Pauerová – Jan Zdichynec – Zdeněk Žalud: Sv. Jan Nepomucký na
-      jezuitských školních scénách. Praha: Academia, 2015. (= Theatrum
-      Neolatinum. Latinské divadlo v českých zemích, 1.), p. 140-189."
-    editor: Magdaléna Jacková
-    year: "2015"
-    copyright: INFORMATION NEEDED
-    url: https://www.theatrum-neolatinum.cz/en/hry/Vox_clamantis/vox.html
-  digitalSource:
+  source:
     title: Theatrum Neolatinum
-    editor: null
-    copyright: null
-    url: null
+    source:
+      title: "Kateřina Bobková-Valentová – Alena Bočková – Magdaléna Jacková – Martin
+        Bažil – Eva Pauerová – Jan Zdichynec – Zdeněk Žalud: Sv. Jan Nepomucký
+        na jezuitských školních scénách. Praha: Academia, 2015. (= Theatrum
+        Neolatinum. Latinské divadlo v českých zemích, 1.), p. 140-189."
+      editor: Magdaléna Jacková
+      year: "2015"
+      copyright: INFORMATION NEEDED
+      url: https://www.theatrum-neolatinum.cz/en/hry/Vox_clamantis/vox.html
+      type: critical edition
+      source:
+        title: Vox clamantis, Mariae amantis echo sive S. Joannes Nepomucenus, qvondam
+          dilectus a Matre pulchrae dilectionis, eidem tenerrima dilectione
+          correspondens. Hodie in theatro propositus ab infima gramatices classe
+          Neo-Pragae 1724,  National archives CR, Stará manipulace, sign. J
+          20/17/18, box 998, f. 299v-308v
+        date: "1724"
+        copyright: National archives CR
+        type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000166
@@ -2409,28 +2382,26 @@
   transcription:
     by: Kateřina Hrbková, Zuzana Adamaitis
     supervisor: Alena Bočková
-  manuscript:
-    title: Divus Joannes Nepomucenus patiendo Martyr gloriosissimus. A media classe
-      grammatices Hradistii cothurnum induta pro scena exhibitus anno 1729, die
-      21. Martii, National archives CR, fond Jesuitica, sign. IIIo-446, box,
-      175, f. 55r-66v
-    date: "1729"
-    copyright: National archives CR
-    url: null
-  criticalEdition:
-    title: "Kateřina Bobková-Valentová – Alena Bočková – Magdaléna Jacková – Martin
-      Bažil – Eva Pauerová – Jan Zdichynec – Zdeněk Žalud: Sv. Jan Nepomucký na
-      jezuitských školních scénách. Praha: Academia, 2015. (= Theatrum
-      Neolatinum. Latinské divadlo v českých zemích, 1.), p. 250-303."
-    editor: Alena Bočková
-    year: "2015"
-    copyright: INFORMATION NEEDED
-    url: https://www.theatrum-neolatinum.cz/en/hry/Divus%20_Joannes_Martyr/divus_martyr.html
-  digitalSource:
+  source:
     title: Theatrum Neolatinum
-    editor: null
-    copyright: null
-    url: null
+    source:
+      title: "Kateřina Bobková-Valentová – Alena Bočková – Magdaléna Jacková – Martin
+        Bažil – Eva Pauerová – Jan Zdichynec – Zdeněk Žalud: Sv. Jan Nepomucký
+        na jezuitských školních scénách. Praha: Academia, 2015. (= Theatrum
+        Neolatinum. Latinské divadlo v českých zemích, 1.), p. 250-303."
+      editor: Alena Bočková
+      year: "2015"
+      copyright: INFORMATION NEEDED
+      url: https://www.theatrum-neolatinum.cz/en/hry/Divus%20_Joannes_Martyr/divus_martyr.html
+      type: critical edition
+      source:
+        title: Divus Joannes Nepomucenus patiendo Martyr gloriosissimus. A media classe
+          grammatices Hradistii cothurnum induta pro scena exhibitus anno 1729,
+          die 21. Martii, National archives CR, fond Jesuitica, sign. IIIo-446,
+          box, 175, f. 55r-66v
+        date: "1729"
+        copyright: National archives CR
+        type: manuscript
   complete: false
   _includeDocx: false
 - id: neolat000007
@@ -2459,18 +2430,16 @@
     supervisor: Jan Bloemendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Paul Aler: Innocentia victrix sive Genovefa. Cologne: Johann Alstorff
-      1706."
-    editor: null
-    year: "1706"
-    copyright: null
-    url: https://play.google.com/books/reader?id=CtBEAAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptionsOrig/docx/Aler-Innocentia.docx
+    source:
+      title: "Paul Aler: Innocentia victrix sive Genovefa. Cologne: Johann Alstorff
+        1706."
+      year: "1706"
+      url: https://play.google.com/books/reader?id=CtBEAAAAcAAJ
+      type: print
   funding:
     organization: Dutch Research Council (NWO)
     line: NWO Open Competition SSH
@@ -2503,21 +2472,20 @@
     supervisor: Jan Bloemendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Euripus. Tragoedia Christiana nova, authore F. Livino Brechto
-      Antverpiensi e familia franciscana Louaniensi. Ad Reuerendissimum in
-      Christo |Patrem, et illustrissimum Principem, D. Georgium ab Austria,
-      Episcopum Leodiens. Ducem Bullonens. Comitem Lossens. etc. Leuven:
-      Martinus Rotarius; Petrus Phalesius 1549."
-    editor: null
-    year: "1549"
-    copyright: null
-    url: https://books.google.nl/books?id=Nua_TBRwCikC
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Brechtus-Euripus.docx
+    type: DOCX
+    source:
+      title: "Euripus. Tragoedia Christiana nova, authore F. Livino Brechto
+        Antverpiensi e familia franciscana Louaniensi. Ad Reuerendissimum in
+        Christo |Patrem, et illustrissimum Principem, D. Georgium ab Austria,
+        Episcopum Leodiens. Ducem Bullonens. Comitem Lossens. etc. Leuven:
+        Martinus Rotarius; Petrus Phalesius 1549."
+      year: "1549"
+      url: https://books.google.nl/books?id=Nua_TBRwCikC
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000039
@@ -2546,19 +2514,18 @@
     supervisor: Jan Bloemendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Abrahamus sacrificans. Tragoedia ante plures annos a D. Th. Beza Gallicè
-      edita nunc verò Latina facta, Per Iacobum Brunonem. Cum appendice
-      Epigrammatum. Amsterdam: Laurentius Iacobus 1599."
-    editor: null
-    year: "1599"
-    copyright: null
-    url: https://books.google.nl/books?id=maxlAAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Beza-Abrahamus.docx
+    type: DOCX
+    source:
+      title: "Abrahamus sacrificans. Tragoedia ante plures annos a D. Th. Beza Gallicè
+        edita nunc verò Latina facta, Per Iacobum Brunonem. Cum appendice
+        Epigrammatum. Amsterdam: Laurentius Iacobus 1599."
+      year: "1599"
+      url: https://books.google.nl/books?id=maxlAAAAcAAJ
+      type: print
   complete: true
   _includeDocx: true
 - id: neolat000042
@@ -2587,21 +2554,21 @@
     supervisor: Jan Bloemendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Eusebius Candidus: Plausus luctificae Mortis. In: Susanna per Placentium
-      euangelisten lusa. Eusebii Candidi Elegia, in uanam breuemque; humanae
-      uitae gloriolam. Item Ode Sapphica eiusdem Eusebii, in mortis
-      recordationem. Item Plausus luctificae Mortis, ad modum Dialogi,
-      extemporaliter ab eodem Eusebio lusus. [Antwerpen:] Martinus Caesar 1534."
-    editor: null
-    year: "1534"
-    copyright: null
-    url: https://books.google.nl/books?id=VD44U0886h0C
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Placentius-Plausus.docx
+    type: DOCX
+    source:
+      title: "Eusebius Candidus: Plausus luctificae Mortis. In: Susanna per Placentium
+        euangelisten lusa. Eusebii Candidi Elegia, in uanam breuemque; humanae
+        uitae gloriolam. Item Ode Sapphica eiusdem Eusebii, in mortis
+        recordationem. Item Plausus luctificae Mortis, ad modum Dialogi,
+        extemporaliter ab eodem Eusebio lusus. [Antwerpen:] Martinus Caesar
+        1534."
+      year: "1534"
+      url: https://books.google.nl/books?id=VD44U0886h0C
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000006
@@ -2630,18 +2597,16 @@
     supervisor: null
     software: Transkribus
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Nicolas Caussin: Felicitas. In: Tragoediae Sacrae. Cologne: Johann
-      Kinckius 1621. pp. 175–261."
-    editor: null
-    year: "1621"
-    copyright: null
-    url: https://play.google.com/books/reader?id=RG4UAAAAQAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Caussin-Felicitas.docx
+    source:
+      title: "Nicolas Caussin: Felicitas. In: Tragoediae Sacrae. Cologne: Johann
+        Kinckius 1621. pp. 175–261."
+      year: "1621"
+      url: https://play.google.com/books/reader?id=RG4UAAAAQAAJ
+      type: print
   funding:
     organization: Dutch Research Council (NWO)
     line: NWO Open Competition SSH
@@ -2674,18 +2639,17 @@
     supervisor: Jan Bloemendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Dido. Tragoedia nova. Authore Aulo Gerardo Dalantho Heusdano. Antwerpen:
-      Iohannes Latius 1559."
-    editor: null
-    year: "1559"
-    copyright: null
-    url: INFORMATION NEEDED
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Dalanthus-Dido.docx
+    type: DOCX
+    source:
+      title: "Dido. Tragoedia nova. Authore Aulo Gerardo Dalantho Heusdano. Antwerpen:
+        Iohannes Latius 1559."
+      year: "1559"
+      url: INFORMATION NEEDED
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000060
@@ -2714,21 +2678,20 @@
     supervisor: Jan Bloemendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Elegius Eucharius: Grisellis. In: In hoc opere contenta Grisellis tribus
-      actibus Scenicis per Eligium Eucharium Ludimagistrum Gandensem decorata,
-      Montis arenosi incolarum lucubratiunculae Ad Magistrum Balduinum Hulleum
-      Gaiopolitanum Almae Vniuersitatis Parrisiensis Rectorem dignissimum, missa
-      Strena cum Epistola. [Antwerpen]: M[ichael] Hillenius [1519]."
-    editor: null
-    year: "1519"
-    copyright: null
-    url: https://books.google.be/books?vid=GENT900000083758
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Houcharius-Grisellis.docx
+    type: DOCX
+    source:
+      title: "Elegius Eucharius: Grisellis. In: In hoc opere contenta Grisellis tribus
+        actibus Scenicis per Eligium Eucharium Ludimagistrum Gandensem decorata,
+        Montis arenosi incolarum lucubratiunculae Ad Magistrum Balduinum Hulleum
+        Gaiopolitanum Almae Vniuersitatis Parrisiensis Rectorem dignissimum,
+        missa Strena cum Epistola. [Antwerpen]: M[ichael] Hillenius [1519]."
+      year: "1519"
+      url: https://books.google.be/books?vid=GENT900000083758
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000061
@@ -2756,18 +2719,17 @@
     by: Bram Boers
     supervisor: Jan Bloemendal
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Comoedia nova ac sacra, cui titulus, Soter gloriosus. Auctore Francisco
-      Eucolo Gandensi. Leuven: Ioannes Bogardus 1563."
-    editor: null
-    year: "1563"
-    copyright: null
-    url: https://www.google.de/books/edition/Comoedia_nova_ac_sacra_cvi_titvlvs_soter/yq0TAAAAQAAJ?hl=de
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Goethals-Soter.docx
+    type: DOCX
+    source:
+      title: "Comoedia nova ac sacra, cui titulus, Soter gloriosus. Auctore Francisco
+        Eucolo Gandensi. Leuven: Ioannes Bogardus 1563."
+      year: "1563"
+      url: https://www.google.de/books/edition/Comoedia_nova_ac_sacra_cvi_titvlvs_soter/yq0TAAAAQAAJ?hl=de
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000069
@@ -2797,18 +2759,17 @@
     supervisor: Jan Bloemendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Christus. Rediuiuus Comoedia Tragica, Sacra & noua. Autore Nicolao
-      Grimoaldo. Augsburg: Philippus Ulhardus [1543]."
-    editor: null
-    year: "1543"
-    copyright: null
-    url: http://daten.digitale-sammlungen.de/0001/bsb00015084/images/index.html?id=00015084&groesser=&fip=qrsfsdrqrsxdsydeayaqrsyztsxdsydewqqrs&no=118&seite=1
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Grimald-Christus.docx
+    type: DOCX
+    source:
+      title: "Christus. Rediuiuus Comoedia Tragica, Sacra & noua. Autore Nicolao
+        Grimoaldo. Augsburg: Philippus Ulhardus [1543]."
+      year: "1543"
+      url: http://daten.digitale-sammlungen.de/0001/bsb00015084/images/index.html?id=00015084&groesser=&fip=qrsfsdrqrsxdsydeayaqrsyztsxdsydewqqrs&no=118&seite=1
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000077
@@ -2837,19 +2798,18 @@
     supervisor: Jan Bloemendal
     software: Transkribus
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Gregorii Holonii Leodiensis Catharina, Tragoedia de fortissimo .S.
-      Catharinae Virginis, Doctoris & Martyris certamine. Antwerpen: Ioannes
-      Bellerus 1556."
-    editor: null
-    year: "1556"
-    copyright: null
-    url: https://www.digitale-sammlungen.de/view/bsb00016452?page=%2C1
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Holonius-Catharina.docx
+    type: DOCX
+    source:
+      title: "Gregorii Holonii Leodiensis Catharina, Tragoedia de fortissimo .S.
+        Catharinae Virginis, Doctoris & Martyris certamine. Antwerpen: Ioannes
+        Bellerus 1556."
+      year: "1556"
+      url: https://www.digitale-sammlungen.de/view/bsb00016452?page=%2C1
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000079
@@ -2878,19 +2838,18 @@
     supervisor: Jan Bloemendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Gregorii Holonii Leodiensis Laurentias. Tragoedia de Martyrio
-      constantissimi Leuitae D. Laurentii, Romae sub Decio passi. Antwerpen:
-      Ioannes Bellerum 1556."
-    editor: null
-    year: "1556"
-    copyright: null
-    url: https://www.digitale-sammlungen.de/de/view/bsb00016451?page=,1
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Holonius-Laurentias.docx
+    type: DOCX
+    source:
+      title: "Gregorii Holonii Leodiensis Laurentias. Tragoedia de Martyrio
+        constantissimi Leuitae D. Laurentii, Romae sub Decio passi. Antwerpen:
+        Ioannes Bellerum 1556."
+      year: "1556"
+      url: https://www.digitale-sammlungen.de/de/view/bsb00016451?page=,1
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000080
@@ -2920,18 +2879,17 @@
     supervisor: Jan Bloemendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Rochi Honerdi. I. C. Et supremi in Hollandia consistori senatoris
-      Thamara Tragoedia. Leiden: Ioannes Patius [1611]."
-    editor: null
-    year: "1611"
-    copyright: null
-    url: https://books.google.nl/books?id=eXQ603cHK6MC
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Honerdus-Thamara.docx
+    type: DOCX
+    source:
+      title: "Rochi Honerdi. I. C. Et supremi in Hollandia consistori senatoris
+        Thamara Tragoedia. Leiden: Ioannes Patius [1611]."
+      year: "1611"
+      url: https://books.google.nl/books?id=eXQ603cHK6MC
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000082
@@ -2960,22 +2918,21 @@
     supervisor: Jan Bloemendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Homulus Petri Diesthemii, Comoedia in primis lepida & pia, in rem
-      Christiani hominis adprime faciens, Anuerpie quondam in publico ciuitatum
-      Brabanticarum conuentu uulgariter acta, palmamque adepta. Homulus haec
-      inscribitur comoedia, quod in ea hominis Christiani vita, & cuiuslibet
-      voluptatis carnalis fugacitas graphice depingitur. Köln: Iaspar Gennepaeus
-      1537"
-    editor: null
-    year: "1537"
-    copyright: null
-    url: https://reader.digitale-sammlungen.de/resolve/display/bsb11377619.html
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Ischyrius-Homulus.docx
+    type: DOCX
+    source:
+      title: "Homulus Petri Diesthemii, Comoedia in primis lepida & pia, in rem
+        Christiani hominis adprime faciens, Anuerpie quondam in publico
+        ciuitatum Brabanticarum conuentu uulgariter acta, palmamque adepta.
+        Homulus haec inscribitur comoedia, quod in ea hominis Christiani vita, &
+        cuiuslibet voluptatis carnalis fugacitas graphice depingitur. Köln:
+        Iaspar Gennepaeus 1537"
+      year: "1537"
+      url: https://reader.digitale-sammlungen.de/resolve/display/bsb11377619.html
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000088
@@ -3004,27 +2961,26 @@
     supervisor: Jan Bloemendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Hermanni Knuyt de Slyterhouen Comoedia salebrosa atque lepidissima cui
-      titulus Scornetta. [Prelim: Elegia ad Nicolaum Stael.] Bologna: Hieronimus
-      de Baenedictis 1497."
-    editor: null
-    year: "1497"
-    copyright: null
-    url: https://gallica.bnf.fr/ark:/12148/bpt6k1280094x
-  criticalEdition:
-    title: "Johannes Bolte: Zwei Humanistenkomödien aus Italien. In: Zeitschrift für
-      vergleichende Litteraturgeschichte und Renaissance-Litteratur NF 1
-      (1887/88). pp. 232–244."
-    editor: Johannes Bolte
-    year: 1887/1888
-    copyright: null
-    url: https://archive.org/details/zeitschriftfrve07beckgoog/page/233/mode/1up?view=theater
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Knuyt-Scornetta.docx
+    type: DOCX
+    source:
+      title: "Johannes Bolte: Zwei Humanistenkomödien aus Italien. In: Zeitschrift für
+        vergleichende Litteraturgeschichte und Renaissance-Litteratur NF 1
+        (1887/88). pp. 232–244."
+      editor: Johannes Bolte
+      year: 1887/1888
+      url: https://archive.org/details/zeitschriftfrve07beckgoog/page/233/mode/1up?view=theater
+      type: critical edition
+      source:
+        title: "Hermanni Knuyt de Slyterhouen Comoedia salebrosa atque lepidissima cui
+          titulus Scornetta. [Prelim: Elegia ad Nicolaum Stael.] Bologna:
+          Hieronimus de Baenedictis 1497."
+        year: "1497"
+        url: https://gallica.bnf.fr/ark:/12148/bpt6k1280094x
+        type: print
   complete: false
   _includeDocx: true
 - id: neolat000002
@@ -3052,21 +3008,20 @@
     by: Bram Boers
     supervisor: Jan Bloemendal
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Iacobi Philomusi Locher oratoris et poetae praeclari, Iudicium Paridis
-      ludi cuiusdam instar carmine lucule[n]ter descriptum, ac nuper exactiori
-      cura a superfluis, & erroribus antea co[m]missis prorsus emendatum.
-      Secutus uero est autor Fulgentii Mythologia[m]. Ed. by Ulrich Rhaetus
-      Faber. [Vienna: Werlen] [1523/1524]."
-    editor: Ulrich Rhaetus Faber
-    year: 1523/1524
-    copyright: null
-    url: https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00004866-9
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Locher-Iudicium.docx
+    source:
+      title: "Iacobi Philomusi Locher oratoris et poetae praeclari, Iudicium Paridis
+        ludi cuiusdam instar carmine lucule[n]ter descriptum, ac nuper exactiori
+        cura a superfluis, & erroribus antea co[m]missis prorsus emendatum.
+        Secutus uero est autor Fulgentii Mythologia[m]. Ed. by Ulrich Rhaetus
+        Faber. [Vienna: Werlen] [1523/1524]."
+      editor: Ulrich Rhaetus Faber
+      year: 1523/1524
+      url: https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00004866-9
+      type: print
   funding:
     organization: Dutch Research Council (NWO)
     line: NWO Open Competition SSH
@@ -3099,20 +3054,19 @@
     supervisor: Jan Blomendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Jacobus Cornelius Lummenaeus a Marca: Abimelech. Tragoedia sacra. In:
-      Musae lacrymantes, sive Pleias tragica, id est septem tragoediae sacrae.
-      Bustum Sodomae, Abimelech, Iephte, Sampson, Saul, Amnon, Sedechias. Douai:
-      Johannes de Fampoux 1628. pp. 32–61."
-    editor: null
-    year: "1628"
-    copyright: null
-    url: https://books.google.nl/books?id=3Wg-AAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Lummenaeus-Abimelech.docx
+    type: DOCX
+    source:
+      title: "Jacobus Cornelius Lummenaeus a Marca: Abimelech. Tragoedia sacra. In:
+        Musae lacrymantes, sive Pleias tragica, id est septem tragoediae sacrae.
+        Bustum Sodomae, Abimelech, Iephte, Sampson, Saul, Amnon, Sedechias.
+        Douai: Johannes de Fampoux 1628. pp. 32–61."
+      year: "1628"
+      url: https://books.google.nl/books?id=3Wg-AAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000093
@@ -3142,18 +3096,17 @@
     supervisor: Jan Blomendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Amnon. Tragoedia sacra. Autore Iacobo Cornelio Lummenaeo à Marca. Gent:
-      Cornelius Marius 1617."
-    editor: null
-    year: "1617"
-    copyright: null
-    url: https://books.google.nl/books?id=jTCaKMTHN2AC
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Lummenaeus-Amnon.docx
+    type: DOCX
+    source:
+      title: "Amnon. Tragoedia sacra. Autore Iacobo Cornelio Lummenaeo à Marca. Gent:
+        Cornelius Marius 1617."
+      year: "1617"
+      url: https://books.google.nl/books?id=jTCaKMTHN2AC
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000094
@@ -3183,20 +3136,19 @@
     supervisor: Jan Bloemendal
     software: Transkribus
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Jacobus Cornelius Lummenaeus a Marca: Bustum Sodomae. Tragoedia sacra.
-      In: Musae lacrymantes, sive Pleias tragica, id est septem tragoediae
-      sacrae. Bustum Sodomae, Abimelech, Iephte, Sampson, Saul, Amnon,
-      Sedechias. Douai: Johannes de Fampoux 1628. pp. no page number–51."
-    editor: null
-    year: "1628"
-    copyright: null
-    url: https://books.google.nl/books?id=3Wg-AAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Lummenaeus-Bustum.docx
+    type: DOCX
+    source:
+      title: "Jacobus Cornelius Lummenaeus a Marca: Bustum Sodomae. Tragoedia sacra.
+        In: Musae lacrymantes, sive Pleias tragica, id est septem tragoediae
+        sacrae. Bustum Sodomae, Abimelech, Iephte, Sampson, Saul, Amnon,
+        Sedechias. Douai: Johannes de Fampoux 1628. pp. no page number–51."
+      year: "1628"
+      url: https://books.google.nl/books?id=3Wg-AAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000095
@@ -3226,18 +3178,17 @@
     supervisor: Jan Bloemendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Carcer Babylonis. Tragaed. sacra auct. Iacobo Cornelio a Marca. Gent:
-      Gualterus Manilius 1610."
-    editor: null
-    year: "1610"
-    copyright: null
-    url: https://books.google.nl/books?id=Te4UAAAAQAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Lummenaeus-Carcer.docx
+    type: DOCX
+    source:
+      title: "Carcer Babylonis. Tragaed. sacra auct. Iacobo Cornelio a Marca. Gent:
+        Gualterus Manilius 1610."
+      year: "1610"
+      url: https://books.google.nl/books?id=Te4UAAAAQAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000096
@@ -3267,20 +3218,19 @@
     supervisor: Jan Bloemendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Jacobus Cornelius Lummenaeus a Marca: Iephte. Tragoedia sacra. In: Musae
-      lacrymantes, sive Pleias tragica, id est septem tragoediae sacrae. Bustum
-      Sodomae, Abimelech, Iephte, Sampson, Saul, Amnon, Sedechias. Douai:
-      Johannes de Fampoux 1628. pp. 62–89."
-    editor: null
-    year: "1628"
-    copyright: null
-    url: https://books.google.nl/books?id=3Wg-AAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Lummenaeus-Iephte.docx
+    type: DOCX
+    source:
+      title: "Jacobus Cornelius Lummenaeus a Marca: Iephte. Tragoedia sacra. In: Musae
+        lacrymantes, sive Pleias tragica, id est septem tragoediae sacrae.
+        Bustum Sodomae, Abimelech, Iephte, Sampson, Saul, Amnon, Sedechias.
+        Douai: Johannes de Fampoux 1628. pp. 62–89."
+      year: "1628"
+      url: https://books.google.nl/books?id=3Wg-AAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000097
@@ -3310,20 +3260,19 @@
     supervisor: Jan Bloemendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Jacobus Cornelius Lummenaeus a Marca: Sampson. Tragoedia sacra. In:
-      Musae lacrymantes, sive Pleias tragica, id est septem tragoediae sacrae.
-      Bustum Sodomae, Abimelech, Iephte, Sampson, Saul, Amnon, Sedechias. Douai:
-      Johannes de Fampoux 1628. pp. 90–119."
-    editor: null
-    year: "1628"
-    copyright: null
-    url: https://books.google.nl/books?id=3Wg-AAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Lummenaeus-Sampson.docx
+    type: DOCX
+    source:
+      title: "Jacobus Cornelius Lummenaeus a Marca: Sampson. Tragoedia sacra. In:
+        Musae lacrymantes, sive Pleias tragica, id est septem tragoediae sacrae.
+        Bustum Sodomae, Abimelech, Iephte, Sampson, Saul, Amnon, Sedechias.
+        Douai: Johannes de Fampoux 1628. pp. 90–119."
+      year: "1628"
+      url: https://books.google.nl/books?id=3Wg-AAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000003
@@ -3352,20 +3301,18 @@
     by: Bram Boers
     supervisor: Jan Bloemendal
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Jacobus Cornelius Lummenaeus a Marca: Saul. Tragoedia sacra. In: Musae
-      lacrymantes, sive Pleias tragica, id est septem tragoediae sacrae. Bustum
-      Sodomae, Abimelech, Iephte, Sampson, Saul, Amnon, Sedechias. Douai:
-      Johannes de Fampoux 1628. pp. 120–156."
-    editor: null
-    year: "1628"
-    copyright: null
-    url: https://books.google.nl/books?id=3Wg-AAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Lummenaeus-Saul.docx
+    source:
+      title: "Jacobus Cornelius Lummenaeus a Marca: Saul. Tragoedia sacra. In: Musae
+        lacrymantes, sive Pleias tragica, id est septem tragoediae sacrae.
+        Bustum Sodomae, Abimelech, Iephte, Sampson, Saul, Amnon, Sedechias.
+        Douai: Johannes de Fampoux 1628. pp. 120–156."
+      year: "1628"
+      url: https://books.google.nl/books?id=3Wg-AAAAcAAJ
+      type: print
   funding:
     organization: Dutch Research Council (NWO)
     line: NWO Open Competition SSH
@@ -3396,18 +3343,17 @@
     by: Jan Bloemendal
     supervisor: null
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "M. A. Mureti Iulius Caesar. In: M. A. Mureti Iuuenalia. Barth: Officina
-      principis 1590. pp. 17–40."
-    editor: null
-    year: "1590"
-    copyright: null
-    url: https://books.google.nl/books?id=gvQ7AAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Muretus-Caesar.docx
+    type: DOCX
+    source:
+      title: "M. A. Mureti Iulius Caesar. In: M. A. Mureti Iuuenalia. Barth: Officina
+        principis 1590. pp. 17–40."
+      year: "1590"
+      url: https://books.google.nl/books?id=gvQ7AAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000115
@@ -3437,18 +3383,17 @@
     supervisor: Jan Bloemendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Petri Papei Samarites comoedia de Samaritano Euangelico. Antwerpen:
-      [Guilhelmus Montanus] 1539."
-    editor: null
-    year: "1539"
-    copyright: null
-    url: https://books.google.nl/books?id=sFtYAAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Papaeus-Samarites.docx
+    type: DOCX
+    source:
+      title: "Petri Papei Samarites comoedia de Samaritano Euangelico. Antwerpen:
+        [Guilhelmus Montanus] 1539."
+      year: "1539"
+      url: https://books.google.nl/books?id=sFtYAAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000118
@@ -3477,17 +3422,17 @@
     supervisor: Jan Bloemendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: Clericus eques, authore evangelista Placentio Trudonense Dominica. [1535].
-    editor: null
-    year: "1535"
-    copyright: null
-    url: https://books.google.nl/books?id=nmZPAAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Placentius-Clericus.docx
+    type: DOCX
+    source:
+      title: Clericus eques, authore evangelista Placentio Trudonense Dominica.
+        [1535].
+      year: "1535"
+      url: https://books.google.nl/books?id=nmZPAAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000004
@@ -3515,22 +3460,20 @@
     by: Jan Bloemendal
     supervisor: null
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Johannes Leo Placentius: Susanna. In: Susanna per Plancentium
-      euangelisten lusa. Eusebii Candidi Elegia, in uanam breuemque humanae
-      uitae gloriolam. Item Ode Sapphica eiusdem Eusebij, in mortis
-      recordationem. Item Plausus luctificae mortis, ad modum Dialogi,
-      extemporaliter ad eodem Eusebio lusus. Antwerp: Mich[iel] Hillen van
-      Hoochstraten 1534."
-    editor: null
-    year: "1534"
-    copyright: null
-    url: https://books.google.de/books?id=zZgzjJruqfwC&amp;hl=de&amp;source=gbs_navlinks_s
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Placentius-Susanna.docx
+    source:
+      title: "Johannes Leo Placentius: Susanna. In: Susanna per Plancentium
+        euangelisten lusa. Eusebii Candidi Elegia, in uanam breuemque humanae
+        uitae gloriolam. Item Ode Sapphica eiusdem Eusebij, in mortis
+        recordationem. Item Plausus luctificae mortis, ad modum Dialogi,
+        extemporaliter ad eodem Eusebio lusus. Antwerp: Mich[iel] Hillen van
+        Hoochstraten 1534."
+      year: "1534"
+      url: https://books.google.de/books?id=zZgzjJruqfwC&amp;hl=de&amp;source=gbs_navlinks_s
+      type: print
   funding:
     organization: Dutch Research Council (NWO)
     line: NWO Open Competition SSH
@@ -3563,18 +3506,17 @@
     supervisor: Jan Bloemendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Iacobi Rosefeldi Franci Moschus. Comoedia altera. Jena: Tobias
-      Steinmannus 1599."
-    editor: null
-    year: "1599"
-    copyright: null
-    url: https://books.google.nl/books?id=3ARXAAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Rosefeldus-Moschus.docx
+    type: DOCX
+    source:
+      title: "Iacobi Rosefeldi Franci Moschus. Comoedia altera. Jena: Tobias
+        Steinmannus 1599."
+      year: "1599"
+      url: https://books.google.nl/books?id=3ARXAAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000127
@@ -3602,19 +3544,18 @@
     by: Jan Bloemendal
     supervisor: null
   institution: Huygens Institute
-  criticalEdition:
-    title: "Adrianus Roulerius: Stuarta tragoedia. Ed. by Roman Woerner. Berlin:
-      Weidmann 1906 (Lateinische Litteraturdenkmäler des 15. und 16.
-      Jahrhunderts 17)."
-    editor: Roman Woerner
-    year: "1906"
-    copyright: null
-    url: null
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Roulerius-Stuarta.docx
+    type: DOCX
+    source:
+      title: "Adrianus Roulerius: Stuarta tragoedia. Ed. by Roman Woerner. Berlin:
+        Weidmann 1906 (Lateinische Litteraturdenkmäler des 15. und 16.
+        Jahrhunderts 17)."
+      editor: Roman Woerner
+      year: "1906"
+      type: critical edition
   complete: false
   _includeDocx: true
 - id: neolat000129
@@ -3644,18 +3585,17 @@
     supervisor: Jan Bloemendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Panagius Salius: Nassouius tragoedia. In: Panagii Salii Audomarensis
-      Varia Poemata. Paris: Dionysius à Prato 1589."
-    editor: null
-    year: "1589"
-    copyright: null
-    url: https://gallica.bnf.fr/ark:/12148/bpt6k134076p
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Salius-Nassovius.docx
+    type: DOCX
+    source:
+      title: "Panagius Salius: Nassouius tragoedia. In: Panagii Salii Audomarensis
+        Varia Poemata. Paris: Dionysius à Prato 1589."
+      year: "1589"
+      url: https://gallica.bnf.fr/ark:/12148/bpt6k134076p
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000131
@@ -3684,21 +3624,20 @@
     supervisor: null
     software: Transkribus
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Cornelius Schonaeus: Ananias. In: Terentii Christiani Pars Secunda: Qua
-      continentur sacrae comoediae sex. Susanna. Daniel. Triumphus Christi.
-      Typhlus. Pentecoste. Ananias. Auctore Cornelio Schonaeo Goudano. Omnia ab
-      auctore diligenter emendata atque recognita. Köln: Gerardus Greuenbruch
-      1618. pp. 209–245."
-    editor: null
-    year: "1618"
-    copyright: null
-    url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Schonaeus-Ananias.docx
+    type: DOCX
+    source:
+      title: "Cornelius Schonaeus: Ananias. In: Terentii Christiani Pars Secunda: Qua
+        continentur sacrae comoediae sex. Susanna. Daniel. Triumphus Christi.
+        Typhlus. Pentecoste. Ananias. Auctore Cornelio Schonaeo Goudano. Omnia
+        ab auctore diligenter emendata atque recognita. Köln: Gerardus
+        Greuenbruch 1618. pp. 209–245."
+      year: "1618"
+      url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000132
@@ -3728,21 +3667,20 @@
     supervisor: null
     software: Transkribus
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Cornelius Schonaeus: Baptistes. Sacra et nova tragico comoedia. In:
-      Cornelii Schonaei Goudani lucubrationum Pars Tertia. Qua continentur
-      Baptistes. Dyscoli. Pseudostratiotae. Cunae. Vitulus. Quibus adiecti sunt
-      Liber Elegiarum, et alter Epigrammatum. Köln: Gerardus Greuenbruch 1618.
-      pp. 8–52."
-    editor: null
-    year: "1618"
-    copyright: null
-    url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Schonaeus-Baptistes.docx
+    type: DOCX
+    source:
+      title: "Cornelius Schonaeus: Baptistes. Sacra et nova tragico comoedia. In:
+        Cornelii Schonaei Goudani lucubrationum Pars Tertia. Qua continentur
+        Baptistes. Dyscoli. Pseudostratiotae. Cunae. Vitulus. Quibus adiecti
+        sunt Liber Elegiarum, et alter Epigrammatum. Köln: Gerardus Greuenbruch
+        1618. pp. 8–52."
+      year: "1618"
+      url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000133
@@ -3772,20 +3710,19 @@
     supervisor: null
     software: Transkribus
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Cornelius Schonaeus: Cunae fabula ludicra. In: Cornelii Schonaei Goudani
-      lucubrationum Pars Tertia. Qua continentur Baptistes. Dyscoli.
-      Pseudostratiotae. Cunae. Vitulus. Quibus adiecti sunt Liber Elegiarum, et
-      alter Epigrammatum. Köln: Gerardus Greuenbruch 1618. pp. 127–161."
-    editor: null
-    year: "1618"
-    copyright: null
-    url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Schonaeus-Cunae.docx
+    type: DOCX
+    source:
+      title: "Cornelius Schonaeus: Cunae fabula ludicra. In: Cornelii Schonaei Goudani
+        lucubrationum Pars Tertia. Qua continentur Baptistes. Dyscoli.
+        Pseudostratiotae. Cunae. Vitulus. Quibus adiecti sunt Liber Elegiarum,
+        et alter Epigrammatum. Köln: Gerardus Greuenbruch 1618. pp. 127–161."
+      year: "1618"
+      url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000134
@@ -3814,21 +3751,20 @@
     supervisor: null
     software: Transkribus
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Cornelius Schonaeus: Daniel. In: Terentii Christiani Pars Secunda: Qua
-      continentur sacrae comoediae sex. Susanna. Daniel. Triumphus Christi.
-      Typhlus. Pentecoste. Ananias. Auctore Cornelio Schonaeo Goudano. Omnia ab
-      auctore diligenter emendata atque recognita. Köln: Gerardus Greuenbruch
-      1618. pp. 49–89."
-    editor: null
-    year: "1618"
-    copyright: null
-    url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Schonaeus-Daniel.docx
+    type: DOCX
+    source:
+      title: "Cornelius Schonaeus: Daniel. In: Terentii Christiani Pars Secunda: Qua
+        continentur sacrae comoediae sex. Susanna. Daniel. Triumphus Christi.
+        Typhlus. Pentecoste. Ananias. Auctore Cornelio Schonaeo Goudano. Omnia
+        ab auctore diligenter emendata atque recognita. Köln: Gerardus
+        Greuenbruch 1618. pp. 49–89."
+      year: "1618"
+      url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000135
@@ -3858,20 +3794,19 @@
     supervisor: null
     software: Transkribus
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Cornelius Schonaeus: Dyscoli. Comoedia nova. In: Cornelii Schonaei
-      Goudani lucubrationum Pars Tertia. Qua continentur Baptistes. Dyscoli.
-      Pseudostratiotae. Cunae. Vitulus. Quibus adiecti sunt Liber Elegiarum, et
-      alter Epigrammatum. Köln: Gerardus Greuenbruch 1618. pp. 53–88."
-    editor: null
-    year: "1618"
-    copyright: null
-    url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Schonaeus-Dyscoli.docx
+    type: DOCX
+    source:
+      title: "Cornelius Schonaeus: Dyscoli. Comoedia nova. In: Cornelii Schonaei
+        Goudani lucubrationum Pars Tertia. Qua continentur Baptistes. Dyscoli.
+        Pseudostratiotae. Cunae. Vitulus. Quibus adiecti sunt Liber Elegiarum,
+        et alter Epigrammatum. Köln: Gerardus Greuenbruch 1618. pp. 53–88."
+      year: "1618"
+      url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000136
@@ -3901,19 +3836,18 @@
     supervisor: null
     software: Transkribus
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Fabula comica. In commendationem aedificij, egenis senibus Harlemi
-      extruendi: Scripta, aut lusa potius a Cornelio Schonaeo Goudano. Zwolle:
-      Zacharias Heyns 1607."
-    editor: null
-    year: "1607"
-    copyright: null
-    url: https://books.google.nl/books?id=-PYvx8JL4DAC
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Schonaeus-Fabula.docx
+    type: DOCX
+    source:
+      title: "Fabula comica. In commendationem aedificij, egenis senibus Harlemi
+        extruendi: Scripta, aut lusa potius a Cornelio Schonaeo Goudano. Zwolle:
+        Zacharias Heyns 1607."
+      year: "1607"
+      url: https://books.google.nl/books?id=-PYvx8JL4DAC
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000137
@@ -3942,20 +3876,19 @@
     supervisor: null
     software: Transkribus
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Cornelius Schonaeus: Iosephus. In: Terentius Christianus. Comoediae
-      sacrae sex. Terentiano stylo a Cornelio Schonaeo Goudano conscriptae &
-      nunc demum magna eiusdem diligentia & labore emendatae, atque recognitae.
-      [Prima pars]. Köln: Gerardus Greuenbruch 1614."
-    editor: null
-    year: "1614"
-    copyright: null
-    url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Schonaeus-Iosephus.docx
+    type: DOCX
+    source:
+      title: "Cornelius Schonaeus: Iosephus. In: Terentius Christianus. Comoediae
+        sacrae sex. Terentiano stylo a Cornelio Schonaeo Goudano conscriptae &
+        nunc demum magna eiusdem diligentia & labore emendatae, atque
+        recognitae. [Prima pars]. Köln: Gerardus Greuenbruch 1614."
+      year: "1614"
+      url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000138
@@ -3984,20 +3917,19 @@
     supervisor: null
     software: Transkribus
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Cornelius Schonaeus: Iuditha. In: Terentius Christianus. Comoediae
-      sacrae sex. Terentiano stylo a Cornelio Schonaeo Goudano conscriptae &
-      nunc demum magna eiusdem diligentia & labore emendatae, atque recognitae.
-      [Prima pars]. Köln: Gerardus Greuenbruch 1614."
-    editor: null
-    year: "1614"
-    copyright: null
-    url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Schonaeus-Iuditha.docx
+    type: DOCX
+    source:
+      title: "Cornelius Schonaeus: Iuditha. In: Terentius Christianus. Comoediae
+        sacrae sex. Terentiano stylo a Cornelio Schonaeo Goudano conscriptae &
+        nunc demum magna eiusdem diligentia & labore emendatae, atque
+        recognitae. [Prima pars]. Köln: Gerardus Greuenbruch 1614."
+      year: "1614"
+      url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000139
@@ -4026,20 +3958,19 @@
     supervisor: null
     software: Transkribus
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Cornelius Schonaeus: Naaman. In: Terentius Christianus. Comoediae sacrae
-      sex. Terentiano stylo a Cornelio Schonaeo Goudano conscriptae & nunc demum
-      magna eiusdem diligentia & labore emendatae, atque recognitae. [Prima
-      pars]. Köln: Gerardus Greuenbruch 1614."
-    editor: null
-    year: "1614"
-    copyright: null
-    url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Schonaeus-Naaman.docx
+    type: DOCX
+    source:
+      title: "Cornelius Schonaeus: Naaman. In: Terentius Christianus. Comoediae sacrae
+        sex. Terentiano stylo a Cornelio Schonaeo Goudano conscriptae & nunc
+        demum magna eiusdem diligentia & labore emendatae, atque recognitae.
+        [Prima pars]. Köln: Gerardus Greuenbruch 1614."
+      year: "1614"
+      url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000140
@@ -4068,20 +3999,19 @@
     supervisor: null
     software: Transkribus
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Cornelius Schonaeus: Nehemias. In: Terentius Christianus. Comoediae
-      sacrae sex. Terentiano stylo a Cornelio Schonaeo Goudano conscriptae &
-      nunc demum magna eiusdem diligentia & labore emendatae, atque recognitae.
-      [Prima pars]. Köln: Gerardus Greuenbruch 1614."
-    editor: null
-    year: "1614"
-    copyright: null
-    url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Schonaeus-Nehemias.docx
+    type: DOCX
+    source:
+      title: "Cornelius Schonaeus: Nehemias. In: Terentius Christianus. Comoediae
+        sacrae sex. Terentiano stylo a Cornelio Schonaeo Goudano conscriptae &
+        nunc demum magna eiusdem diligentia & labore emendatae, atque
+        recognitae. [Prima pars]. Köln: Gerardus Greuenbruch 1614."
+      year: "1614"
+      url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000141
@@ -4110,21 +4040,20 @@
     supervisor: null
     software: Transkribus
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Cornelius Schonaeus: Pseudostratiotae. Fabula ludicra. In: Cornelii
-      Schonaei Goudani lucubrationum Pars Tertia. Qua continentur Baptistes.
-      Dyscoli. Pseudostratiotae. Cunae. Vitulus. Quibus adiecti sunt Liber
-      Elegiarum, et alter Epigrammatum. Köln: Gerardus Greuenbruch 1618. pp.
-      89–126."
-    editor: null
-    year: "1618"
-    copyright: null
-    url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Schonaeus-Pentecoste.docx
+    type: DOCX
+    source:
+      title: "Cornelius Schonaeus: Pseudostratiotae. Fabula ludicra. In: Cornelii
+        Schonaei Goudani lucubrationum Pars Tertia. Qua continentur Baptistes.
+        Dyscoli. Pseudostratiotae. Cunae. Vitulus. Quibus adiecti sunt Liber
+        Elegiarum, et alter Epigrammatum. Köln: Gerardus Greuenbruch 1618. pp.
+        89–126."
+      year: "1618"
+      url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000142
@@ -4154,21 +4083,20 @@
     supervisor: null
     software: Transkribus
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Cornelius Schonaeus: Pseudostratiotae. Fabula ludicra. In: Cornelii
-      Schonaei Goudani lucubrationum Pars Tertia. Qua continentur Baptistes.
-      Dyscoli. Pseudostratiotae. Cunae. Vitulus. Quibus adiecti sunt Liber
-      Elegiarum, et alter Epigrammatum. Köln: Gerardus Greuenbruch 1618. pp.
-      89–126."
-    editor: null
-    year: "1618"
-    copyright: null
-    url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Schonaeus-Pseudostratiotae.docx
+    type: DOCX
+    source:
+      title: "Cornelius Schonaeus: Pseudostratiotae. Fabula ludicra. In: Cornelii
+        Schonaei Goudani lucubrationum Pars Tertia. Qua continentur Baptistes.
+        Dyscoli. Pseudostratiotae. Cunae. Vitulus. Quibus adiecti sunt Liber
+        Elegiarum, et alter Epigrammatum. Köln: Gerardus Greuenbruch 1618. pp.
+        89–126."
+      year: "1618"
+      url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000143
@@ -4197,20 +4125,19 @@
     supervisor: null
     software: Transkribus
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Cornelius Schonaeus: Saulus. In: Terentius Christianus. Comoediae sacrae
-      sex. Terentiano stylo a Cornelio Schonaeo Goudano conscriptae & nunc demum
-      magna eiusdem diligentia & labore emendatae, atque recognitae. [Prima
-      pars]. Köln: Gerardus Greuenbruch 1614."
-    editor: null
-    year: "1614"
-    copyright: null
-    url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Schonaeus-Saulus.docx
+    type: DOCX
+    source:
+      title: "Cornelius Schonaeus: Saulus. In: Terentius Christianus. Comoediae sacrae
+        sex. Terentiano stylo a Cornelio Schonaeo Goudano conscriptae & nunc
+        demum magna eiusdem diligentia & labore emendatae, atque recognitae.
+        [Prima pars]. Köln: Gerardus Greuenbruch 1614."
+      year: "1614"
+      url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000144
@@ -4239,21 +4166,20 @@
     supervisor: null
     software: Transkribus
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Cornelius Schonaeus: Susanna. In: Terentii Christiani Pars Secunda: Qua
-      continentur sacrae comoediae sex. Susanna. Daniel. Triumphus Christi.
-      Typhlus. Pentecoste. Ananias. Auctore Cornelio Schonaeo Goudano. Omnia ab
-      auctore diligenter emendata atque recognita. Köln: Gerardus Greuenbruch
-      1618. pp. no page number–46."
-    editor: null
-    year: "1618"
-    copyright: null
-    url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Schonaeus-Susanna.docx
+    type: DOCX
+    source:
+      title: "Cornelius Schonaeus: Susanna. In: Terentii Christiani Pars Secunda: Qua
+        continentur sacrae comoediae sex. Susanna. Daniel. Triumphus Christi.
+        Typhlus. Pentecoste. Ananias. Auctore Cornelio Schonaeo Goudano. Omnia
+        ab auctore diligenter emendata atque recognita. Köln: Gerardus
+        Greuenbruch 1618. pp. no page number–46."
+      year: "1618"
+      url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000145
@@ -4282,20 +4208,19 @@
     supervisor: null
     software: Transkribus
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Cornelius Schonaeus: Tobaeus. In: Terentius Christianus. Comoediae
-      sacrae sex. Terentiano stylo a Cornelio Schonaeo Goudano conscriptae &
-      nunc demum magna eiusdem diligentia & labore emendatae, atque recognitae.
-      [Prima pars]. Köln: Gerardus Greuenbruch 1614."
-    editor: null
-    year: "1614"
-    copyright: null
-    url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Schonaeus-Tobaeus.docx
+    type: DOCX
+    source:
+      title: "Cornelius Schonaeus: Tobaeus. In: Terentius Christianus. Comoediae
+        sacrae sex. Terentiano stylo a Cornelio Schonaeo Goudano conscriptae &
+        nunc demum magna eiusdem diligentia & labore emendatae, atque
+        recognitae. [Prima pars]. Köln: Gerardus Greuenbruch 1614."
+      year: "1614"
+      url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000146
@@ -4324,21 +4249,20 @@
     supervisor: null
     software: Transkribus
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Cornelius Schonaeus: Triumphus Christi. In: Terentii Christiani Pars
-      Secunda: Qua continentur sacrae comoediae sex. Susanna. Daniel. Triumphus
-      Christi. Typhlus. Pentecoste. Ananias. Auctore Cornelio Schonaeo Goudano.
-      Omnia ab auctore diligenter emendata atque recognita. Köln: Gerardus
-      Greuenbruch 1618. pp. 90–128."
-    editor: null
-    year: "1618"
-    copyright: null
-    url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Schonaeus-Triumphus.docx
+    type: DOCX
+    source:
+      title: "Cornelius Schonaeus: Triumphus Christi. In: Terentii Christiani Pars
+        Secunda: Qua continentur sacrae comoediae sex. Susanna. Daniel.
+        Triumphus Christi. Typhlus. Pentecoste. Ananias. Auctore Cornelio
+        Schonaeo Goudano. Omnia ab auctore diligenter emendata atque recognita.
+        Köln: Gerardus Greuenbruch 1618. pp. 90–128."
+      year: "1618"
+      url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000147
@@ -4367,21 +4291,20 @@
     supervisor: null
     software: Transkribus
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Cornelius Schonaeus: Typhlus. In: Terentii Christiani Pars Secunda: Qua
-      continentur sacrae comoediae sex. Susanna. Daniel. Triumphus Christi.
-      Typhlus. Pentecoste. Ananias. Auctore Cornelio Schonaeo Goudano. Omnia ab
-      auctore diligenter emendata atque recognita. Köln: Gerardus Greuenbruch
-      1618. pp. 129–167."
-    editor: null
-    year: "1618"
-    copyright: null
-    url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Schonaeus-Typhlus.docx
+    type: DOCX
+    source:
+      title: "Cornelius Schonaeus: Typhlus. In: Terentii Christiani Pars Secunda: Qua
+        continentur sacrae comoediae sex. Susanna. Daniel. Triumphus Christi.
+        Typhlus. Pentecoste. Ananias. Auctore Cornelio Schonaeo Goudano. Omnia
+        ab auctore diligenter emendata atque recognita. Köln: Gerardus
+        Greuenbruch 1618. pp. 129–167."
+      year: "1618"
+      url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000148
@@ -4411,20 +4334,19 @@
     supervisor: null
     software: Transkribus
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Cornelius Schonaeus: Vitulus, fabula ludicra. In: Cornelii Schonaei
-      Goudani lucubrationum Pars Tertia. Qua continentur Baptistes. Dyscoli.
-      Pseudostratiotae. Cunae. Vitulus. Quibus adiecti sunt Liber Elegiarum, et
-      alter Epigrammatum. Köln: Gerardus Greuenbruch 1618. pp. 162–201."
-    editor: null
-    year: "1618"
-    copyright: null
-    url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Schonaeus-Vitulus.docx
+    type: DOCX
+    source:
+      title: "Cornelius Schonaeus: Vitulus, fabula ludicra. In: Cornelii Schonaei
+        Goudani lucubrationum Pars Tertia. Qua continentur Baptistes. Dyscoli.
+        Pseudostratiotae. Cunae. Vitulus. Quibus adiecti sunt Liber Elegiarum,
+        et alter Epigrammatum. Köln: Gerardus Greuenbruch 1618. pp. 162–201."
+      year: "1618"
+      url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000152
@@ -4453,21 +4375,21 @@
     supervisor: Jan Bloemendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Christophorus Stymmelius: De Immolatione Isaac. In: Comoediae duae. I.
-      Isaac. De Immolatione Isaac. II. Studentes. De vita & moribus studiosorum.
-      Quarum prior recens scripta, posterior iam olim edita, nunc vero recognita
-      & multis in locis correcta est. Christophoro Stymmelio D. Accesserunt et
-      alia eiusdem authoris Poëmatia. Stettin: Andreas Kellnerus 1579."
-    editor: null
-    year: "1579"
-    copyright: null
-    url: https://google.com/books/reader?id=9gg8AAAAcAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Stymmelius-Isaac.docx
+    type: DOCX
+    source:
+      title: "Christophorus Stymmelius: De Immolatione Isaac. In: Comoediae duae. I.
+        Isaac. De Immolatione Isaac. II. Studentes. De vita & moribus
+        studiosorum. Quarum prior recens scripta, posterior iam olim edita, nunc
+        vero recognita & multis in locis correcta est. Christophoro Stymmelio D.
+        Accesserunt et alia eiusdem authoris Poëmatia. Stettin: Andreas
+        Kellnerus 1579."
+      year: "1579"
+      url: https://google.com/books/reader?id=9gg8AAAAcAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000153
@@ -4497,20 +4419,19 @@
     by: Jan Bloemendal
     supervisor: null
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Studentes, comoedia de vita studiosorum, nunc primum in lucem edita
-      authore M. Christophoro Stummelio F. Eiusdem Carmen de iudicio Paridis.
-      Addita est Praefatio Iodoci Uvillich, & epilogus à M. Christophoro
-      Cornero. Frankfurt (Oder): Iohannes Eichorn 1550."
-    editor: null
-    year: "1550"
-    copyright: null
-    url: https://mateo.uni-mannheim.de/camena/stummel1/te01.html
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Stymmelius-Studentes.docx
+    type: DOCX
+    source:
+      title: "Studentes, comoedia de vita studiosorum, nunc primum in lucem edita
+        authore M. Christophoro Stummelio F. Eiusdem Carmen de iudicio Paridis.
+        Addita est Praefatio Iodoci Uvillich, & epilogus à M. Christophoro
+        Cornero. Frankfurt (Oder): Iohannes Eichorn 1550."
+      year: "1550"
+      url: https://mateo.uni-mannheim.de/camena/stummel1/te01.html
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000154
@@ -4539,20 +4460,19 @@
     supervisor: Jan Bloemendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Nicolai Susii e Societate Iesu Opuscula litteraria: Lima Ciceroniana,
-      siue De stylo liber singularis, De pulcritudine B. Mariae Virg.
-      Disceptatio quodlibetica, Poemata: Elegiae Marianae, Lusus Anacreontei,
-      Drama comicum. Antwerpen: Heirs of Martinus Nutius 1620."
-    editor: null
-    year: "1620"
-    copyright: null
-    url: https://books.google.nl/books?id=Ad4TAAAAQAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Susius-Pendularia.docx
+    type: DOCX
+    source:
+      title: "Nicolai Susii e Societate Iesu Opuscula litteraria: Lima Ciceroniana,
+        siue De stylo liber singularis, De pulcritudine B. Mariae Virg.
+        Disceptatio quodlibetica, Poemata: Elegiae Marianae, Lusus Anacreontei,
+        Drama comicum. Antwerpen: Heirs of Martinus Nutius 1620."
+      year: "1620"
+      url: https://books.google.nl/books?id=Ad4TAAAAQAAJ
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000160
@@ -4581,18 +4501,17 @@
     supervisor: Jan Bloemendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Nicolai Vernulaei Gorcomienses siue fidei exilium. Tragoedia. Exhibita
-      ludis Encoenialibus Louanii. Cologne: Bernardus Gualterus 1610."
-    editor: null
-    year: "1610"
-    copyright: null
-    url: https://books.google.nl/books?id=fHETAAAAQAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Vernulaeus-Gorcomienses.docx
+    type: DOCX
+    source:
+      title: "Nicolai Vernulaei Gorcomienses siue fidei exilium. Tragoedia. Exhibita
+        ludis Encoenialibus Louanii. Cologne: Bernardus Gualterus 1610."
+      year: "1610"
+      url: https://books.google.nl/books?id=fHETAAAAQAAJ
+      type: print
   complete: true
   _includeDocx: true
 - id: neolat000161
@@ -4621,19 +4540,18 @@
     supervisor: Jan Bloemendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Nicolai Vernulaei Henricus Octavus seu Schisma Anglicanum. Tragoedia.
-      Exhibita Ludis Encenialibus Lovanii in Collegio Porcensi. Leuven:
-      Philippus Dormalius 1624."
-    editor: null
-    year: "1624"
-    copyright: null
-    url: https://books.google.nl/books/about/Henricus_Octavus_seu_Schisma_Anglicanum.html?id=XnquPgAACAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Vernulaeus-Henricus.docx
+    type: DOCX
+    source:
+      title: "Nicolai Vernulaei Henricus Octavus seu Schisma Anglicanum. Tragoedia.
+        Exhibita Ludis Encenialibus Lovanii in Collegio Porcensi. Leuven:
+        Philippus Dormalius 1624."
+      year: "1624"
+      url: https://books.google.nl/books/about/Henricus_Octavus_seu_Schisma_Anglicanum.html?id=XnquPgAACAAJ
+      type: print
   complete: true
   _includeDocx: true
 - id: neolat000162
@@ -4663,17 +4581,16 @@
     supervisor: Jan Bloemendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: Nicolai Vernulaei Tragoediae (1656)
-    editor: null
-    year: "1656"
-    copyright: null
-    url: https://books.google.nl/books?id=hgDowgEACAAJ
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Vernulaeus-Theodoricus.docx
+    type: DOCX
+    source:
+      title: Nicolai Vernulaei Tragoediae (1656)
+      year: "1656"
+      url: https://books.google.nl/books?id=hgDowgEACAAJ
+      type: print
   complete: true
   _includeDocx: true
 - id: neolat000169
@@ -4703,18 +4620,17 @@
     supervisor: Jan Bloemendal
     software: INFORMATION NEEDED
   institution: Huygens Institute
-  sourceTextEdition:
-    title: "Didascalvs. Comoedia ut doctißima, ita et lepidißima, Autore Iacobo
-      Zouitio Driescharo. Köln: Iannes Gymnicus 1941."
-    editor: null
-    year: "1541"
-    copyright: null
-    url: http://daten.digitale-sammlungen.de/~db/0003/bsb00037704/images/
-  digitalSource:
+  source:
     title: TransLatin
     editor: Jan Bloemendal
-    copyright: null
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Zovitius-Didascalus.docx
+    type: DOCX
+    source:
+      title: "Didascalvs. Comoedia ut doctißima, ita et lepidißima, Autore Iacobo
+        Zouitio Driescharo. Köln: Iannes Gymnicus 1941."
+      year: "1541"
+      url: http://daten.digitale-sammlungen.de/~db/0003/bsb00037704/images/
+      type: print
   complete: false
   _includeDocx: true
 - id: neolat000008
@@ -4745,21 +4661,18 @@
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
   institution: Leiden University
-  sourceTextEdition:
-    title: "Philedonius. Tonnelspel: Slaande op de woorden des Wijzemans: In alle
-      uwe werken gedenk uwe uitersten, en ghy zult in der eeuwigheit niet
-      zondigen. Ten tonneele gebracht op den Doorluchtigen Schouburch van
-      Amsterdam. Door Franciscus van den Enden. Amsterdam: Kornelis de Bruin
-      1657."
-    editor: null
-    year: "1657"
-    copyright: null
-    url: null
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
     editor: P. Koning; Ton Harmsen
-    copyright: null
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/EndenPhiledonius1657.html
+    source:
+      title: "Philedonius. Tonnelspel: Slaande op de woorden des Wijzemans: In alle
+        uwe werken gedenk uwe uitersten, en ghy zult in der eeuwigheit niet
+        zondigen. Ten tonneele gebracht op den Doorluchtigen Schouburch van
+        Amsterdam. Door Franciscus van den Enden. Amsterdam: Kornelis de Bruin
+        1657."
+      year: "1657"
+      type: print
   complete: true
   _includeDocx: false
 - id: neolat000065
@@ -4791,21 +4704,18 @@
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
   institution: Leiden University
-  sourceTextEdition:
-    title: Hypocrisis. De Hypocrisis falsa religione, ficta disciplina et supplicio,
-      deque Psyches calamitate, et restituta illi per veram poenitentiam salute
-      Tragicomedia, Hypocrisis titulo inscripta. Autore Gulielmo Gnapheo
-      Hagiense, illustrissimi Principis D. Alberti Marchionis Brandenburgensis,
-      et primi Borussiorum Ducis consiliario. Basel 1544.
-    editor: null
-    year: "1544"
-    copyright: null
-    url: https://www.digitale-sammlungen.de/de/view/bsb10926445?page=,1
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
-    editor: null
-    copyright: null
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/GnapheusHypocrisis1544.html
+    source:
+      title: Hypocrisis. De Hypocrisis falsa religione, ficta disciplina et supplicio,
+        deque Psyches calamitate, et restituta illi per veram poenitentiam
+        salute Tragicomedia, Hypocrisis titulo inscripta. Autore Gulielmo
+        Gnapheo Hagiense, illustrissimi Principis D. Alberti Marchionis
+        Brandenburgensis, et primi Borussiorum Ducis consiliario. Basel 1544.
+      year: "1544"
+      url: https://www.digitale-sammlungen.de/de/view/bsb10926445?page=,1
+      type: print
   complete: true
   _includeDocx: false
 - id: neolat000070
@@ -4837,18 +4747,16 @@
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
   institution: Leiden University
-  sourceTextEdition:
-    title: "Hugonis Grotii Sacra; in quibus Adamus exul. Tragoedia,aliorumque
-      eiusdem generis carminum Cumulus. Hagen: Albertus Henricus 1601."
-    editor: null
-    year: "1601"
-    copyright: null
-    url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/Facsimiles/GrotiusAdamusExul1601/index.htm
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Paula Koning; Ton Harmsen
-    copyright: null
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/GrotiusAdamusExul1601.html
+    source:
+      title: "Hugonis Grotii Sacra; in quibus Adamus exul. Tragoedia,aliorumque
+        eiusdem generis carminum Cumulus. Hagen: Albertus Henricus 1601."
+      year: "1601"
+      url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/Facsimiles/GrotiusAdamusExul1601/index.htm
+      type: print
   complete: true
   _includeDocx: false
 - id: neolat000071
@@ -4879,18 +4787,16 @@
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
   institution: Leiden University
-  sourceTextEdition:
-    title: "Euripidis tragoedia Phoenissae, Emendata ex manuscriptis, Latina facta
-      ab Hugone Grotio. Paris: Jacobus Ruart 1630."
-    editor: null
-    year: "1630"
-    copyright: null
-    url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/Facsimiles/GrotiusEuripidesPhoenissae1630/index.htm
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
     editor: G. C. van Uitert; Ton Harmsen
-    copyright: null
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/GrotiusEuripidesPhoenissae1630.html
+    source:
+      title: "Euripidis tragoedia Phoenissae, Emendata ex manuscriptis, Latina facta
+        ab Hugone Grotio. Paris: Jacobus Ruart 1630."
+      year: "1630"
+      url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/Facsimiles/GrotiusEuripidesPhoenissae1630/index.htm
+      type: print
   complete: true
   _includeDocx: false
 - id: neolat000072
@@ -4921,17 +4827,15 @@
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
   institution: Leiden University
-  sourceTextEdition:
-    title: "Hugonis Grotii Tragoedia Christus patiens. Leiden: Thomas Basson 1608."
-    editor: null
-    year: "1608"
-    copyright: null
-    url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/Facsimiles/GrotiusChristusPatiens1608/index.htm
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
-    copyright: null
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/GrotiusChristusPatiens1608.html
+    source:
+      title: "Hugonis Grotii Tragoedia Christus patiens. Leiden: Thomas Basson 1608."
+      year: "1608"
+      url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/Facsimiles/GrotiusChristusPatiens1608/index.htm
+      type: print
   complete: true
   _includeDocx: false
 - id: neolat000073
@@ -4962,19 +4866,17 @@
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
   institution: Leiden University
-  sourceTextEdition:
-    title: "Hugonis Grotii tragoedia Sophompaneas. Accesserunt, Tragoedia ejusdem
-      Christus Patiens, et sacri argumenti alia, Ex editione anni M D CXVII
-      recusa emendatiora. Amsterdam: Guilielmus Blaeu 1635."
-    editor: null
-    year: "1635"
-    copyright: null
-    url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/LijstCeneton.html#032650
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
-    copyright: null
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/GrotiusSophompaneas1635.html
+    source:
+      title: "Hugonis Grotii tragoedia Sophompaneas. Accesserunt, Tragoedia ejusdem
+        Christus Patiens, et sacri argumenti alia, Ex editione anni M D CXVII
+        recusa emendatiora. Amsterdam: Guilielmus Blaeu 1635."
+      year: "1635"
+      url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/LijstCeneton.html#032650
+      type: print
   complete: true
   _includeDocx: false
 - id: neolat000075
@@ -5005,19 +4907,16 @@
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
   institution: Leiden University
-  sourceTextEdition:
-    title: "Danielis Heinsii Auriacus Sive libertas saucia. Accedunt eiusdem Iambi.
-      Partim morales, partim ad amicos, partim amicorum causâ scripti. Leiden:
-      Andreas Cloucquium 1602."
-    editor: null
-    year: "1602"
-    copyright: null
-    url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/Facsimiles/HeinsiusAuriacus1602/index.htm
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
-    editor: null
-    copyright: null
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/HeinsiusAuriacus1602.html
+    source:
+      title: "Danielis Heinsii Auriacus Sive libertas saucia. Accedunt eiusdem Iambi.
+        Partim morales, partim ad amicos, partim amicorum causâ scripti. Leiden:
+        Andreas Cloucquium 1602."
+      year: "1602"
+      url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/Facsimiles/HeinsiusAuriacus1602/index.htm
+      type: print
   complete: true
   _includeDocx: false
 - id: neolat000076
@@ -5049,18 +4948,15 @@
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
   institution: Leiden University
-  sourceTextEdition:
-    title: "Danielis Heinsii Herodes infanticida. Tragoedia. Leiden: Ex Officinâ
-      Elzeviriana 1632."
-    editor: null
-    year: "1632"
-    copyright: null
-    url: https://books.google.nl/books?id=mzw8AAAAcAAJ&printsec=frontcover&dq=herodes+infanticida&hl=nl&sa=X&ei=UsX2UcPCEo3VPK30gJgJ&ved=0CDQQ6AEwAA#v=onepage&q=herodes%20infanticida&f=false
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
-    editor: null
-    copyright: null
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/HeinsiusHerodes1632.html
+    source:
+      title: "Danielis Heinsii Herodes infanticida. Tragoedia. Leiden: Ex Officinâ
+        Elzeviriana 1632."
+      year: "1632"
+      url: https://books.google.nl/books?id=mzw8AAAAcAAJ&printsec=frontcover&dq=herodes+infanticida&hl=nl&sa=X&ei=UsX2UcPCEo3VPK30gJgJ&ved=0CDQQ6AEwAA#v=onepage&q=herodes%20infanticida&f=false
+      type: print
   complete: true
   _includeDocx: false
 - id: neolat000078
@@ -5088,14 +4984,13 @@
     by: TO BE ADDED
     supervisor: TO BE ADDED
     software: TO BE ADDED
-  sourceTextEdition:
+  source:
     title: "Gregorii Holonii Leodiensis Lambertias. Tragoedia de oppressione B.
       Lamberti Traiecten quondam Ecclesiae, quae nunc Leodium translata est,
       Episcopi & Martyris gloriosissimi. Antwerpen: Ioannes Bellerus 1556."
-    editor: null
     year: "1556"
-    copyright: null
     url: http://daten.digitale-sammlungen.de/~db/0001/bsb00016450/images/
+    type: print
   complete: true
   _includeDocx: false
 - id: neolat000111
@@ -5126,16 +5021,14 @@
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
   institution: Leiden University
-  manuscript:
-    title: "Johannes Molanus: Judicium Salomonis. Diest [1550]."
-    date: "1550"
-    copyright: null
-    url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/Molanus69Salomon1550ca/index.htm
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
-    editor: null
-    copyright: null
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Molanus69Salomon1550ca.html
+    source:
+      title: "Johannes Molanus: Judicium Salomonis. Diest [1550]."
+      date: "1550"
+      url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/Molanus69Salomon1550ca/index.htm
+      type: manuscript
   complete: true
   _includeDocx: false
 - id: neolat000126
@@ -5166,21 +5059,18 @@
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
   institution: Leiden University
-  sourceTextEdition:
-    title: "Roterodamus, Erasmus: Euripidis Iphigenia. In: Euripidis Tragici poetae
-      nobilissimi Hecuba et Iphigenia. Latinae factae Erasmo Roterodamo
-      interprete. De quibus Ascensius. Loqui latine nesciebat antea Tragoediarum
-      scriptor excultissimus. Qui nunc camoenis eloquens erasmicis Varronianae
-      certat eloquentiae. Paris: Jacobus Badius 1506."
-    editor: null
-    year: "1506"
-    copyright: null
-    url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/Facsimiles/ErasmusEuripides1506/index.htm
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
-    editor: null
-    copyright: null
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/ErasmusIphigenia1506.html
+    source:
+      title: "Roterodamus, Erasmus: Euripidis Iphigenia. In: Euripidis Tragici poetae
+        nobilissimi Hecuba et Iphigenia. Latinae factae Erasmo Roterodamo
+        interprete. De quibus Ascensius. Loqui latine nesciebat antea
+        Tragoediarum scriptor excultissimus. Qui nunc camoenis eloquens
+        erasmicis Varronianae certat eloquentiae. Paris: Jacobus Badius 1506."
+      year: "1506"
+      url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/Facsimiles/ErasmusEuripides1506/index.htm
+      type: print
   complete: true
   _includeDocx: false
 - id: neolat000157
@@ -5212,18 +5102,16 @@
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
   institution: Leiden University
-  sourceTextEdition:
-    title: "Aran & Titus. Mutua vindicatio, interprete schola Thielana. Thiela:
-      Gosuinus à Duyn 1658."
-    editor: null
-    year: "1658"
-    copyright: null
-    url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/Facsimiles/AelhuisenAranEtTitusJanVos1658/index.htm
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
     editor: P. Koning; Ton Harmsen
-    copyright: null
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/AelhuisenAranEtTitusJanVos1658.html
+    source:
+      title: "Aran & Titus. Mutua vindicatio, interprete schola Thielana. Thiela:
+        Gosuinus à Duyn 1658."
+      year: "1658"
+      url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/Facsimiles/AelhuisenAranEtTitusJanVos1658/index.htm
+      type: print
   complete: true
   _includeDocx: false
 - id: neolat000167
@@ -5254,21 +5142,19 @@
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
   institution: Leiden University
-  sourceTextEdition:
-    title: "Winsemius, Vitus: Oedipus tyrannus. In: ΣΟΦΟΚΛΕΟΥΣ ΑΙ ΕΠΤΑ ΤΡΑΓΩΔΙΑΕ.
-      Sophoclis tragoediae septem. Unà cum omnibus Graecis scholiis, et Latina
-      Viti Winsemij ad verbum Interpretatione. Quibus accesserunt Ioachimi
-      Camerarij, necnon Henrici Stephani annotationes. Unà cum Indice
-      sententiarum Sophoclearum. Paulus Stephanus 1603. pp. 257–376."
-    editor: null
-    year: "1603"
-    copyright: null
-    url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/Facsimiles/WinsemiusOedipusTyrannus1603/index.htm
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
-    copyright: null
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/WinsemiusOedipusTyrannus1603.html
+    source:
+      title: "Winsemius, Vitus: Oedipus tyrannus. In: ΣΟΦΟΚΛΕΟΥΣ ΑΙ ΕΠΤΑ ΤΡΑΓΩΔΙΑΕ.
+        Sophoclis tragoediae septem. Unà cum omnibus Graecis scholiis, et Latina
+        Viti Winsemij ad verbum Interpretatione. Quibus accesserunt Ioachimi
+        Camerarij, necnon Henrici Stephani annotationes. Unà cum Indice
+        sententiarum Sophoclearum. Paulus Stephanus 1603. pp. 257–376."
+      year: "1603"
+      url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/Facsimiles/WinsemiusOedipusTyrannus1603/index.htm
+      type: print
   complete: true
   _includeDocx: false
 - id: neolat000170
@@ -5299,18 +5185,16 @@
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
   institution: Leiden University
-  sourceTextEdition:
-    title: "Ovis perdita autore Iacobo Zovitio apud Braedanos Ludimagistro.
-      Antwerpen: Martinus Caesar 1539."
-    editor: null
-    year: "1539"
-    copyright: null
-    url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/ZovitiusOvisPerdita1539/index.htm
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
     editor: G. C. van Uitert; Ton Harmsen
-    copyright: null
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/ZovitiusOvisPerdita1539.html
+    source:
+      title: "Ovis perdita autore Iacobo Zovitio apud Braedanos Ludimagistro.
+        Antwerpen: Martinus Caesar 1539."
+      year: "1539"
+      url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/ZovitiusOvisPerdita1539/index.htm
+      type: print
   complete: true
   _includeDocx: false
 - id: neolat000171
@@ -5341,18 +5225,16 @@
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
   institution: Leiden University
-  sourceTextEdition:
-    title: "Ruth. Authore Iacobo Zovitio Driescharo. Ludi Hoochstratani
-      hypodidascalo. Zocitij Distichon ad invidium. Antwerpen: Michael Hillenius
-      1533."
-    editor: null
-    year: "1533"
-    copyright: null
-    url: https://books.google.nl/books?id=3LdbAAAAQAAJ
-  digitalSource:
+  source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
-    copyright: null
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/ZovitiusRuth1533.html
+    source:
+      title: "Ruth. Authore Iacobo Zovitio Driescharo. Ludi Hoochstratani
+        hypodidascalo. Zocitij Distichon ad invidium. Antwerpen: Michael
+        Hillenius 1533."
+      year: "1533"
+      url: https://books.google.nl/books?id=3LdbAAAAQAAJ
+      type: print
   complete: true
   _includeDocx: false

@@ -63,47 +63,9 @@
         "required": ["status"]
       },
       "licenseNotes": { "type": ["string", "null"] },
-      "manuscript": {
-        "type": ["object", "null"],
-        "properties": {
-          "title": { "type": "string" },
-          "date": { "type": ["string", "null"] },
-          "copyright": { "type": ["string", "null"] },
-          "url": { "type": ["string", "null"] }
-        },
-        "required": ["title", "date", "copyright"]
-      },
-      "sourceTextEdition": {
-        "type": ["object", "null"],
-        "properties": {
-          "title": { "type": "string" },
-          "editor": { "type": ["string", "null"] },
-          "year": { "type": ["string", "null"] },
-          "copyright": { "type": ["string", "null"] },
-          "url": { "type": ["string", "null"] }
-        },
-        "required": ["title", "editor", "year", "copyright", "url"]
-      },
-      "criticalEdition": {
-        "type": ["object", "null"],
-        "properties": {
-          "title": { "type": "string" },
-          "editor": { "type": ["string", "null"] },
-          "year": { "type": ["string", "null"] },
-          "copyright": { "type": ["string", "null"] },
-          "url": { "type": ["string", "null"] }
-        },
-        "required": ["title", "editor", "year", "copyright", "url"]
-      },
-      "digitalSource": {
-        "type": ["object", "null"],
-        "properties": {
-          "title": { "type": "string" },
-          "editor": { "type": ["string", "null"] },
-          "copyright": { "type": ["string", "null"] },
-          "url": { "type": ["string", "null"] }
-        },
-        "required": ["title", "editor", "copyright", "url"]
+      "source": {
+        "$ref": "#/definitions/source",
+        "description": "Each entry needs one main source. Sources can be nested"
       },
       "transcription": {
         "type": ["object", "null"],
@@ -139,6 +101,7 @@
       "yearPrinted",
       "yearWritten",
       "premiered",
+      "source",
       "verse",
       "genre",
       "genreQid",
@@ -150,5 +113,46 @@
       "licenseNotes",
       "complete"
     ]
+  },
+  "definitions": {
+    "source": {
+      "type": "object",
+      "anyOf": [{ "required": ["title"] }, { "required": ["url"] }],
+      "properties": {
+        "title": { "type": "string" },
+        "url": { "type": "string" },
+        "year": {
+          "type": "string",
+          "description": "Can be a regular year (e.g. '1789') or something like 'not before 1628, not after 1673'"
+        },
+        "editor": { "type": "string" },
+        "type": {
+          "type": "string",
+          "enum": [
+            "manuscript",
+            "critical edition",
+            "print",
+            "TEI",
+            "XML",
+            "HTML",
+            "TXT",
+            "DOCX"
+          ]
+        },
+        "copyright": { "type": "string" },
+        "availability": {
+          "type": "object",
+          "properties": {
+            "licence": { "type": "string" },
+            "licenceUrl": { "type": "string" },
+            "note": { "type": "string" }
+          }
+        },
+        "source": {
+          "$ref": "#/definitions/source",
+          "description": "A source can be based on another source."
+        }
+      }
+    }
   }
 }

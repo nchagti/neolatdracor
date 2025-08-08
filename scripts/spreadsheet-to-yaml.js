@@ -54,6 +54,7 @@ records.forEach(r => {
     ids.push(id)
   }
 
+  const includeDocx = r['Include Word file into repo'] === 'yes';
   let _docxName;
   if (r['Include Word file into repo'] === 'yes') {
     _docxName = r['URL of digital source'].replace(
@@ -62,35 +63,61 @@ records.forEach(r => {
     );
   }
 
+  const sources = [];
+
   const manuscript = {
-    title: print(r['Source manuscript']),
-    date: print(r['Manuscript date']),
-    copyright: print(r['Copyright of manuscript']),
-    url: print(r['URL of manuscript']),
+    title: print(r['Source manuscript']) || undefined,
+    date: print(r['Manuscript date']) || undefined,
+    copyright: print(r['Copyright of manuscript']) || undefined,
+    url: print(r['URL of manuscript']) || undefined,
+    type: 'manuscript',
+  }
+  if (manuscript.title || manuscript.url) {
+    sources.push(manuscript);
   }
 
   const sourceTextEdition = {
     title: print(r['Source text edition']),
-    editor: print(r['Editor of source text edition']),
-    year: print(r['Publication date of source text edition']),
-    copyright: print(r['Copyright of source text edition']),
-    url: print(r['URL of source text edition']),
+    editor: print(r['Editor of source text edition']) || undefined,
+    year: print(r['Publication date of source text edition']) || undefined,
+    copyright: print(r['Copyright of source text edition']) || undefined,
+    url: print(r['URL of source text edition']) || undefined,
+    type: 'print',
   };
+  if (sourceTextEdition.title || sourceTextEdition.url) {
+    sources.push(sourceTextEdition);
+  }
 
   const criticalEdition = {
     title: print(r['Source critical edition']),
-    editor: print(r['Editor of source critical edition']),
-    year: print(r['Publication date of source critical edition']),
-    copyright: print(r['Copyright of source critical edition']),
-    url: print(r['URL of critical edition']),
+    editor: print(r['Editor of source critical edition']) || undefined,
+    year: print(r['Publication date of source critical edition']) || undefined,
+    copyright: print(r['Copyright of source critical edition']) || undefined,
+    url: print(r['URL of critical edition']) || undefined,
+    type: 'critical edition',
   };
+  if (criticalEdition.title || criticalEdition.url) {
+    sources.push(criticalEdition);
+  }
 
   const digitalSource = {
-    title: print(r['Digital source']),
-    editor: print(r['Editor of digital source']),
-    copyright: print(r['Copyright of digital source']),
-    url: print(r['URL of digital source']),
+    title: print(r['Digital source']) || undefined,
+    editor: print(r['Editor of digital source']) || undefined,
+    copyright: print(r['Copyright of digital source']) || undefined,
+    url: print(r['URL of digital source']) || undefined,
   };
+  if (includeDocx) digitalSource.type = 'DOCX';
+  if (digitalSource.title || digitalSource.url) {
+    sources.push(digitalSource);
+  }
+
+  const source = sources.reduce((acc, source) => {
+    if (acc) {
+      source.source = acc;
+    }
+    return source;
+  }, null);
+
 
   const authors = [];
 
@@ -154,16 +181,13 @@ records.forEach(r => {
     transcription,
     acknowledgements: print(r['Acknowledgements']) || undefined,
     institution: print(r['Institution']) || undefined,
+    source,
   };
 
-  if (manuscript.title) entry.manuscript = manuscript;
-  if (sourceTextEdition.title) entry.sourceTextEdition = sourceTextEdition;
-  if (criticalEdition.title) entry.criticalEdition = criticalEdition;
-  if (digitalSource.title) entry.digitalSource = digitalSource;
   if (funding.line || funding.organization) entry.funding = funding;
 
   entry.complete = !!r['Metadata finally checked'].match(/yes/);
-  entry._includeDocx = r['Include Word file into repo'] === 'yes';
+  entry._includeDocx = includeDocx;
 
   data.push(entry);
 
