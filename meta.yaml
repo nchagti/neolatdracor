@@ -1012,6 +1012,7 @@
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/MacropediusAdamus1552.html
+    type: TXT
     source:
       title: "Georgius Macropedius: Adamus. In: Henk Giebels, Frans Slits: Georgius
         Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
@@ -1066,6 +1067,7 @@
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/MacropediusAluta1553.html
+    type: TXT
     source:
       title: "Georgius Macropedius: Andrisca. In: Henk Giebels, Frans Slits: Georgius
         Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
@@ -1121,6 +1123,7 @@
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/MacropediusAndrisca1553.html
+    type: TXT
     source:
       title: "Georgius Macropedius: Andrisca. In: Henk Giebels, Frans Slits: Georgius
         Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
@@ -1174,6 +1177,7 @@
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/MacropediusAsotus1552.html
+    type: TXT
     source:
       title: "Georgius Macropedius: Asotus. In: Henk Giebels, Frans Slits: Georgius
         Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
@@ -1232,6 +1236,7 @@
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/MacropediusBassarus1553.html
+    type: TXT
     source:
       title: "Georgius Macropedius: Bassarus. In: Henk Giebels, Frans Slits: Georgius
         Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
@@ -1343,6 +1348,7 @@
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/MacropediusHypomone1554.html
+    type: TXT
     source:
       title: "Georgius Macropedius: Hypomone. In: Henk Giebels, Frans Slits: Georgius
         Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
@@ -1396,6 +1402,7 @@
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/MacropediusJesus1556.html
+    type: TXT
     source:
       title: "Georgius Macropedius: Iesus Scholasticus. In: Henk Giebels, Frans Slits:
         Georgius Macropedius 1487 - 1558. Leven en werken van een Brabantse
@@ -1450,6 +1457,7 @@
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/MacropediusIosephus1553.html
+    type: TXT
     source:
       title: "Georgius Macropedius: Iosephus. In: Henk Giebels, Frans Slits: Georgius
         Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
@@ -1508,6 +1516,7 @@
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/MacropediusLazarus1552.html
+    type: TXT
     source:
       title: "Georgius Macropedius: Lazarus. In: Henk Giebels, Frans Slits: Georgius
         Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
@@ -1566,6 +1575,7 @@
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/MacropediusPetriscus1553.html
+    type: TXT
     source:
       title: "Georgius Macropedius: Petriscus. In: Henk Giebels, Frans Slits: Georgius
         Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
@@ -1620,6 +1630,7 @@
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/MacropediusRebelles1553.html
+    type: TXT
     source:
       title: "Georgius Macropedius: Rebelles. In: Henk Giebels, Frans Slits: Georgius
         Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist.
@@ -1712,6 +1723,7 @@
     supervisor: Magdaléna Jacková
   source:
     title: Theatrum Neolatinum
+    type: PDF
     source:
       title: "Magdaléna Jacková: Nejmírnější Pallas. Hry určené gramatikálním třídám
         jezuitských gymnázií. Praha: Academia, 2016. (= Theatrum Neolatinum.
@@ -1815,6 +1827,7 @@
     supervisor: Kateřina Bobková-Valentová
   source:
     title: Theatrum Neolatinum
+    type: PDF
     source:
       title: "Kateřina Bobková-Valentová – Alena Bočková – Magdaléna Jacková – Martin
         Bažil – Eva Pauerová – Jan Zdichynec – Zdeněk Žalud: Sv. Jan Nepomucký
@@ -1861,6 +1874,7 @@
     supervisor: Magdaléna Jacková
   source:
     title: Theatrum Neolatinum
+    type: PDF
     source:
       title: "Magdaléna Jacková: Nejmírnější Pallas. Hry určené gramatikálním třídám
         jezuitských gymnázií. Praha: Academia, 2016. (= Theatrum Neolatinum.
@@ -1910,6 +1924,7 @@
     supervisor: Magdaléna Jacková
   source:
     title: Theatrum Neolatinum
+    type: PDF
     source:
       title: "Magdaléna Jacková: Nejmírnější Pallas. Hry určené gramatikálním třídám
         jezuitských gymnázií. Praha: Academia, 2016. (= Theatrum Neolatinum.
@@ -2049,6 +2064,7 @@
     supervisor: Zdeněk Žalud
   source:
     title: Theatrum Neolatinum
+    type: PDF
     source:
       title: "Kateřina Bobková-Valentová – Alena Bočková – Magdaléna Jacková – Martin
         Bažil – Eva Pauerová – Jan Zdichynec – Zdeněk Žalud: Sv. Jan Nepomucký
@@ -2096,6 +2112,7 @@
     supervisor: Jan Zdichynec
   source:
     title: Theatrum Neolatinum
+    type: PDF
     source:
       title: "Kateřina Bobková-Valentová – Alena Bočková – Magdaléna Jacková – Martin
         Bažil – Eva Pauerová – Jan Zdichynec – Zdeněk Žalud: Sv. Jan Nepomucký
@@ -2144,6 +2161,7 @@
     supervisor: Magdaléna Jacková
   source:
     title: Theatrum Neolatinum
+    type: PDF
     source:
       title: "Magdaléna Jacková: Nejmírnější Pallas. Hry určené gramatikálním třídám
         jezuitských gymnázií. Praha: Academia, 2016. (= Theatrum Neolatinum.
@@ -2288,6 +2306,7 @@
     supervisor: Magdaléna Jacková
   source:
     title: Theatrum Neolatinum
+    type: PDF
     source:
       title: "Magdaléna Jacková: Nejmírnější Pallas. Hry určené gramatikálním třídám
         jezuitských gymnázií. Praha: Academia, 2016. (= Theatrum Neolatinum.
@@ -2336,6 +2355,7 @@
     supervisor: Magdaléna Jacková
   source:
     title: Theatrum Neolatinum
+    type: PDF
     source:
       title: "Kateřina Bobková-Valentová – Alena Bočková – Magdaléna Jacková – Martin
         Bažil – Eva Pauerová – Jan Zdichynec – Zdeněk Žalud: Sv. Jan Nepomucký
@@ -2384,6 +2404,7 @@
     supervisor: Alena Bočková
   source:
     title: Theatrum Neolatinum
+    type: PDF
     source:
       title: "Kateřina Bobková-Valentová – Alena Bočková – Magdaléna Jacková – Martin
         Bažil – Eva Pauerová – Jan Zdichynec – Zdeněk Žalud: Sv. Jan Nepomucký
@@ -2434,6 +2455,7 @@
     title: TransLatin
     editor: Jan Bloemendal
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptionsOrig/docx/Aler-Innocentia.docx
+    type: DOCX
     source:
       title: "Paul Aler: Innocentia victrix sive Genovefa. Cologne: Johann Alstorff
         1706."
@@ -2601,6 +2623,7 @@
     title: TransLatin
     editor: Jan Bloemendal
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Caussin-Felicitas.docx
+    type: DOCX
     source:
       title: "Nicolas Caussin: Felicitas. In: Tragoediae Sacrae. Cologne: Johann
         Kinckius 1621. pp. 175–261."
@@ -3012,6 +3035,7 @@
     title: TransLatin
     editor: Jan Bloemendal
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Locher-Iudicium.docx
+    type: DOCX
     source:
       title: "Iacobi Philomusi Locher oratoris et poetae praeclari, Iudicium Paridis
         ludi cuiusdam instar carmine lucule[n]ter descriptum, ac nuper exactiori
@@ -3305,6 +3329,7 @@
     title: TransLatin
     editor: Jan Bloemendal
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Lummenaeus-Saul.docx
+    type: DOCX
     source:
       title: "Jacobus Cornelius Lummenaeus a Marca: Saul. Tragoedia sacra. In: Musae
         lacrymantes, sive Pleias tragica, id est septem tragoediae sacrae.
@@ -3464,6 +3489,7 @@
     title: TransLatin
     editor: Jan Bloemendal
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Placentius-Susanna.docx
+    type: DOCX
     source:
       title: "Johannes Leo Placentius: Susanna. In: Susanna per Plancentium
         euangelisten lusa. Eusebii Candidi Elegia, in uanam breuemque humanae
@@ -4665,6 +4691,7 @@
     title: Census Nederlands Toneel (Ceneton)
     editor: P. Koning; Ton Harmsen
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/EndenPhiledonius1657.html
+    type: TXT
     source:
       title: "Philedonius. Tonnelspel: Slaande op de woorden des Wijzemans: In alle
         uwe werken gedenk uwe uitersten, en ghy zult in der eeuwigheit niet
@@ -4707,6 +4734,7 @@
   source:
     title: Census Nederlands Toneel (Ceneton)
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/GnapheusHypocrisis1544.html
+    type: TXT
     source:
       title: Hypocrisis. De Hypocrisis falsa religione, ficta disciplina et supplicio,
         deque Psyches calamitate, et restituta illi per veram poenitentiam
@@ -4751,6 +4779,7 @@
     title: Census Nederlands Toneel (Ceneton)
     editor: Paula Koning; Ton Harmsen
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/GrotiusAdamusExul1601.html
+    type: TXT
     source:
       title: "Hugonis Grotii Sacra; in quibus Adamus exul. Tragoedia,aliorumque
         eiusdem generis carminum Cumulus. Hagen: Albertus Henricus 1601."
@@ -4791,6 +4820,7 @@
     title: Census Nederlands Toneel (Ceneton)
     editor: G. C. van Uitert; Ton Harmsen
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/GrotiusEuripidesPhoenissae1630.html
+    type: TXT
     source:
       title: "Euripidis tragoedia Phoenissae, Emendata ex manuscriptis, Latina facta
         ab Hugone Grotio. Paris: Jacobus Ruart 1630."
@@ -4831,6 +4861,7 @@
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/GrotiusChristusPatiens1608.html
+    type: TXT
     source:
       title: "Hugonis Grotii Tragoedia Christus patiens. Leiden: Thomas Basson 1608."
       year: "1608"
@@ -4870,6 +4901,7 @@
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/GrotiusSophompaneas1635.html
+    type: TXT
     source:
       title: "Hugonis Grotii tragoedia Sophompaneas. Accesserunt, Tragoedia ejusdem
         Christus Patiens, et sacri argumenti alia, Ex editione anni M D CXVII
@@ -4910,6 +4942,7 @@
   source:
     title: Census Nederlands Toneel (Ceneton)
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/HeinsiusAuriacus1602.html
+    type: TXT
     source:
       title: "Danielis Heinsii Auriacus Sive libertas saucia. Accedunt eiusdem Iambi.
         Partim morales, partim ad amicos, partim amicorum causâ scripti. Leiden:
@@ -4951,6 +4984,7 @@
   source:
     title: Census Nederlands Toneel (Ceneton)
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/HeinsiusHerodes1632.html
+    type: TXT
     source:
       title: "Danielis Heinsii Herodes infanticida. Tragoedia. Leiden: Ex Officinâ
         Elzeviriana 1632."
@@ -5024,6 +5058,7 @@
   source:
     title: Census Nederlands Toneel (Ceneton)
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Molanus69Salomon1550ca.html
+    type: TXT
     source:
       title: "Johannes Molanus: Judicium Salomonis. Diest [1550]."
       date: "1550"
@@ -5062,6 +5097,7 @@
   source:
     title: Census Nederlands Toneel (Ceneton)
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/ErasmusIphigenia1506.html
+    type: TXT
     source:
       title: "Roterodamus, Erasmus: Euripidis Iphigenia. In: Euripidis Tragici poetae
         nobilissimi Hecuba et Iphigenia. Latinae factae Erasmo Roterodamo
@@ -5106,6 +5142,7 @@
     title: Census Nederlands Toneel (Ceneton)
     editor: P. Koning; Ton Harmsen
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/AelhuisenAranEtTitusJanVos1658.html
+    type: TXT
     source:
       title: "Aran & Titus. Mutua vindicatio, interprete schola Thielana. Thiela:
         Gosuinus à Duyn 1658."
@@ -5146,6 +5183,7 @@
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/WinsemiusOedipusTyrannus1603.html
+    type: TXT
     source:
       title: "Winsemius, Vitus: Oedipus tyrannus. In: ΣΟΦΟΚΛΕΟΥΣ ΑΙ ΕΠΤΑ ΤΡΑΓΩΔΙΑΕ.
         Sophoclis tragoediae septem. Unà cum omnibus Graecis scholiis, et Latina
@@ -5189,6 +5227,7 @@
     title: Census Nederlands Toneel (Ceneton)
     editor: G. C. van Uitert; Ton Harmsen
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/ZovitiusOvisPerdita1539.html
+    type: TXT
     source:
       title: "Ovis perdita autore Iacobo Zovitio apud Braedanos Ludimagistro.
         Antwerpen: Martinus Caesar 1539."
@@ -5229,6 +5268,7 @@
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/ZovitiusRuth1533.html
+    type: TXT
     source:
       title: "Ruth. Authore Iacobo Zovitio Driescharo. Ludi Hoochstratani
         hypodidascalo. Zocitij Distichon ad invidium. Antwerpen: Michael

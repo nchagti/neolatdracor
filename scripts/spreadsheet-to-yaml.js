@@ -63,6 +63,8 @@ records.forEach(r => {
     );
   }
 
+  const status = print(r.Status);
+
   const sources = [];
 
   const manuscript = {
@@ -106,7 +108,13 @@ records.forEach(r => {
     copyright: print(r['Copyright of digital source']) || undefined,
     url: print(r['URL of digital source']) || undefined,
   };
-  if (includeDocx) digitalSource.type = 'DOCX';
+  if (includeDocx || digitalSource.url?.endsWith('.docx')) {
+    digitalSource.type = 'DOCX';
+  } else if (status === 'text' || status === 'text, half in tei') {
+    digitalSource.type = 'TXT';
+  } else if (status === '.pdf') {
+    digitalSource.type = 'PDF';
+  }
   if (digitalSource.title || digitalSource.url) {
     sources.push(digitalSource);
   }
@@ -172,7 +180,7 @@ records.forEach(r => {
       ? r['Region Wikidata ID'].trim()
       : null,
     project: print(r['Associated project in NeoLatDraCor']),
-    status: print(r.Status),
+    status,
     availability: {
       status: print(r['Availability status']),
       notes: print(r['Notes on availability status']) || undefined,
