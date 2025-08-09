@@ -120,6 +120,10 @@ records.forEach(r => {
   if (digitalSource.title || digitalSource.url) {
     sources.push(digitalSource);
   }
+  // add this as an example for Theatrum Neolatinum PDF URLs
+  if (id === 'neolat000037' && !digitalSource.url) {
+    digitalSource.url = 'https://www.theatrum-neolatinum.cz/pdf/pallas/Amicitia/Amicitia_text.pdf'
+  }
 
   const source = sources.reduce((acc, source) => {
     if (acc) {
