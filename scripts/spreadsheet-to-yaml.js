@@ -110,7 +110,9 @@ records.forEach(r => {
   };
   if (includeDocx || digitalSource.url?.endsWith('.docx')) {
     digitalSource.type = 'DOCX';
-  } else if (status === 'text' || status === 'text, half in tei') {
+  } else if (
+    status === 'text' || status === 'text, half in tei' || id === 'neolat000001'
+  ) {
     digitalSource.type = 'TXT';
   } else if (status === '.pdf') {
     digitalSource.type = 'PDF';
