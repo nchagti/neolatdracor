@@ -16,8 +16,8 @@ const rows = [];
 const projects = {};
 
 const head =
-  '| Author | Title | Printed | Written | Project | Current formats | TEI | DraCor ID |\n' +
-  '| ------ | ----- | ------- | ------- | ------- | --------------- | --- | --------- |'
+  '| Author | Title | Printed | Written | Project | Source | Current formats | TEI | DraCor ID |\n' +
+  '| ------ | ----- | ------- | ------- | ------- | ------ | --------------- | --- | --------- |'
 rows.push(head);
 
 records.forEach(entry => {
@@ -62,7 +62,12 @@ records.forEach(entry => {
     }
   }
 
-  const row = `| ${authorCell} | ${entry.title} | ${entry.yearPrinted || ''} | ${entry.yearWritten || ''} | ${projectCell} | ${statusCell} | ${teiLink} | ${entry.id} |`;
+  let source = '';
+  if (entry.source?.url?.startsWith('http')) {
+    source = `[${entry.source.type || entry.source.title}](${entry.source.url})`;
+  }
+
+  const row = `| ${authorCell} | ${entry.title} | ${entry.yearPrinted || ''} | ${entry.yearWritten || ''} | ${projectCell} | ${source} | ${statusCell} | ${teiLink} | ${entry.id} |`;
   rows.push(row);
 });
 
