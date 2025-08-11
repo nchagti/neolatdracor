@@ -1007,7 +1007,6 @@
     the online edition in the Ceneton project edited by Ton Harmsen (c) Leiden
     University. Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the
     authorisation of this digitisation."
-  institution: Leiden University
   source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
@@ -1062,7 +1061,6 @@
     the online edition in the Ceneton project edited by Ton Harmsen (c) Leiden
     University. Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the
     authorisation of this digitisation."
-  institution: Leiden University
   source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
@@ -1118,7 +1116,6 @@
     the online edition in the Ceneton project edited by Ton Harmsen (c) Leiden
     University. Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the
     authorisation of this digitisation."
-  institution: Leiden University
   source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
@@ -1172,7 +1169,6 @@
     the online edition in the Ceneton project edited by Ton Harmsen (c) Leiden
     University. Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the
     authorisation of this digitisation."
-  institution: Leiden University
   source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
@@ -1231,7 +1227,6 @@
     the online edition in the Ceneton project edited by Ton Harmsen (c) Leiden
     University. Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the
     authorisation of this digitisation."
-  institution: Leiden University
   source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
@@ -1286,7 +1281,7 @@
     the online edition in the Ceneton project edited by Ton Harmsen (c) Leiden
     University. Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the
     authorisation of this digitisation."
-  institution: Leiden University; Ruhr University Bochum, Faculty of Philology
+  institution: Ruhr University Bochum, Faculty of Philology
   source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
@@ -1344,7 +1339,6 @@
     the online edition in the Ceneton project edited by Ton Harmsen (c) Leiden
     University. Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the
     authorisation of this digitisation."
-  institution: Leiden University
   source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
@@ -1398,7 +1392,6 @@
     the online edition in the Ceneton project edited by Ton Harmsen (c) Leiden
     University. Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the
     authorisation of this digitisation."
-  institution: Leiden University
   source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
@@ -1453,7 +1446,6 @@
     the online edition in the Ceneton project edited by Ton Harmsen (c) Leiden
     University. Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the
     authorisation of this digitisation."
-  institution: Leiden University
   source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
@@ -1512,7 +1504,6 @@
     the online edition in the Ceneton project edited by Ton Harmsen (c) Leiden
     University. Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the
     authorisation of this digitisation."
-  institution: Leiden University
   source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
@@ -1571,7 +1562,6 @@
     the online edition in the Ceneton project edited by Ton Harmsen (c) Leiden
     University. Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the
     authorisation of this digitisation."
-  institution: Leiden University
   source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
@@ -1612,7 +1602,7 @@
   region: Low Countries
   regionQid: Q476033
   project: Macropedius Drama Corpus
-  status: text, half in tei
+  status: tei, published
   availability:
     status: free
   licenceNotes: Public domain, permission granted by editors
@@ -1626,7 +1616,7 @@
     the online edition in the Ceneton project edited by Ton Harmsen (c) Leiden
     University. Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the
     authorisation of this digitisation."
-  institution: Leiden University; Freie Universität Berlin; Ruhr University Bochum
+  institution: Freie Universität Berlin; University Library Bochum
   source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
@@ -1724,6 +1714,7 @@
     supervisor: Magdaléna Jacková
   source:
     title: Theatrum Neolatinum
+    url: https://www.theatrum-neolatinum.cz/pdf/pallas/Amicitia/Amicitia_text.pdf
     type: PDF
     source:
       title: "Magdaléna Jacková: Nejmírnější Pallas. Hry určené gramatikálním třídám
@@ -4687,7 +4678,6 @@
   acknowledgements: Copyright of the online edition in the Ceneton project edited
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
-  institution: Leiden University
   source:
     title: Census Nederlands Toneel (Ceneton)
     editor: P. Koning; Ton Harmsen
@@ -4731,7 +4721,6 @@
   acknowledgements: Copyright of the online edition in the Ceneton project edited
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
-  institution: Leiden University
   source:
     title: Census Nederlands Toneel (Ceneton)
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/GnapheusHypocrisis1544.html
@@ -4775,7 +4764,6 @@
   acknowledgements: Copyright of the online edition in the Ceneton project edited
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
-  institution: Leiden University
   source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Paula Koning; Ton Harmsen
@@ -4816,7 +4804,6 @@
   acknowledgements: Copyright of the online edition in the Ceneton project edited
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
-  institution: Leiden University
   source:
     title: Census Nederlands Toneel (Ceneton)
     editor: G. C. van Uitert; Ton Harmsen
@@ -4857,7 +4844,6 @@
   acknowledgements: Copyright of the online edition in the Ceneton project edited
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
-  institution: Leiden University
   source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
@@ -4897,7 +4883,6 @@
   acknowledgements: Copyright of the online edition in the Ceneton project edited
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
-  institution: Leiden University
   source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
@@ -4939,7 +4924,6 @@
   acknowledgements: Copyright of the online edition in the Ceneton project edited
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
-  institution: Leiden University
   source:
     title: Census Nederlands Toneel (Ceneton)
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/HeinsiusAuriacus1602.html
@@ -4981,7 +4965,6 @@
   acknowledgements: Copyright of the online edition in the Ceneton project edited
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
-  institution: Leiden University
   source:
     title: Census Nederlands Toneel (Ceneton)
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/HeinsiusHerodes1632.html
@@ -5055,7 +5038,6 @@
   acknowledgements: Copyright of the online edition in the Ceneton project edited
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
-  institution: Leiden University
   source:
     title: Census Nederlands Toneel (Ceneton)
     url: https://www.let.leidenuniv.nl/Dutch/Ceneton/Molanus69Salomon1550ca.html
@@ -5094,7 +5076,6 @@
   acknowledgements: Copyright of the online edition in the Ceneton project edited
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
-  institution: Leiden University
   source:
     title: Census Nederlands Toneel (Ceneton)
     url: https://www.hum2.leidenuniv.nl/Dutch/Ceneton/ErasmusIphigenia1506.html
@@ -5138,7 +5119,6 @@
   acknowledgements: Copyright of the online edition in the Ceneton project edited
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
-  institution: Leiden University
   source:
     title: Census Nederlands Toneel (Ceneton)
     editor: P. Koning; Ton Harmsen
@@ -5179,7 +5159,6 @@
   acknowledgements: Copyright of the online edition in the Ceneton project edited
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
-  institution: Leiden University
   source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen
@@ -5223,7 +5202,6 @@
   acknowledgements: Copyright of the online edition in the Ceneton project edited
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
-  institution: Leiden University
   source:
     title: Census Nederlands Toneel (Ceneton)
     editor: G. C. van Uitert; Ton Harmsen
@@ -5264,7 +5242,6 @@
   acknowledgements: Copyright of the online edition in the Ceneton project edited
     by Ton Harmsen (c) Leiden University. Thanks to Ton Harmsen for the
     authorisation of this digitisation.
-  institution: Leiden University
   source:
     title: Census Nederlands Toneel (Ceneton)
     editor: Ton Harmsen

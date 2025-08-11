@@ -111,7 +111,7 @@ records.forEach(r => {
   if (includeDocx || digitalSource.url?.endsWith('.docx')) {
     digitalSource.type = 'DOCX';
   } else if (
-    status === 'text' || status === 'text, half in tei' || id === 'neolat000001'
+    status === 'text' || ['neolat000001', 'neolat000005'].includes(id)
   ) {
     digitalSource.type = 'TXT';
   } else if (status === '.pdf') {
