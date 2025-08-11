@@ -12,7 +12,7 @@
   yearPrinted: "1556"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Holy Roman Empire
@@ -47,7 +47,7 @@
   yearPrinted: "1556"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Holy Roman Empire
@@ -80,7 +80,7 @@
   yearPrinted: null
   yearWritten: "1670"
   premiered: 1670-08
-  verse: true
+  form: verse
   genre: drama
   genreQid: Q25372
   region: Duchy of Carniola
@@ -111,7 +111,7 @@
   yearPrinted: null
   yearWritten: "1649"
   premiered: "1649"
-  verse: true
+  form: verse
   genre: drama
   genreQid: Q25372
   region: Duchy of Carniola
@@ -143,7 +143,7 @@
   yearPrinted: null
   yearWritten: not before 1628, not after 1673
   premiered: not before 1628, not after 1673
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Duchy of Carniola
@@ -174,7 +174,7 @@
   yearPrinted: null
   yearWritten: "1654"
   premiered: 1654-02-12
-  verse: true
+  form: verse
   genre: drama
   genreQid: Q25372
   region: Duchy of Carniola
@@ -206,7 +206,7 @@
   yearPrinted: null
   yearWritten: "1653"
   premiered: 1653-12-02
-  verse: true
+  form: verse
   genre: drama
   genreQid: Q25372
   region: Duchy of Carniola
@@ -238,7 +238,7 @@
   yearPrinted: null
   yearWritten: "1659"
   premiered: 1659-06-15
-  verse: true
+  form: verse
   genre: drama
   genreQid: Q25372
   region: Duchy of Carniola
@@ -269,7 +269,7 @@
   yearPrinted: null
   yearWritten: "1654"
   premiered: 1654-06
-  verse: true
+  form: verse
   genre: drama
   genreQid: Q25372
   region: Duchy of Carniola
@@ -300,7 +300,7 @@
   yearPrinted: null
   yearWritten: "1655"
   premiered: "1655"
-  verse: true
+  form: verse
   genre: drama
   genreQid: Q25372
   region: Duchy of Carniola
@@ -331,7 +331,7 @@
   yearPrinted: null
   yearWritten: "1659"
   premiered: "1659"
-  verse: true
+  form: verse
   genre: drama
   genreQid: Q25372
   region: Duchy of Carniola
@@ -365,7 +365,7 @@
   yearPrinted: null
   yearWritten: "1659"
   premiered: 1659-04-11
-  verse: true
+  form: verse
   genre: drama
   genreQid: Q25372
   region: Duchy of Carniola
@@ -398,7 +398,7 @@
   yearPrinted: null
   yearWritten: "1684"
   premiered: 1684-05
-  verse: true
+  form: verse
   genre: drama
   genreQid: Q25372
   region: Duchy of Carniola
@@ -429,7 +429,7 @@
   yearPrinted: null
   yearWritten: "1654"
   premiered: 1654-05
-  verse: true
+  form: verse
   genre: drama
   genreQid: Q25372
   region: Duchy of Carniola
@@ -460,7 +460,7 @@
   yearPrinted: null
   yearWritten: "1642"
   premiered: "1642"
-  verse: true
+  form: verse
   genre: drama
   genreQid: Q25372
   region: Duchy of Carniola
@@ -492,7 +492,7 @@
   yearPrinted: null
   yearWritten: "1653"
   premiered: "1653"
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Duchy of Carniola
@@ -524,7 +524,7 @@
   yearPrinted: null
   yearWritten: "1656"
   premiered: 1656-06
-  verse: true
+  form: verse
   genre: drama
   genreQid: Q25372
   region: Duchy of Carniola
@@ -556,7 +556,7 @@
   yearPrinted: null
   yearWritten: "1659"
   premiered: 1659-02-20
-  verse: true
+  form: verse
   genre: drama
   genreQid: Q25372
   region: Duchy of Carniola
@@ -588,7 +588,7 @@
   yearPrinted: null
   yearWritten: "1654"
   premiered: 1654-04-03
-  verse: true
+  form: verse
   genre: drama
   genreQid: Q25372
   region: Duchy of Carniola
@@ -619,7 +619,7 @@
   yearPrinted: null
   yearWritten: "1649"
   premiered: "1649"
-  verse: true
+  form: verse
   genre: drama
   genreQid: Q25372
   region: Duchy of Carniola
@@ -650,7 +650,7 @@
   yearPrinted: null
   yearWritten: "1723"
   premiered: "1723"
-  verse: true
+  form: verse
   genre: drama
   genreQid: Q25372
   region: Duchy of Carniola
@@ -681,7 +681,7 @@
   yearPrinted: null
   yearWritten: "1646"
   premiered: "1646"
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Duchy of Carniola
@@ -712,7 +712,7 @@
   yearPrinted: null
   yearWritten: "1658"
   premiered: not before 1658-08-14, not after 1658-08-16
-  verse: true
+  form: verse
   genre: drama
   genreQid: Q25372
   region: Duchy of Carniola
@@ -743,7 +743,7 @@
   yearPrinted: null
   yearWritten: "1656"
   premiered: 1656-02
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Duchy of Carniola
@@ -776,7 +776,7 @@
   yearPrinted: null
   yearWritten: "1655"
   premiered: 1655-03-26
-  verse: true
+  form: verse
   genre: drama
   genreQid: Q25372
   region: Duchy of Carniola
@@ -809,7 +809,7 @@
   yearPrinted: null
   yearWritten: "1655"
   premiered: 1655-02
-  verse: true
+  form: verse
   genre: drama
   genreQid: Q25372
   region: Duchy of Carniola
@@ -842,7 +842,7 @@
   yearPrinted: null
   yearWritten: "1649"
   premiered: 1649-02
-  verse: true
+  form: verse
   genre: drama
   genreQid: Q25372
   region: Duchy of Carniola
@@ -875,7 +875,7 @@
   yearPrinted: null
   yearWritten: "1655"
   premiered: 1655-06-02
-  verse: true
+  form: verse
   genre: drama
   genreQid: Q25372
   region: Duchy of Carniola
@@ -909,7 +909,7 @@
   yearPrinted: null
   yearWritten: "1640"
   premiered: "1640"
-  verse: true
+  form: verse
   genre: drama
   genreQid: Q25372
   region: Duchy of Carniola
@@ -942,7 +942,7 @@
   yearPrinted: null
   yearWritten: "1651"
   premiered: not before 1651-05-02, not after 1651-05-03
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Duchy of Carniola
@@ -987,7 +987,7 @@
   yearPrinted: "1552"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: Christian drama
   genreQid: Q5110327
   region: Low Countries
@@ -1042,7 +1042,7 @@
   yearPrinted: "1553"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -1098,7 +1098,7 @@
   yearPrinted: "1553"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -1152,7 +1152,7 @@
   yearPrinted: "1552"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: Christian drama
   genreQid: Q5110327
   region: Low Countries
@@ -1211,7 +1211,7 @@
   yearPrinted: "1553"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -1266,7 +1266,7 @@
   yearPrinted: "1552"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: drama
   genreQid: Q25372
   region: Low Countries
@@ -1324,7 +1324,7 @@
   yearPrinted: "1554"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: Christian drama
   genreQid: Q5110327
   region: Low Countries
@@ -1378,7 +1378,7 @@
   yearPrinted: "1556"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: Christian drama
   genreQid: Q5110327
   region: Low Countries
@@ -1433,7 +1433,7 @@
   yearPrinted: "1553"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: Christian drama
   genreQid: Q5110327
   region: Low Countries
@@ -1492,7 +1492,7 @@
   yearPrinted: "1552"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: Christian drama
   genreQid: Q5110327
   region: Low Countries
@@ -1551,7 +1551,7 @@
   yearPrinted: "1553"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -1606,7 +1606,7 @@
   yearPrinted: "1553"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -1661,7 +1661,7 @@
   yearPrinted: "1587"
   yearWritten: "1569"
   premiered: not before 1569-08-19, not after 1587-08-08
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Czech lands
@@ -1708,7 +1708,7 @@
   yearPrinted: null
   yearWritten: "1720"
   premiered: 1720-06
-  verse: true
+  form: verse
   genre: School drama
   genreQid: Q130719081
   region: Czech lands
@@ -1724,7 +1724,6 @@
     supervisor: Magdaléna Jacková
   source:
     title: Theatrum Neolatinum
-    url: https://www.theatrum-neolatinum.cz/pdf/pallas/Amicitia/Amicitia_text.pdf
     type: PDF
     source:
       title: "Magdaléna Jacková: Nejmírnější Pallas. Hry určené gramatikálním třídám
@@ -1758,7 +1757,7 @@
   yearPrinted: "1616"
   yearWritten: not before 1615, not after 1616
   premiered: 1616-02-08
-  verse: true
+  form: verse
   genre: Jesuit drama
   genreQid: Q6188035
   region: Czech lands
@@ -1813,7 +1812,7 @@
   yearPrinted: null
   yearWritten: "1732"
   premiered: "1732"
-  verse: true
+  form: verse
   genre: School drama
   genreQid: Q130719081
   region: Czech lands
@@ -1860,7 +1859,7 @@
   yearPrinted: null
   yearWritten: "1740"
   premiered: 1740-06-01
-  verse: true
+  form: verse
   genre: School drama
   genreQid: Q130719081
   region: Czech lands
@@ -1910,7 +1909,7 @@
   yearPrinted: null
   yearWritten: "1735"
   premiered: "1735"
-  verse: true
+  form: verse
   genre: School drama
   genreQid: Q130719081
   region: Czech lands
@@ -1958,7 +1957,7 @@
   yearPrinted: "1716"
   yearWritten: not after 1714
   premiered: null
-  verse: true
+  form: verse
   genre: Jesuit drama
   genreQid: Q6188035
   region: Czech lands
@@ -2004,7 +2003,7 @@
   yearPrinted: null
   yearWritten: "1729"
   premiered: 1729-05-27
-  verse: true
+  form: verse
   genre: School drama
   genreQid: Q130719081
   region: Czech lands
@@ -2050,7 +2049,7 @@
   yearPrinted: null
   yearWritten: "1731"
   premiered: 1731-05-21
-  verse: true
+  form: verse
   genre: School drama
   genreQid: Q130719081
   region: Czech lands
@@ -2098,7 +2097,7 @@
   yearPrinted: null
   yearWritten: "1734"
   premiered: "1734"
-  verse: true
+  form: verse
   genre: School drama
   genreQid: Q130719081
   region: Czech lands
@@ -2147,7 +2146,7 @@
   yearPrinted: null
   yearWritten: "1731"
   premiered: 1731-06-30
-  verse: true
+  form: verse
   genre: School drama
   genreQid: Q130719081
   region: Czech lands
@@ -2198,7 +2197,7 @@
   yearPrinted: "1607"
   yearWritten: "1607"
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Czech lands
@@ -2246,7 +2245,7 @@
   yearPrinted: not before 1606, not after 1607
   yearWritten: "1607"
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Czech lands
@@ -2292,7 +2291,7 @@
   yearPrinted: null
   yearWritten: "1729"
   premiered: 1729-05-17
-  verse: true
+  form: verse
   genre: School drama
   genreQid: Q130719081
   region: Czech lands
@@ -2341,7 +2340,7 @@
   yearPrinted: null
   yearWritten: "1724"
   premiered: "1724"
-  verse: true
+  form: verse
   genre: School drama
   genreQid: Q130719081
   region: Czech lands
@@ -2390,7 +2389,7 @@
   yearPrinted: null
   yearWritten: "1729"
   premiered: 1729-05-21
-  verse: true
+  form: verse
   genre: School drama
   genreQid: Q130719081
   region: Czech lands
@@ -2438,7 +2437,7 @@
   yearPrinted: "1706"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Holy Roman Empire
@@ -2481,7 +2480,7 @@
   yearPrinted: "1549"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Holy Roman Empire
@@ -2523,7 +2522,7 @@
   yearPrinted: "1599"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Holy Roman Empire
@@ -2563,7 +2562,7 @@
   yearPrinted: "1534"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -2606,7 +2605,7 @@
   yearPrinted: "1621"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Kingdom of France
@@ -2649,7 +2648,7 @@
   yearPrinted: "1559"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: null
@@ -2688,7 +2687,7 @@
   yearPrinted: "1519"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -2730,7 +2729,7 @@
   yearPrinted: "1563"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -2769,7 +2768,7 @@
   yearPrinted: "1543"
   yearWritten: null
   premiered: "1540"
-  verse: true
+  form: verse
   genre: tragicomedy
   genreQid: Q192881
   region: Kingdom of England
@@ -2808,7 +2807,7 @@
   yearPrinted: "1556"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Low Countries
@@ -2848,7 +2847,7 @@
   yearPrinted: "1556"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Low Countries
@@ -2889,7 +2888,7 @@
   yearPrinted: "1611"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Low Countries
@@ -2928,7 +2927,7 @@
   yearPrinted: "1537"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -2971,7 +2970,7 @@
   yearPrinted: "1497"
   yearWritten: null
   premiered: null
-  verse: false
+  form: prose
   genre: comedy
   genreQid: Q40831
   region: Kingdom of Italy
@@ -3019,7 +3018,7 @@
   yearPrinted: not before 1523, not after 1524
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Holy Roman Empire
@@ -3065,7 +3064,7 @@
   yearPrinted: "1628"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Low Countries
@@ -3107,7 +3106,7 @@
   yearPrinted: "1617"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Low Countries
@@ -3147,7 +3146,7 @@
   yearPrinted: "1628"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Low Countries
@@ -3189,7 +3188,7 @@
   yearPrinted: "1610"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Low Countries
@@ -3229,7 +3228,7 @@
   yearPrinted: "1628"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Low Countries
@@ -3271,7 +3270,7 @@
   yearPrinted: "1628"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Low Countries
@@ -3313,7 +3312,7 @@
   yearPrinted: "1628"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Low Countries
@@ -3356,7 +3355,7 @@
   yearPrinted: "1590"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: null
@@ -3395,7 +3394,7 @@
   yearPrinted: "1539"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -3434,7 +3433,7 @@
   yearPrinted: "1535"
   yearWritten: null
   premiered: null
-  verse: false
+  form: prose
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -3473,7 +3472,7 @@
   yearPrinted: "1534"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -3519,7 +3518,7 @@
   yearPrinted: "1599"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Holy Roman Empire
@@ -3558,7 +3557,7 @@
   yearPrinted: "1593"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: null
@@ -3598,7 +3597,7 @@
   yearPrinted: "1589"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Kingdom of France
@@ -3637,7 +3636,7 @@
   yearPrinted: "1618"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -3680,7 +3679,7 @@
   yearPrinted: "1618"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragicomedy
   genreQid: Q192881
   region: Low Countries
@@ -3723,7 +3722,7 @@
   yearPrinted: "1618"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -3764,7 +3763,7 @@
   yearPrinted: "1618"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -3807,7 +3806,7 @@
   yearPrinted: "1618"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -3849,7 +3848,7 @@
   yearPrinted: "1607"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -3889,7 +3888,7 @@
   yearPrinted: "1614"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -3930,7 +3929,7 @@
   yearPrinted: "1614"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -3971,7 +3970,7 @@
   yearPrinted: "1614"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -4012,7 +4011,7 @@
   yearPrinted: "1614"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -4053,7 +4052,7 @@
   yearPrinted: "1618"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -4096,7 +4095,7 @@
   yearPrinted: "1618"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -4138,7 +4137,7 @@
   yearPrinted: "1614"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -4179,7 +4178,7 @@
   yearPrinted: "1618"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -4221,7 +4220,7 @@
   yearPrinted: "1614"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -4262,7 +4261,7 @@
   yearPrinted: "1618"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -4304,7 +4303,7 @@
   yearPrinted: "1618"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -4347,7 +4346,7 @@
   yearPrinted: "1618"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -4388,7 +4387,7 @@
   yearPrinted: "1579"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Holy Roman Empire
@@ -4432,7 +4431,7 @@
   yearPrinted: "1550"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Holy Roman Empire
@@ -4473,7 +4472,7 @@
   yearPrinted: "1620"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -4514,7 +4513,7 @@
   yearPrinted: "1610"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: INFORMATION NEEDED
@@ -4553,7 +4552,7 @@
   yearPrinted: "1624"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: INFORMATION NEEDED
@@ -4594,7 +4593,7 @@
   yearPrinted: "1656"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: INFORMATION NEEDED
@@ -4633,7 +4632,7 @@
   yearPrinted: "1541"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -4672,7 +4671,7 @@
   yearPrinted: "1657"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: School drama
   genreQid: Q130719081
   region: Low Countries
@@ -4716,7 +4715,7 @@
   yearPrinted: "1544"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragicomedy
   genreQid: Q192881
   region: Low Countries
@@ -4760,7 +4759,7 @@
   yearPrinted: "1601"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Low Countries
@@ -4801,7 +4800,7 @@
   yearPrinted: "1630"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Low Countries
@@ -4842,7 +4841,7 @@
   yearPrinted: "1608"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Low Countries
@@ -4882,7 +4881,7 @@
   yearPrinted: "1635"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Low Countries
@@ -4924,7 +4923,7 @@
   yearPrinted: "1602"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Low Countries
@@ -4966,7 +4965,7 @@
   yearPrinted: "1632"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Low Countries
@@ -5006,7 +5005,7 @@
   yearPrinted: "1556"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Low Countries
@@ -5040,7 +5039,7 @@
   yearPrinted: "1550"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: INFORMATION NEEDED
   genreQid: INFORMATION NEEDED
   region: Low Countries
@@ -5079,7 +5078,7 @@
   yearPrinted: "1506"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Low Countries
@@ -5123,7 +5122,7 @@
   yearPrinted: "1658"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Low Countries
@@ -5164,7 +5163,7 @@
   yearPrinted: "1603"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: tragedy
   genreQid: Q80930
   region: Low Countries
@@ -5208,7 +5207,7 @@
   yearPrinted: "1539"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries
@@ -5249,7 +5248,7 @@
   yearPrinted: "1533"
   yearWritten: null
   premiered: null
-  verse: true
+  form: verse
   genre: comedy
   genreQid: Q40831
   region: Low Countries

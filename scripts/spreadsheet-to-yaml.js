@@ -178,7 +178,7 @@ records.forEach(r => {
     yearPrinted: print(r.Printed),
     yearWritten: print(r.Written),
     premiered: print(r.Premiered),
-    verse: !!r['Prose/verse'].match(/verse/),
+    form: print(r['Prose/verse']) || undefined,
     genre: print(r.Genre),
     genreQid: print(r['Genre Wikidata ID']),
     region: print(r.Region),
@@ -195,6 +195,7 @@ records.forEach(r => {
     transcription,
     acknowledgements: print(r['Acknowledgements']) || undefined,
     institution: print(r['Institution']) || undefined,
+
     source,
   };
 
