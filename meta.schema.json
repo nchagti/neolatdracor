@@ -65,7 +65,7 @@
         },
         "required": ["status"]
       },
-      "licenseNotes": { "type": ["string", "null"] },
+      "licenceNotes": { "type": ["string", "null"] },
       "source": {
         "$ref": "#/definitions/source",
         "description": "Each entry needs one main source. Sources can be nested"
@@ -113,7 +113,7 @@
       "project",
       "status",
       "availability",
-      "licenseNotes",
+      "licenceNotes",
       "complete"
     ]
   },

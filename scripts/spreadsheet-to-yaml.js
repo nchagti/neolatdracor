@@ -191,7 +191,7 @@ records.forEach(r => {
       status: print(r['Availability status']),
       notes: print(r['Notes on availability status']) || undefined,
     },
-    licenseNotes: print(r['Licence-related notes']),
+    licenceNotes: print(r['Licence-related notes']),
     transcription,
     acknowledgements: print(r['Acknowledgements']) || undefined,
     institution: print(r['Institution']) || undefined,
