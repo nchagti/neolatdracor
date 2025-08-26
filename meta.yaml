@@ -33,7 +33,7 @@
     year: "1556"
     url: https://viewer.onb.ac.at/107D434D/111
     type: print
-  complete: false
+  complete: true
   _includeDocx: false
 - id: neolat000041
   name: camerarius-senior-electra
@@ -68,7 +68,7 @@
     year: "1556"
     url: https://viewer.onb.ac.at/107D434D/261
     type: print
-  complete: false
+  complete: true
   _includeDocx: false
 - id: neolat000010
   name: anonymus-amor-parentum
@@ -2583,7 +2583,7 @@
       year: "1534"
       url: https://books.google.nl/books?id=VD44U0886h0C
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000006
   name: caussinus-felicitas
@@ -2663,9 +2663,9 @@
       title: "Dido. Tragoedia nova. Authore Aulo Gerardo Dalantho Heusdano. Antwerpen:
         Iohannes Latius 1559."
       year: "1559"
-      url: INFORMATION NEEDED
+      url: https://books.google.nl/books?id=coIYVWHUOpEC
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000060
   name: eucharius-grisellis
@@ -2707,7 +2707,7 @@
       year: "1519"
       url: https://books.google.be/books?vid=GENT900000083758
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000061
   name: eucolus-soter-gloriosus
@@ -2745,7 +2745,7 @@
       year: "1563"
       url: https://www.google.de/books/edition/Comoedia_nova_ac_sacra_cvi_titvlvs_soter/yq0TAAAAQAAJ?hl=de
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000069
   name: grimoaldus-christus-redivivus
@@ -2785,7 +2785,7 @@
       year: "1543"
       url: http://daten.digitale-sammlungen.de/0001/bsb00015084/images/index.html?id=00015084&groesser=&fip=qrsfsdrqrsxdsydeayaqrsyztsxdsydewqqrs&no=118&seite=1
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000077
   name: holonius-catharina
@@ -2825,7 +2825,7 @@
       year: "1556"
       url: https://www.digitale-sammlungen.de/view/bsb00016452?page=%2C1
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000079
   name: holonius-laurentias
@@ -2865,7 +2865,7 @@
       year: "1556"
       url: https://www.digitale-sammlungen.de/de/view/bsb00016451?page=,1
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000080
   name: honerdus-thamara
@@ -2905,7 +2905,7 @@
       year: "1611"
       url: https://books.google.nl/books?id=eXQ603cHK6MC
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000082
   name: ischyrius-homulus
@@ -2948,7 +2948,7 @@
       year: "1537"
       url: https://reader.digitale-sammlungen.de/resolve/display/bsb11377619.html
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000088
   name: knuyt-de-slyterhoven-scornetta
@@ -2996,7 +2996,7 @@
         year: "1497"
         url: https://gallica.bnf.fr/ark:/12148/bpt6k1280094x
         type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000002
   name: locher-iudicium-paridis
@@ -3083,7 +3083,7 @@
       year: "1628"
       url: https://books.google.nl/books?id=3Wg-AAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000093
   name: lummenaeus-amnon
@@ -3123,7 +3123,7 @@
       year: "1617"
       url: https://books.google.nl/books?id=jTCaKMTHN2AC
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000094
   name: lummenaeus-bustum-sodomae
@@ -3165,7 +3165,7 @@
       year: "1628"
       url: https://books.google.nl/books?id=3Wg-AAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000095
   name: lummenaeus-carcer-babylonius
@@ -3205,7 +3205,7 @@
       year: "1610"
       url: https://books.google.nl/books?id=Te4UAAAAQAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000096
   name: lummenaeus-iephte
@@ -3247,7 +3247,7 @@
       year: "1628"
       url: https://books.google.nl/books?id=3Wg-AAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000097
   name: lummenaeus-sampson
@@ -3289,7 +3289,7 @@
       year: "1628"
       url: https://books.google.nl/books?id=3Wg-AAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000003
   name: lummenaeus-saul
@@ -3369,9 +3369,9 @@
       title: "M. A. Mureti Iulius Caesar. In: M. A. Mureti Iuuenalia. Barth: Officina
         principis 1590. pp. 17–40."
       year: "1590"
-      url: https://books.google.nl/books?id=gvQ7AAAAcAAJ
+      url: https://mdz-nbn-resolving.de/details:bsb10190276
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000115
   name: papaeus-samarites
@@ -3411,7 +3411,7 @@
       year: "1539"
       url: https://books.google.nl/books?id=sFtYAAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000118
   name: placentius-clericus-eques
@@ -3450,7 +3450,7 @@
       year: "1535"
       url: https://books.google.nl/books?id=nmZPAAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000004
   name: placentius-susanna
@@ -3535,7 +3535,7 @@
       year: "1599"
       url: https://books.google.nl/books?id=3ARXAAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000127
   name: roulerius-stuarta
@@ -3574,7 +3574,7 @@
       editor: Roman Woerner
       year: "1906"
       type: critical edition
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000129
   name: salius-nassovius
@@ -3614,7 +3614,7 @@
       year: "1589"
       url: https://gallica.bnf.fr/ark:/12148/bpt6k134076p
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000131
   name: schonaeus-ananias
@@ -3656,7 +3656,7 @@
       year: "1618"
       url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000132
   name: schonaeus-baptistes
@@ -3699,7 +3699,7 @@
       year: "1618"
       url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000133
   name: schonaeus-cunae
@@ -3741,7 +3741,7 @@
       year: "1618"
       url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000134
   name: schonaeus-daniel
@@ -3783,7 +3783,7 @@
       year: "1618"
       url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000135
   name: schonaeus-dyscoli
@@ -3825,7 +3825,7 @@
       year: "1618"
       url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000136
   name: schonaeus-fabula-comica
@@ -3866,7 +3866,7 @@
       year: "1607"
       url: https://books.google.nl/books?id=-PYvx8JL4DAC
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000137
   name: schonaeus-iosephus
@@ -3907,7 +3907,7 @@
       year: "1614"
       url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000138
   name: schonaeus-iuditha
@@ -3948,7 +3948,7 @@
       year: "1614"
       url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000139
   name: schonaeus-naaman
@@ -3989,7 +3989,7 @@
       year: "1614"
       url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000140
   name: schonaeus-nehemias
@@ -4030,7 +4030,7 @@
       year: "1614"
       url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000141
   name: schonaeus-pentecoste
@@ -4072,7 +4072,7 @@
       year: "1618"
       url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000142
   name: schonaeus-pseudostratiotae
@@ -4115,7 +4115,7 @@
       year: "1618"
       url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000143
   name: schonaeus-saulus
@@ -4156,7 +4156,7 @@
       year: "1614"
       url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000144
   name: schonaeus-susanna
@@ -4198,7 +4198,7 @@
       year: "1618"
       url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000145
   name: schonaeus-tobaeus
@@ -4239,7 +4239,7 @@
       year: "1614"
       url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000146
   name: schonaeus-triumphus-christi
@@ -4281,7 +4281,7 @@
       year: "1618"
       url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000147
   name: schonaeus-typhlus
@@ -4323,7 +4323,7 @@
       year: "1618"
       url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000148
   name: schonaeus-vitulus
@@ -4365,7 +4365,7 @@
       year: "1618"
       url: https://books.google.nl/books?id=r-ZIAAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000152
   name: stymmelius-de-immolatione-isaac
@@ -4408,7 +4408,7 @@
       year: "1579"
       url: https://google.com/books/reader?id=9gg8AAAAcAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000153
   name: stymmelius-studentes
@@ -4450,7 +4450,7 @@
       year: "1550"
       url: https://mateo.uni-mannheim.de/camena/stummel1/te01.html
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000154
   name: susius-pendularia
@@ -4491,7 +4491,7 @@
       year: "1620"
       url: https://books.google.nl/books?id=Ad4TAAAAQAAJ
       type: print
-  complete: false
+  complete: true
   _includeDocx: true
 - id: neolat000160
   name: vernulaeus-gorcomienses
@@ -4994,21 +4994,23 @@
   region: Low Countries
   regionQid: Q476033
   project: null
-  status: .pdf (print)
+  status: .docx
   availability:
-    status: null
-  licenceNotes: Public domain
+    status: free
+  licenceNotes: Public domain, permission granted by TransLatin chief
   transcription:
-    by: TO BE ADDED
-    supervisor: TO BE ADDED
-    software: TO BE ADDED
+    by: Jan Bloemendal
+    supervisor: null
   source:
-    title: "Gregorii Holonii Leodiensis Lambertias. Tragoedia de oppressione B.
-      Lamberti Traiecten quondam Ecclesiae, quae nunc Leodium translata est,
-      Episcopi & Martyris gloriosissimi. Antwerpen: Ioannes Bellerus 1556."
-    year: "1556"
-    url: http://daten.digitale-sammlungen.de/~db/0001/bsb00016450/images/
-    type: print
+    title: TransLatin
+    editor: Jan Bloemendal
+    source:
+      title: "Gregorii Holonii Leodiensis Lambertias. Tragoedia de oppressione B.
+        Lamberti Traiecten quondam Ecclesiae, quae nunc Leodium translata est,
+        Episcopi & Martyris gloriosissimi. Antwerpen: Ioannes Bellerus 1556."
+      year: "1556"
+      url: http://daten.digitale-sammlungen.de/~db/0001/bsb00016450/images/
+      type: print
   complete: true
   _includeDocx: false
 - id: neolat000111
