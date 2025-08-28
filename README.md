@@ -3,14 +3,14 @@
 ## General Information
 
 Neo-Latin Drama Corpus, dramatic texts in [TEI P5](https://tei-c.org/guidelines/p5/) format. Licenced under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).  
-Edited by Julia Jennifer Beine (Ruhr University Bochum), maintained by Ingo Börner (University of Potsdam), Frank Fischer (Freie Universität Berlin), and Carsten Milling (University of Potsdam). The texts in the Neo-Latin Drama Corpus were encoded and contributed by different working groups. Legal responsibility lies with the editors of the subcorpora. The responsiblities and corpus details are documented below.
+Edited by Julia Jennifer Beine (Julius-Maximilians-Universität Würzburg), maintained by Ingo Börner (University of Potsdam), Frank Fischer (Freie Universität Berlin), and Carsten Milling (University of Potsdam). The texts in the Neo-Latin Drama Corpus were encoded and contributed by different working groups. Legal responsibility lies with the editors of the subcorpora. The responsiblities and corpus details are documented below.
 
 ## Contributing Working Groups
 
 (in alphabetical order)
 
 ### Camerarius digital
-editor(s): Thomas Baier, Joachim Hamm, Ulrich Schlegelmilch (all Julius-Maximilians-Universität of Würzburg)  
+editor(s): Thomas Baier, Joachim Hamm, Ulrich Schlegelmilch (all Julius-Maximilians-Universität Würzburg)  
 encoder(s): tba  
 text selection in alphabetical order: Aiax lora gestans (1556), Electra (1556)  
 number of texts: 2  
@@ -43,7 +43,7 @@ status: work in progress
 website: tba
 
 ### Macropedius Drama Corpus
-editor(s): Julia Jennifer Beine (Ruhr University Bochum)  
+editor(s): Julia Jennifer Beine (Julius-Maximilians-Universität Würzburg)  
 encoders: Timo Bremer, Christina Charalampidou, Carina Christensen, Leon Fabian Gleser, Miriam Göbel, Steffen Gutbier, Joshua Mährmann, Kassandra Marie Stangel, Nina Straub, Rabea Klara Sülz, Mareike Urbanek, Paula van Bonn (all Ruhr University Bochum); Daina-Sophia Münch (Freie Universität Berlin)  
 text selection in alphabetical order: Adamus (1552), Aluta (1553), Andrisca (1553), Asotus (1552), Bassarus (1553), Hecastus (1552), Hypomone seu patientia (1554), Iesus scholasticus (1556), Iosephus (1553), Lazarus mendicus (1552), Petriscus (1553), Rebelles (1553)  
 number of texts: 12  
