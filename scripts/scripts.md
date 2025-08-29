@@ -1,11 +1,11 @@
 # Meta Data Scripts
 
-This repo uses several Nodejs scripts to maintain the meta data file
+This directory houses contains Nodejs scripts to handle the meta data from
 [meta.yaml](meta.yaml).
 
 ## Prerequisites
 
-To run the script [Nodejs](https://nodejs.org/en/download) needs to be
+To run the scripts [Nodejs](https://nodejs.org/en/download) needs to be
 installed. To be able to use the [pnpm](https://pnpm.io) package manager run
 `corepack enable pnpm` once.
 
@@ -18,10 +18,6 @@ pnpm install
 ```
 
 ## Scripts
-
-### `pnpm run yaml`
-
-This command compiles the meta.yaml file from the original Google spreadsheet.
 
 ### `pnpm run overview`
 
