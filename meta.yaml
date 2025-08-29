@@ -452,7 +452,7 @@
   complete: false
   _includeDocx: false
 - id: neolat000022
-  name: anonymus-manus-d-nicolai-myrensis-episcopi
+  name: anonymus-manus-nicolai-myrensis-episcopi
   title: Manus D. Nicolai Myrensis Episcopi zelo fidei in Arii haeresim armata
   qid: null
   authors:
@@ -483,7 +483,7 @@
   complete: false
   _includeDocx: false
 - id: neolat000023
-  name: anonymus-marius-et-martha-coniuges
+  name: anonymus-marius-et-martha
   title: Marius, et Martha, coniuges cum filiis audiface, et Abachum e Perside
     principes tragoedia
   qid: null
@@ -735,7 +735,7 @@
   complete: false
   _includeDocx: false
 - id: neolat000031
-  name: anonymus-tyrannis-in-herode-repraesentata
+  name: anonymus-tyrannis-in-herode
   title: Tyrannis In Herode repraesentata Ludis Saturnalibus
   qid: null
   authors:
@@ -1938,7 +1938,7 @@
   complete: false
   _includeDocx: false
 - id: neolat000089
-  name: kolczawa-veritas-prostrata
+  name: kolczawa-veritas-prostrata-et-erecta
   title: Veritas prostrata et erecta, S. Joannes Baptista
   qid: null
   authors:
