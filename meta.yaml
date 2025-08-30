@@ -3665,7 +3665,7 @@
       year: INFORMATION NEEDED
       type: critical edition
       source:
-        title: null
+        title: INFORMATION NEEDED
         url: https://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_%2BZ175237401
         type: print
   complete: false
@@ -3708,7 +3708,7 @@
       year: "1928"
       type: critical edition
       source:
-        title: null
+        title: INFORMATION NEEDED
         url: https://humanistica-helvetica.unifr.ch/fr/works/136
         type: print
   complete: false
@@ -3752,7 +3752,7 @@
       year: INFORMATION NEEDED
       type: critical edition
       source:
-        title: null
+        title: INFORMATION NEEDED
         url: https://humanistica-helvetica.unifr.ch/fr/works/129
         type: print
   complete: false
@@ -4653,7 +4653,7 @@
   yearPrinted: INFORMATION NEEDED
   yearWritten: null
   premiered: null
-  form: INFORMATION NEEDED
+  form: mixed # INFORMATION NEEDED
   genre: tragedy
   genreQid: Q80930
   region: INFORMATION NEEDED
@@ -5946,7 +5946,7 @@
   yearPrinted: "1587"
   yearWritten: null
   premiered: null
-  form: INFORMATION NEEDED
+  form: mixed # INFORMATION NEEDED
   genre: tragedy
   genreQid: Q80930
   region: INFORMATION NEEDED
@@ -5967,7 +5967,7 @@
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Simonides-Castus.docx
     type: DOCX
     source:
-      title: null
+      title: INFORMATION NEEDED
       url: https://jbc.bj.uj.edu.pl/dlibra/publication/102244/edition/95250/content?ref=desc&format_id=2
       type: print
   complete: false
@@ -6451,7 +6451,7 @@
     url: https://github.com/HuygensING/translatin/blob/main/datasource/transcriptions/docx/Wimpheling-Stylpho.docx
     type: DOCX
     source:
-      title: null
+      title: INFORMATION NEEDED
       url: https://portail.biblissima.fr/ark:/43093/edata7dd4814e1d6f7570449dbbd5d49465ebe9c71e27
       type: print
   complete: false
