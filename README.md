@@ -3,7 +3,7 @@
 ## General Information
 
 Neo-Latin Drama Corpus, dramatic texts in [TEI P5](https://tei-c.org/guidelines/p5/) format. Licenced under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).  
-Edited by Julia Jennifer Beine (Julius-Maximilians-Universität Würzburg), maintained by Ingo Börner (University of Potsdam), Frank Fischer (Freie Universität Berlin), and Carsten Milling (University of Potsdam). The texts in the Neo-Latin Drama Corpus were encoded and contributed by different working groups. Legal responsibility lies with the editors of the subcorpora. The responsiblities and corpus details are documented below.
+Edited by Julia Jennifer Beine (Julius-Maximilians-Universität Würzburg), maintained by Ingo Börner (University of Potsdam) and Carsten Milling (University of Potsdam). The texts in the Neo-Latin Drama Corpus were encoded and contributed by different working groups. Legal responsibility lies with the editors of the subcorpora. The responsiblities and corpus details are documented below.
 
 ## Contributing Working Groups
 
