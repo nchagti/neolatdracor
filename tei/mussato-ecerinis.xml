@@ -18,9 +18,6 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <!-- ODD should be updated to reflect that publicationStmt is required -->
-            <authority> </authority>
-            <!-- who is the authority here? -->
             <publisher xml:id="dracor">DraCor</publisher>
             <idno type="URL">https://dracor.org</idno>
             <availability>
@@ -28,14 +25,15 @@
                   <ab>CC0 1.0</ab>
                   <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
                </licence>
+               <p>Thanks to Martina Venuti from MQDQ Galaxy for authorizing this digitization</p>
             </availability>
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalsource">
-               <name>Musisque Deoque</name>
-               <idno type="URL">http://www.mqdq.it</idno>
+               <name>Albertino Mussato <emph>Ecerinis</emph></name>
+               <idno type="URL">https://www.poetiditalia.it/texts/MUSSATO|ecer|001</idno>
                <availability status="free">
-                  <p>The editions published under the research project <emph>Musisque Deoque. A
+                  <p>The editions published under the research project <emph>Musisque Deoque: A
                         digital archive of Latin poetry, from its origins to the Italian
                         Renaissance</emph> are distributed under the Creative Commons
                      Attribution-ShareAlike 4.0 Unported License </p>
@@ -51,29 +49,28 @@
          <particDesc>
             <listPerson>
                <person xml:id="Ecerinus" sex="MALE" ana="https://www.wikidata.org/wiki/Q787178">
-                  <persName xml:lang="lat">Ecerinus</persName>
-                  <!-- should I remove the xml:lang? -->
+                  <persName>Ecerinus</persName>
                </person>
                <person xml:id="Adelheita" sex="FEMALE">
-                  <persName xml:lang="lat">Adelheita</persName>
+                  <persName>Adelheita</persName>
                </person>
                <person xml:id="Albricus" sex="MALE">
-                  <persName xml:lang="lat">Albricus</persName>
+                  <persName>Albricus</persName>
                </person>
                <personGrp xml:id="Chorus" sex="Unknown" role="chorus">
                   <name>Chorus</name>
                </personGrp>
                <person xml:id="Nuntius" sex="MALE">
-                  <persName role="messenger" xml:lang="lat">Nuntius</persName>
+                  <persName role="messenger">Nuntius</persName>
                </person>
                <person xml:id="Ziramons" sex="MALE">
-                  <persName xml:lang="lat">Ziramons</persName>
+                  <persName>Ziramons</persName>
                </person>
                <person xml:id="FraterLucas" sex="MALE">
-                  <persName role="friar" xml:lang="lat">Frater Lucas</persName>
+                  <persName role="friar">Frater Lucas</persName>
                </person>
                <person xml:id="Ansedisius" sex="MALE">
-                  <persName xml:lang="lat">Ansedisius</persName>
+                  <persName>Ansedisius</persName>
                </person>
                <personGrp xml:id="Commilitones" sex="MALE" role="soldiers">
                   <name>Commilitones</name>
@@ -104,45 +101,6 @@
       </listEvent>
    </standOff>
    <text>
-      <!-- The cast list and role descriptions are only present in Gary Grund's printed translation of Ecerinis and not in the Poeti d'Italia digital source. Should this be removed?
-            <front>
-            <div type="Dramatis_Personae">
-            <castList>
-               <castItem type="role">
-                  <role sameAs="#Adelheita">Adeleita,</role> 
-                  <roleDesc>mother of Ezzelino</roleDesc>
-               </castItem>
-               <castItem type="role">
-                  <role sameAs="#Ecerinus">Ezzelino,</role> 
-                  <roleDesc>her son</roleDesc>
-               </castItem>
-               <castItem type="role">
-                  <role sameAs="#Albricus">Alberico,</role> 
-                  <roleDesc>her son, brother of Ezzelino</roleDesc>
-               </castItem>
-               <castItem type="role">
-                  <role sameAs="#Ziramons">Ziramonte,</role> 
-                  <roleDesc>half brother of Ezzelino</roleDesc>
-               </castItem>
-               <castItem type="role">
-                  <role sameAs="#FraterLucas">Friar Luca</role>
-               </castItem>
-               <castItem type="role">
-                  <role sameAs="#Ansedisius">Ansedisio,</role> 
-                  <roleDesc>nephew of Ezzelino</roleDesc>
-               </castItem>
-               <castItem type="role">
-                  <role sameAs="#Commilitones">Soldiers</role>
-               </castItem>
-               <castItem type="role">
-                  <role sameAs="#Nuntius">Messenger</role>
-               </castItem>
-               <castItem type="role">
-                  <role sameAs="#Chorus">Chorus</role>
-               </castItem>
-            </castList>
-         </div>
-         </front>-->
       <body>
          <div type="act" n="1">
             <div type="scene" n="1">
